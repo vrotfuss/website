@@ -1,9 +1,14 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Home"
+    url: /
+    description: "Go Home"
+  - title: "Beratung & Begleitung"
+    url: /beratung/
+  - title: "Termine/Honorar"
+    url: /termine/
+  - title: "Über mich"
     url: /about/
+  - title: "Links/Weiterführendes"
+    url: /links/
+  - title: "Kontakt"
+    url: /kontakt/
