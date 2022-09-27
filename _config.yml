@@ -8,42 +8,32 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Veronika Rotfuß
+description: Beratungspraxis
 #email: no@mail.fornow
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+url: https://vrotfuss.github.io
+baseurl: /website
+repository: vrotfuss/website
 github_username: vrotfuss
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
-url: "https://vrotfuss.github.io"
-baseurl: "/website"
-repository: "vrotfuss/website"
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: DE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+timezone: DE
+locale: de-DE
+date_format: "%d.%m.%Y"
 
 include:
   - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -64,10 +54,7 @@ author:
       url: "https://"
 
 footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+  links: []
 
 defaults:
   # _posts
@@ -76,18 +63,28 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+    header:
+      image: "/assets/images/mond.jpg"
+      imagehome: true      
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+    header:
+      image: "/assets/images/mond.jpg"
+      imagehome: true      
 
 category_archive:
   type: liquid
