@@ -1,7 +1,6 @@
 ---
-date: 2022-09-27 16:50:07 +0200
+permalink: /impressum/
 title: Impressum
-
 ---
 Angaben gemäß § 5 TMG
 
