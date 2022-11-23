@@ -1,14 +1,11 @@
 main:
-  - title: "Home"
-    url: /
-    description: "Go Home"
   - title: "Beratung & Begleitung"
     url: /beratung/
-  - title: "Termine/Honorar"
+  - title: "Termine & Honorar"
     url: /termine/
   - title: "Über mich"
     url: /about/
-  - title: "Links/Weiterführendes"
+  - title: "Links & Weiterführendes"
     url: /links/
   - title: "Kontakt"
     url: /kontakt/
