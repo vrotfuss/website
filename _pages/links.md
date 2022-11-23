@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /links/
 title: Links & Weiterführendes
 ---
 
