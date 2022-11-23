@@ -80,8 +80,7 @@ defaults:
       share: false
       related: false
     header:
-      image: "/assets/images/mond.jpg"
-      imagehome: true      
+      image: "https://vrotfuss.github.io/website/assets/images/mond.jpg"
 
 category_archive:
   type: liquid
