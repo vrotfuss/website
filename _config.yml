@@ -64,9 +64,9 @@ defaults:
       comments: false
       share: false
       related: false
-    header:
-      image: "/assets/images/mond.jpg"
-      imagehome: true      
+      header:
+        image: "/assets/images/mond.jpg"
+        imagehome: true      
   # _pages
   - scope:
       path: "_pages"
@@ -80,7 +80,8 @@ defaults:
       share: false
       related: false
       header:
-        image: "https://vrotfuss.github.io/website/assets/images/mond.jpg"
+        image: "/assets/images/mond.jpg"
+        imagehome: true
 
 category_archive:
   type: liquid
