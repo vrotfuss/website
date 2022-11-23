@@ -2,7 +2,7 @@
 permalink: /about/
 title: Über mich
 ---
-![](/assets/images/Vroni_03.jpg)
+![](/website/assets/images/Vroni_03.jpg)
 
 Mein Name ist Veronika Rotfuß, ich bin Jahrgang 1980 und lebe und arbeite in München. Ich habe viele Jahre gebraucht, mich meiner Realität stellen zu können. Mein Körper hat früh davon berichtet, dass ein paar grundlegende Dinge nicht stimmen. Als Teenager hatte ich Neurodermitis und Schwierigkeiten im sozialen Kontakt, als Erwachsene kamen weitere Krankheiten und ein konstant hoher Stresspegel hinzu. Mit Anfang Dreißig fand ich mich zum ersten Mal in einem sicheren Umfeld wieder und konnte langsam erkennen, wie viel in mir stagniert und zersplittert war.
 
