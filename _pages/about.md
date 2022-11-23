@@ -2,6 +2,7 @@
 permalink: /about/
 title: Über mich
 ---
+![](/assets/images/Vroni_03.jpg)
 
 Mein Name ist Veronika Rotfuß, ich bin Jahrgang 1980 und lebe und arbeite in München. Ich habe viele Jahre gebraucht, mich meiner Realität stellen zu können. Mein Körper hat früh davon berichtet, dass ein paar grundlegende Dinge nicht stimmen. Als Teenager hatte ich Neurodermitis und Schwierigkeiten im sozialen Kontakt, als Erwachsene kamen weitere Krankheiten und ein konstant hoher Stresspegel hinzu. Mit Anfang Dreißig fand ich mich zum ersten Mal in einem sicheren Umfeld wieder und konnte langsam erkennen, wie viel in mir stagniert und zersplittert war.
 
@@ -13,8 +14,8 @@ Seit 2022 arbeite ich in eigener Praxis in München. Ich bin ausgebildete Ich-or
 
 Einen Teil meiner Zeit widme ich außerdem seit vielen Jahren einer kulturellen Einrichtung in München, wo ich mit fremdsprachigen Medien und vielen geschätzten Kolleg*innen zusammenarbeite.
 
-2015 – 2022	Regelmäßige Hospitation bei Dagmar Strauß und Helmut Glas
-2020 – 2022 ICH-orientierte Idenditätstherapie (Dagmar Strauß), ein systemischer traumabasierter Ansatz zum Aufbau gesunden Selbstkontakts und der Integration abgespaltener Anteile
-2020 – 2022	Regelmäßig Intervision und Supervision bei Dagmar Strauß und Kollegen
-2022 – 2024	Heilpraktikerin für Psychotherapie – in Ausbildung (bei Adrian Feldhege)
-2023 – 2024	Bodynamic Foundation Training – anerkannte Körperpsychotherapie (bei Michael Rupp und Ditte Marcher)
+- 2015 – 2022	Regelmäßige Hospitation bei Dagmar Strauß und Helmut Glas
+- 2020 – 2022 ICH-orientierte Idenditätstherapie (Dagmar Strauß), ein systemischer traumabasierter Ansatz zum Aufbau gesunden Selbstkontakts und der Integration abgespaltener Anteile
+- 2020 – 2022	Regelmäßig Intervision und Supervision bei Dagmar Strauß und Kollegen
+- 2022 – 2024	Heilpraktikerin für Psychotherapie – in Ausbildung (bei Adrian Feldhege)
+- 2023 – 2024	Bodynamic Foundation Training – anerkannte Körperpsychotherapie (bei Michael Rupp und Ditte Marcher)
