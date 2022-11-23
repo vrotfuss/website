@@ -79,8 +79,8 @@ defaults:
       comments: false
       share: false
       related: false
-    header:
-      image: "https://vrotfuss.github.io/website/assets/images/mond.jpg"
+      header:
+        image: "https://vrotfuss.github.io/website/assets/images/mond.jpg"
 
 category_archive:
   type: liquid
