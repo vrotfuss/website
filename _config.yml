@@ -80,7 +80,7 @@ defaults:
       share: false
       related: false
       header:
-        image: "/assets/images/mond.jpg"
+        image: "/assets/images/1.jpeg"
         imagehome: true
 
 category_archive:
