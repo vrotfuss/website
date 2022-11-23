@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /termine/
 title: Termine & Honorar
 ---
 Termine immer:
