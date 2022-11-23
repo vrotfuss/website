@@ -17,7 +17,7 @@ baseurl: /website
 repository: vrotfuss/website
 github_username: vrotfuss
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
