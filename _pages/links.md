@@ -23,6 +23,8 @@ Bücher
 
 [Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/Vagus-Nerv-als-innerer-Anker-Selbstheilungskr%C3%A4fte/dp/3466347866/ref=sr_1_2?qid=1669666201&refinements=p_27%3ADeb+Dana&s=books&sr=1-2&text=Deb+Dana)
 
+<br>
+
 Videos und Podcasts
 
 [Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)
