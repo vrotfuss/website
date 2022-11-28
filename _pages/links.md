@@ -21,6 +21,8 @@ Luise Reddeman – Die heilende Kraft der Imagination
 
 Deb Dana - Buch
 
-Stephan Porges - 
+Stephan Porges -
+
+Thomas Harms - Bücher, Vorträge, Videos
 
 Esther Perel - Videos
