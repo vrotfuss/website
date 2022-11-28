@@ -5,9 +5,7 @@ title: Über mich
 ---
 ![](/website/assets/images/Vroni_03.jpg)
 
-Ich bin Veronika Rotfuß, Jahrgang 1980, verheiratet und lebe und arbeite in München. Ich habe viele Jahre gebraucht, mich meiner Realität stellen zu können. Mein Körper hat früh davon berichtet, dass ein paar grundlegende Dinge nicht stimmen. Erst als ich mich mit Anfang Dreißig in einem sicheren Umfeld wiederfand, konnte ich langsam erkennen, wie viel in mir stagniert und zersplittert war.
-
-Meiner heutigen Arbeit mit Menschen gehen zehn Jahre Arbeit an mir selbst voraus. Manche Dinge musste ich ganz von vorn lernen, zum Beispiel meine Emotionen zu regulieren, Konflikte aktiv anzugehen, meine Ziele klar zu verfolgen, realistische Ansprüche an mich und andere zu haben, in meinem Körper sicher zu sein, anderen Menschen zu vertrauen, durchzuschlafen, die Kontrolle aufzugeben.
+Ich bin Veronika Rotfuß, Jahrgang 1980, verheiratet und lebe und arbeite in München. Meiner heutigen Arbeit mit Menschen gehen zehn Jahre Arbeit an mir selbst voraus. Mein Körper hat früh davon berichtet, dass ein paar grundlegende Dinge nicht stimmen. Aber erst als ich mich mit Anfang Dreißig in einem sicheren Umfeld wiederfand, konnte ich langsam erkennen, wie viel in mir stagniert und zersplittert war. Manche Dinge musste ich ganz von vorn lernen, zum Beispiel meine Emotionen zu regulieren, Konflikte aktiv anzugehen, meine Ziele klar zu verfolgen, realistische Ansprüche an mich und andere zu haben, gern in meinem Körper zu sein, anderen Menschen zu vertrauen, durchzuschlafen, die Kontrolle aufzugeben.
 
 Verschiedene Therapeuten und Therapeutinnen und unterschiedliche Methoden haben mir dabei geholfen, meine Einzelteile einzusammeln und neugierig zu werden. Ich bin diesen Menschen sowie den Entwicklern bewährter therapeutischer Konzepte und der neurophysiologischen Forschung dankbar und verbunden.
 
