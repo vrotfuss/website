@@ -14,12 +14,13 @@ Ich berate und begleite Menschen bei:
 Entwicklungstrauma   
 Schocktrauma  
 Depressionen   
-Belastungszuständen, Burnout   
+Belastungszuständen und Burnout   
 Psychosomatischen Schmerzen und Krankheiten  
 Selbstablehnung und Selbstverletzung  
 Ängsten   
 Gewalterfahrungen  
 Sexuellem Missbrauch   
-Sucht und Abhängigkeit   
+Sucht und Abhängigkeit nach Entzug  
+Erwachsenen ADHS und gesteigerte Impulsivität  
 Partnerschafts- und Beziehungskonflikten   
 Soziale Isolation und Kontaktschwierigkeiten 
