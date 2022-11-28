@@ -25,7 +25,7 @@ Erwachsenen ADHS und gesteigerte Impulsivität
 Partnerschafts- und Beziehungskonflikten  
 Soziale Isolation und Kontaktschwierigkeiten
 
-Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen oder die Fähigkeit, Konflikte fair und authentisch einzugehen. Es sind Reifungsgrade, die in kleinen Schritten in unseren ersten Lebensjahren entstehen, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.
+Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen oder die Fähigkeit, Konflikte fair und authentisch einzugehen. Es sind Reifungsgrade, die wir in kleinen Schritten in unseren ersten Lebensjahren erpoben und erlernen, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.
 
 Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie sich selbst sehen, fühlen und wollen. Wenn sie kontaktbereit, emotional präsent, zuverläsig und in ihrem eigenen Gefühlshaushalt gut aufgeräumt sind.
 
@@ -37,4 +37,4 @@ Ein Ausweg auf Zeit bietet dann manchmal eine erhöhtes Arbeitspensum, sehr viel
 
 Diese Überlebensstrategien sind erst mal hilfreich, aus der Not geboren und verschaffen punktuell Erleichterung. Für eine gewisse Phase funktionieren sie gut. Treten wir jedoch in einen neuen Lebensabschnitt ein, beispielsweise wenn wir mehr berufliche Verantwortung übernehmen, eigene Kinder bekommen, eine gesundheitliche Krise, fordernde Partnerschaft, finanzielle Belastung oder Probleme unser Selbstbild und unsere Sexualität beeinträchtigen, tragen die Überlebensstrategien nicht mehr. Uns bricht der Boden unter den Füßen weg.
 
-An dieser Stelle haben wir die Möglichkeit und meist auch Bereitschaft, uns neu zu sortieren. Was über die Jahre verkümmert ist, kann nachreifen. Jeder Bereich unserer Psyche ist in der Lage, zu heilen und sich auszudehnen.  Mit manchen Umständen leben wir schon so lange, dass sie uns in Stein gemeißelt vorkommen. Das Gegenteil ist der Fall. Kommen wir in Bewegung, bewegt sich alles mit. 
+An dieser Stelle haben wir die Möglichkeit und meist auch Bereitschaft, uns neu zu sortieren. Was über die Jahre verkümmert ist, kann nachreifen. Jeder Bereich unserer Psyche ist in der Lage, zu heilen und sich auszudehnen.  Mit manchen Umständen leben wir schon so lange, dass sie uns in Stein gemeißelt vorkommen. Das Gegenteil ist der Fall. Kommen wir in Bewegung, bewegt sich alles mit. Was wir in der Vergangenheit verpasst haben, kann jetzt erforscht und
