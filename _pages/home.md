@@ -1,5 +1,5 @@
 ---
-permalink: "/beratung/"
+permalink: "/"
 title: Beratung & Begleitung
 
 ---
