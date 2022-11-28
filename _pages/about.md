@@ -9,7 +9,7 @@ Ich bin Veronika Rotfuß, Jahrgang 1980 und lebe und arbeite in München. Ich ha
 
 Meiner heutigen Arbeit mit Menschen gehen zehn Jahre Arbeit an mir selbst voraus. Manche Dinge musste ich ganz von vorn lernen, zum Beispiel Augenkontakt, meine Ziele klar zu verfolgen, etwas zu fühlen, meine Emotionen zu regulieren, Konflikte fair und authentisch anzugehen, realistische Ansprüche an mich und andere zu haben, in meinem Körper sicher zu sein, mich zu genießen, durchzuschlafen, die Kontrolle aufzugeben.
 
-Verschiedene Therapeuten und Therapeutinnen und unterschiedliche Methoden haben mir dabei geholfen, meine Einzelteile einzusammeln und neugierig zu werden. Ich bin diesen Menschen sowie den Entwicklern bewährter therapeutischer Konzepte und der neurophysiologischen Forschung auf dem Gebiet der Sicherheit und Selbstregulation zutiefst dankbar und verbunden.
+Verschiedene Therapeuten und Therapeutinnen und unterschiedliche Methoden haben mir dabei geholfen, meine Einzelteile einzusammeln und neugierig zu werden. Ich bin diesen Menschen sowie den Entwicklern bewährter therapeutischer Konzepte und der neurophysiologischen Forschung auf dem Gebiet der Sicherheit dankbar und verbunden.
 
 Seit 2022 arbeite ich in eigener Praxis in München. Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Ich bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
 
