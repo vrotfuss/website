@@ -27,7 +27,7 @@ Soziale Isolation und Kontaktschwierigkeiten
 
 **Will ich mich verändern?**
 
-Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen oder die Fähigkeit, Konflikte fair und authentisch einzugehen. Es sind Reifungsgrade, die wir in kleinen Schritten in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.
+Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen oder die Fähigkeit, Konflikte fair und authentisch einzugehen. Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.
 
 Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die Person, die sie selbst sind, mögen, genießen und wollen. Wenn sie kontaktbereit, emotional präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt auf ihre Kinder zugehen.
 
