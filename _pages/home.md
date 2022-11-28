@@ -5,7 +5,7 @@ title: Home
 ---
 Im Mittelpunkt meiner Sitzungen steht der Klient in seiner Fähigkeit, zu heilen und zu wachsen. Jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. Ich passe meine Arbeit an die jeweilige Situation der Klientin an und orientiere mich an ihrer Indivdualität, ihren Stärken und Handlungsimpulsen.
 
-Dabei arbeite ich mit einem systemischen Ansatz auf Basis der ICH-orientierten Identitätstherapie (Dagmar Strauß), der Elemente beinhaltet aus der körperbasierten Psychotraumatherapie Somatic Experiencing (Peter Levine) sowie NARM (Lawrence Heller) und der Bindungspsychotherapie (Karl-Heinz Brisch). 
+Dabei arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Identitätstherapie (Dagmar Strauß), der Elemente beinhaltet aus der körperbasierten Psychotraumatherapie Somatic Experiencing (Peter Levine) sowie NARM (Lawrence Heller) und der Bindungspsychotherapie (Karl-Heinz Brisch). 
 
 Daneben fließen das Wissen und die Grundlagen der Forschung zur Selbstregulation (Polyvagaltheorie nach Stephen Porges und Vagus-Nerv-Stimulation) sowie meiner Erfahrung mit Bodynamic (Somatische Entwicklungspsychologie mit Fokus auf Verbundenheit und Respekt) ein.
 
