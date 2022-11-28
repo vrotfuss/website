@@ -9,11 +9,11 @@ Ich bin Veronika Rotfuß, Jahrgang 1980, verheiratet und lebe und arbeite in Mü
 
 Meiner heutigen Arbeit mit Menschen gehen zehn Jahre Arbeit an mir selbst voraus. Manche Dinge musste ich ganz von vorn lernen, zum Beispiel Augenkontakt, meine Ziele klar zu verfolgen, Emotionen zu regulieren, Konflikte aktiv anzugehen, realistische Ansprüche an mich und andere zu haben, in meinem Körper sicher zu sein, mich zu genießen, durchzuschlafen, die Kontrolle aufzugeben.
 
-Verschiedene Therapeuten und Therapeutinnen und unterschiedliche Methoden haben mir dabei geholfen, meine Einzelteile einzusammeln und neugierig zu werden. Ich bin diesen Menschen sowie den Entwicklern bewährter therapeutischer Konzepte und der neurophysiologischen Forschung auf dem Gebiet der Wiedererlangung von Sicherheit dankbar und verbunden.
+Verschiedene Therapeuten und Therapeutinnen und unterschiedliche Methoden haben mir dabei geholfen, meine Einzelteile einzusammeln und neugierig zu werden. Ich bin diesen Menschen sowie den Entwicklern bewährter therapeutischer Konzepte und der neurophysiologischen Forschung dankbar und verbunden.
 
 Seit 2022 arbeite ich in eigener Praxis in München. Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Ich bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
 
-Einen Teil meiner Zeit widme ich außerdem seit einigen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite. In jeder freien Minute und bei halbwegs gutem Wetter gehe ich in die Berge und kriege davon nicht genug.
+Einen Teil meiner Zeit widme ich außerdem seit einigen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite. Bei halbwegs gutem Wetter gehe ich in die Berge und kriege davon nicht genug.
 
 * 2023 – 2024 Bodynamic Foundation Training – Körperpsychotherapie (Michael Rupp und Ditte Marcher)
 * 2022 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung
