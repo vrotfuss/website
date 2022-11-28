@@ -1,12 +1,11 @@
 ---
-permalink: /links/
+permalink: "/links/"
 title: Links & Weiterführendes
+
 ---
+Empfehlenswerte Bücher, Podcasts, Videoreihen und Vorträge zu psychischer Gesundheit,  Beziehungen, Entwicklungstrauma, Schocktrauma, Konflikte, Selbstliebe und Sexualität.
 
-Empfehlenswerte Bücher, Podcasts, Videoreihen und Vorträge zu psychischer Gesundheit,  Entwicklungstrauma, Schocktrauma, Beziehungen, Konflikte, Selbstliebe und Sexualität.
-
-
-Verena König – Podcas
+Verena König – Podcast
 
 Dami Charf – Youtubekanal
 
@@ -14,12 +13,14 @@ Vivan Broughton – Zurück in mein Ich
 
 Bessel van der Kolk – Verkörperter Schrecken
 
-Gabor Mate – Film und Videos
+Gabor Mate – Bücher, Film und Videos
 
-Peter Levine - 
+Peter Levine - Bücher
 
 Luise Reddeman – Die heilende Kraft der Imagination
 
-Deb Dana - 
+Deb Dana - Buch
+
+Stephan Porges - 
 
 Esther Perel - Videos
