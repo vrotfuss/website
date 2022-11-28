@@ -5,7 +5,7 @@ title: Über mich
 ---
 ![](/website/assets/images/Vroni_03.jpg)
 
-Ich bin Veronika Rotfuß, Jahrgang 1980 und lebe und arbeite in München. Ich habe viele Jahre gebraucht, mich meiner Realität stellen zu können. Mein Körper hat früh davon berichtet, dass ein paar grundlegende Dinge nicht stimmen. Als Teenager hatte ich Neurodermitis und Schwierigkeiten im sozialen Kontakt, als Erwachsene kamen weitere Krankheiten und ein konstant hoher Stresspegel hinzu. Mit Anfang Dreißig fand ich mich zum ersten Mal in einem sicheren Umfeld wieder und konnte langsam erkennen, wie viel in mir stagniert und zersplittert war.
+Ich bin Veronika Rotfuß, Jahrgang 1980 und lebe und arbeite in München. Ich habe viele Jahre gebraucht, mich meiner Realität stellen zu können. Mein Körper hat früh davon berichtet, dass ein paar grundlegende Dinge nicht stimmen. Aber erst als ich mich mit Anfang Dreißig in einem sicheren Umfeld wiederfand, konnte ich langsam erkennen, wie viel in mir stagniert und zersplittert war.
 
 Meiner heutigen Arbeit mit Menschen gehen zehn Jahre Arbeit an mir selbst voraus. Manche Dinge musste ich ganz von vorn lernen, zum Beispiel Augenkontakt, Konflikte einzugehen, realistische Ansprüche an mich zu haben, etwas zu fühlen, meine Emotionen zu regulieren, in meinem Körper sicher zu sein, mich zu genießen, durchzuschlafen, Beziehungen aktiv zu gestalten, Ziele zu verfolgen ohne dabei in den Funktionsmodus zu schalten.
 
