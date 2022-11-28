@@ -17,7 +17,11 @@ Bücher
 
 [Im Reich der hungrigen Geister (Gabor Mate)](https://www.amazon.de/gp/product/B095J2NPP8/ref=dbs_a_def_rwt_bibl_vppi_i2)
 
+[Gefühle besser verstehen (Cornelia Dehner-Rau)](https://www.amazon.de/Gef%C3%BChle-besser-verstehen-entstehen-st%C3%A4rken/dp/3442177820/ref=sr_1_10?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3P1ELJ8RULBPU&keywords=Luise+Reddemann&qid=1669665587&s=books&sprefix=luise+reddemann%2Cstripbooks%2C97&sr=1-10)
+
 [Trauma verstehen, bearbeiten, überwinden (Luise Reddemann)](https://www.amazon.de/Trauma-verstehen-bearbeiten-%C3%BCberwinden-%C3%9Cbungsbuch/dp/3432111045/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3P1ELJ8RULBPU&keywords=Luise+Reddemann&qid=1669665462&s=books&sprefix=luise+reddemann%2Cstripbooks%2C97&sr=1-1)
+
+[Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/Vagus-Nerv-als-innerer-Anker-Selbstheilungskr%C3%A4fte/dp/3466347866/ref=sr_1_2?qid=1669666201&refinements=p_27%3ADeb+Dana&s=books&sr=1-2&text=Deb+Dana)
 
 Videos und Podcasts
 
@@ -28,8 +32,6 @@ Videos und Podcasts
 [Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
 
 Peter Levine - Bücher
-
-Luise Reddeman – Die heilende Kraft der Imagination
 
 Deb Dana - Buch
 
