@@ -13,7 +13,7 @@ Verschiedene Therapeuten und Therapeutinnen und unterschiedliche Methoden haben 
 
 Seit 2022 arbeite ich in eigener Praxis in München. Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Ich bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
 
-Einen Teil meiner Zeit widme ich außerdem seit einigen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite. Bei halbwegs gutem Wetter gehe ich sehr gern mit Freunden in die Berge und kriege davon nicht genug.
+Einen Teil meiner Zeit widme ich außerdem seit einigen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite. Bei jedem halbwegs guten Wetter gehe ich sehr gern mit Freunden in die Berge und kriege davon nicht genug.
 
 * 2023 – 2024 Bodynamic Foundation Training – Körperpsychotherapie (Michael Rupp und Ditte Marcher)
 * 2022 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung
