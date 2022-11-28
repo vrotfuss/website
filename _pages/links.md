@@ -33,8 +33,6 @@ Videos und Podcasts
 
 Peter Levine - Bücher
 
-Deb Dana - Buch
-
 Stephan Porges -
 
 Thomas Harms - Bücher, Vorträge, Videos
