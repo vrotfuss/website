@@ -15,7 +15,7 @@ Seit 2022 arbeite ich in eigener Praxis in München. Ich bin ausgebildete Ich-or
 
 Einen Teil meiner Zeit widme ich außerdem seit einigen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite. In jeder freien Minute und bei halbwegs gutem Wetter gehe ich in die Berge und kriege davon nicht genug.
 
-* 2023 – 2024 Bodynamic Foundation Training – anerkannte Körperpsychotherapie (Michael Rupp und Ditte Marcher)
+* 2023 – 2024 Bodynamic Foundation Training – Körperpsychotherapie (Michael Rupp und Ditte Marcher)
 * 2022 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung
 * 2020 – 2022 Regelmäßig Intervision und Supervision bei Dagmar Strauß und Kollegen
 * 2020 – 2022 Ich-orientierte Idenditätstherapie (Dagmar Strauß), systemischer traumabasierter Ansatz zum Aufbau gesunden Selbstkontakts und der Integration abgespaltener Anteile
