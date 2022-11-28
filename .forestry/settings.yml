@@ -6,12 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: _pages
-  label: Test
-  create: documents
-  match: "*md"
-- type: jekyll-pages
   label: Pages
   create: documents
+  match: "*md"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
