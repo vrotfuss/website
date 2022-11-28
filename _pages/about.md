@@ -13,7 +13,7 @@ Verschiedene Therapeuten und Therapeutinnen und unterschiedliche Methoden haben 
 
 Seit 2022 arbeite ich in eigener Praxis in München. Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Ich bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
 
-Einen Teil meiner Zeit widme ich außerdem seit vielen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleg*innen zusammenarbeite.
+Einen Teil meiner Zeit widme ich außerdem seit vielen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite.
 
 * 2015 – 2022	Regelmäßige Hospitation bei Dagmar Strauß und Helmut Glas
 * 2020 – 2022 ICH-orientierte Idenditätstherapie (Dagmar Strauß), systemischer traumabasierter Ansatz zum Aufbau gesunden Selbstkontakts und der Integration abgespaltener Anteile
