@@ -29,7 +29,7 @@ Soziale Isolation und Kontaktschwierigkeiten
 
 Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen oder die Fähigkeit, Konflikte fair und authentisch einzugehen. Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.
 
-Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die Person, die sie selbst sind, mögen, genießen und wollen. Wenn sie kontaktbereit, emotional präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt auf ihre Kinder zugehen.
+Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die Person, die sie selbst sind, mögen, genießen und wollen. Wenn sie emotional präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt auf ihre Kinder zugehen.
 
 Ist dies nicht der Fall, wachsen Kinder mit dem Eindruck heran, falsch oder haltlos zu sein, sich in Beziehung nicht zeigen und entspannen zu können, durch bestimmte Leistungen Aufmerksamkeit oder eine Entlastung der Eltern erreichen zu müssen. Das verunsichert, macht Stress, erhöht die Cortisolwerte und lässt das Nervensystem auf Hochtouren laufen. Kinder können sich selbst nicht beruhigen, trösten oder Orientierung geben. Sie sind darauf angewiesen, dass ihre Eltern dies verlässlich und zugewandt tun. Sind Eltern durch die eigene Biographie dazu nicht ausreichend in der Lage, zeitlich verhindert oder überfordert, bleiben Kinder auf ihrem Stress und der Einsamkeit sitzen, obwohl im Außen alles recht "normal" wirkt.
 
