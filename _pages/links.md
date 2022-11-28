@@ -9,7 +9,7 @@ Bücher
 
 [Verkörperter Schrecken (Bessel van der Kolk)](https://www.amazon.de/Verk%C3%B6rperter-Schrecken-Traumaspuren-Gehirn-K%C3%B6rper/dp/3944476131)
 
-[Auch alte Wunden heilen (Dami Charf)](https://www.amazon.de/Auch-alte-Wunden-k%C3%B6nnen-heilen-ebook/dp/B077C3WLBJ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2SOCU5QZ8HYP&keywords=dami+charf&qid=1669664572&s=digital-text&sprefix=dami+charf%2Cdigital-text%2C93&sr=1-1)
+[Auch alte Wunden können heilen (Dami Charf)](https://www.amazon.de/Auch-alte-Wunden-k%C3%B6nnen-heilen-ebook/dp/B077C3WLBJ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2SOCU5QZ8HYP&keywords=dami+charf&qid=1669664572&s=digital-text&sprefix=dami+charf%2Cdigital-text%2C93&sr=1-1)
 
 [Zurück in mein Ich (Vivian Broughton)](https://www.amazon.de/Zur%C3%BCck-mein-Ich-Handbuch-Traumaheilung/dp/3466346339/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1A7GGEUJQASE7&keywords=zur%C3%BCck+in+mein+ich&qid=1669664274&s=books&sprefix=zur%C3%BCck+in+mein+ich%2Cstripbooks%2C82&sr=1-1)
 
