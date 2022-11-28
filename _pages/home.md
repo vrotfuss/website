@@ -25,7 +25,7 @@ Erwachsenen ADHS und gesteigerte Impulsivität
 Partnerschafts- und Beziehungskonflikten  
 Soziale Isolation und Kontaktschwierigkeiten
 
-Eine gesunde und stabile Verbindung zu uns selbst und andern ist keine Selbstverständlichkeit. Sie entsteht in unseren ersten Lebensjahren, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.
+Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile und Verbindung zu uns selbst und andern ist keine Selbstverständlichkeit. Sie entsteht in unseren ersten Lebensjahren, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.
 
 Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie sich selbst sehen, fühlen und wollen. Wenn sie kontaktbereit, präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt sind.
 
