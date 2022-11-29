@@ -5,6 +5,8 @@ title: Links & Weiterführendes
 ---
 Empfehlenswerte Bücher, Podcasts, Videoreihen und Vorträge zu psychischer Gesundheit,  Beziehungen, Entwicklungstrauma, Schocktrauma, Konflikte, Selbstliebe und Sexualität.
 
+<br>
+
 Bücher
 
 [Verkörperter Schrecken (Bessel van der Kolk)](https://www.amazon.de/dp/3944476131)
