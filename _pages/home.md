@@ -3,11 +3,11 @@ permalink: "/"
 title: Beratung & Begleitung
 
 ---
-Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der sie sich verändern wollen. Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie diese als Erwachsene gestillt werden können. Die aktuelle Situation bekommt ihre Einbettung in den biographischen Kontext, blockierte Anteile der Persönlichkeit und werden kennengelernt, eingefrorene Gefühle aufgetaut und der Spielraum des Lebens erweitert.
+Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der sie sich verändern wollen. Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie diese als Erwachsene gestillt werden können. Die aktuelle Situation bekommt ihre Einbettung in den biographischen Kontext, blockierte Anteile der Persönlichkeit und [https://vrotfuss.github.io/website/](https://vrotfuss.github.io/website/ "https://vrotfuss.github.io/website/")werden kennengelernt, eingefrorene Gefühle aufgetaut und der Spielraum des Lebens erweitert.
 
 Dabei arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Identitätstherapie (Dagmar Strauß), der Elemente beinhaltet aus der Bindungspsychotherapie (Karl-Heinz Brisch), der körperbasierten Psychotraumatherapie Somatic Experiencing (Peter Levine) und NARM (Lawrence Heller). Daneben fließen das Wissen und die Grundlagen der Forschung zur Entspannung und Selbstregulation (Stephen Porges) sowie meiner Erfahrung mit Bodynamic (Somatische Entwicklungspsychologie) ein.
 
-Ich berate und begleite Menschen bei:
+Ich berate und begleite Menschen bei
 
 Entwicklungstrauma  
 Schocktrauma  
@@ -31,7 +31,7 @@ Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstv
 
 Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die Person, die sie selbst sind, mögen, genießen und wollen. Wenn sie emotional präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt auf ihre Kinder zugehen.
 
-Ist dies nicht der Fall, wachsen Kinder mit dem Eindruck heran, falsch oder haltlos zu sein, sich in Beziehung nicht zeigen und entspannen zu können, durch bestimmte Leistungen Aufmerksamkeit oder eine Entlastung der Eltern erreichen zu müssen. Das verunsichert, macht Stress, erhöht die Cortisolwerte und lässt das Nervensystem auf Hochtouren laufen. Kinder können sich selbst nicht beruhigen, trösten oder Orientierung geben. Sie sind darauf angewiesen, dass ihre Eltern dies verlässlich und zugewandt tun. Sind Eltern durch die eigene Biographie dazu nicht ausreichend in der Lage, zeitlich verhindert oder selbst Quelle der Bedrohung, bleiben Kinder auf ihrem Stress und der Einsamkeit sitzen, obwohl im Außen alles recht "normal" wirkt.
+Ist dies nicht der Fall, wachsen Kinder mit dem Eindruck heran, falsch oder haltlos zu sein, sich in Beziehung nicht zeigen und entspannen zu können, durch bestimmte Leistungen Aufmerksamkeit oder eine Entlastung der Eltern erreichen zu müssen. Das verunsichert, macht Stress, erhöht die Cortisolwerte und lässt das Nervensystem auf Hochtouren laufen. Kinder können sich selbst nicht beruhigen, trösten oder Orientierung geben. Sie sind darauf angewiesen, dass ihre Eltern dies verlässlich und zugewandt tun. Sind Eltern durch die eigene Biographie dazu nicht ausreichend in der Lage, zeitlich verhindert oder selbst Quelle der Bedrohung, bleiben Kinder auf ihrem Stress sitzen, obwohl im Außen alles recht "normal" wirkt.
 
 Über die Jahre können daraus Unruhezustände, Leere, Angst, Wut und Frustration entstehen sowie Melancholie, Resignation und Schwierigkeiten dabei, mit anderen Menschen in einem angenehmen Kontakt zu bleiben, das heißt realistisch, vertrauens- und lustvoll Beziehung zu leben. Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle.
 
