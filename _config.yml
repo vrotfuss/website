@@ -65,7 +65,7 @@ defaults:
       share: false
       related: false
       header:
-        image: "/assets/images/mond.jpg"
+        image: "/assets/images/sonne.jpg"
         imagehome: true      
   # _pages
   - scope:
@@ -80,7 +80,7 @@ defaults:
       share: false
       related: false
       header:
-        image: "/assets/images/1.jpeg"
+        image: "/assets/images/sonne.jpeg"
         imagehome: true
 
 category_archive:
