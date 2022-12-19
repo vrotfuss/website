@@ -3,7 +3,7 @@ permalink: "/about/"
 title: Über mich
 
 ---
-Ich bin Veronika Rotfuß, Jahrgang 1980, verheiratet und lebe und arbeite in München. Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen, Neues lernen und ausprobieren.
+Ich bin Veronika Rotfuß, Jahrgang 1980, verheiratet und lebe und arbeite in München. Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen und Neues ausprobieren. Dem Raum zu geben, was schon lange gehört und gefühlt werden will. Ich bin selbst durch Stagnation und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Die Phasen von Ohnmacht, Kontrollverlust und Schmerz bringen uns 
 
 Meiner heutigen Arbeit mit Menschen gehen zehn Jahre Arbeit an mir selbst voraus. 
 
