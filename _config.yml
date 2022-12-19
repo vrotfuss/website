@@ -66,8 +66,8 @@ defaults:
       related: false
       header:
         overlay_image: "/assets/images/sonne.jpg"
-        excerpt: "Zeile 1"
-        tagline: "Zeile 2"
+      excerpt: "Zeile 1"
+      tagline: "Zeile 2"
   # _pages
   - scope:
       path: "_pages"
@@ -82,8 +82,8 @@ defaults:
       related: false
       header:
         overlay_image: "/assets/images/sonne.jpg"
-        excerpt: "Zeile 1"
-        tagline: "Zeile 2"
+      excerpt: "Zeile 1"
+      tagline: "Zeile 2"
 
 category_archive:
   type: liquid
