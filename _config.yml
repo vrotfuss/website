@@ -66,7 +66,8 @@ defaults:
       related: false
       header:
         image: "/assets/images/sonne.jpg"
-        imagehome: true      
+        imagehome: true
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   # _pages
   - scope:
       path: "_pages"
@@ -82,6 +83,7 @@ defaults:
       header:
         image: "/assets/images/sonne.jpg"
         imagehome: true
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 category_archive:
   type: liquid
