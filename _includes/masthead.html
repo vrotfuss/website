@@ -24,10 +24,12 @@
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
+      <h2 id="page-title" class="page__title" itemprop="headline">
         {{ site.title | markdownify | remove: "<p>" | remove: "</p>" }}
-      </h1>
-        <p class="page__lead">{{ site.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      </h2>
+        <h2 class="page__lead">
+        {{ site.description | markdownify | remove: "<p>" | remove: "</p>" }}
+      </h2>
       {% include page__meta.html %}
       {% if page.header.cta_url %}
         <p><a href="{{ page.header.cta_url | relative_url }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
