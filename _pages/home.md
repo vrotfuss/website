@@ -35,4 +35,4 @@ Partnerschafts- und Beziehungskonflikten
 Soziale Isolation und Kontaktschwierigkeiten  
 <br>
 
-                                                          **Sonne**
+                                **Sonne**
