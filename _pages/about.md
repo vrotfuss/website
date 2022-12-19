@@ -7,9 +7,7 @@ Ich bin Veronika Rotfuß, Jahrgang 1980, verheiratet und lebe und arbeite in Mü
 
 Ich bin selbst durch viel Stagnation und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich daher heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer gerade anfühlt, meine behutsame Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern. 
 
-In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht wieder heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Austausch. Wir allein Diesem Prinzip vertraue ich 
-
-Manche Dinge musste ich ganz von vorn lernen, zum Beispiel meine Emotionen zu regulieren, Konflikte einzugehen, anderen Menschen zu vertrauen, meine Ziele klar zu verfolgen, die Kontrolle aufzugeben, realistische Ansprüche an mich und andere zu haben, gern in meinem Körper zu sein und durchzuschlafen.
+In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht wieder heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.
 
 Verschiedene Therapeuten und Therapeutinnen und unterschiedliche Methoden haben mir dabei geholfen, meine Einzelteile einzusammeln und neugierig zu werden. Ich bin diesen Menschen sowie den Entwicklern bewährter therapeutischer Konzepte und der neurophysiologischen Forschung sehr dankbar und verbunden.
 
