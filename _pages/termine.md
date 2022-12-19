@@ -16,7 +16,7 @@ Das vereinbarte Honorar beträgt 80,00 €.
 
 Terminvereinbarung telefonisch oder per Mail
 
-mail@praxisveronikarotfuss.de
+praxis@veronikarotfuss.de
 
 0162 - 30 76 486
 
