@@ -24,7 +24,12 @@ Bücher
 
 [Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/dp/3466347866)
 
+Peter Levine - Bücher
+
+Stephan Porges -  
 <br>
+
+**Sonne**
 
 Videos und Podcasts
 
@@ -34,12 +39,7 @@ Videos und Podcasts
 
 [Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
 
+Thomas Harms - Bücher, Vorträge, Videos  
 <br>
 
-Peter Levine - Bücher
-
-Stephan Porges -
-
-Thomas Harms - Bücher, Vorträge, Videos
-
-(Esther Perel - Videos ?)
+**Sonne**
