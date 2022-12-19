@@ -7,17 +7,15 @@ Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstv
 
 Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.
 
-                                                              **Sonne**
+                                                               **Sonne**
 
 Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die Person, die sie selbst sind, mögen, genießen und wollen. Wenn sie emotional präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt auf ihre Kinder zugehen.
 
 Ist dies nicht der Fall, wachsen Kinder mit dem Eindruck heran, falsch oder haltlos zu sein, sich in Beziehung nicht zeigen und entspannen zu können, durch bestimmte Leistungen Aufmerksamkeit oder eine Entlastung der Eltern erreichen zu müssen. Das verunsichert, macht Stress, erhöht die Cortisolwerte und lässt das Nervensystem auf Hochtouren laufen.
 
-**Sonne**
+                                                       **Sonne**
 
-Kinder können sich selbst nicht beruhigen, trösten oder Orientierung geben. Sie sind darauf angewiesen, dass ihre Eltern dies verlässlich und zugewandt tun.
-
-Sind Eltern durch die eigene Biographie dazu nicht ausreichend in der Lage, zeitlich verhindert oder selbst Quelle der Bedrohung, bleiben Kinder auf ihrem Stress sitzen, obwohl im Außen alles recht "normal" wirkt.
+Kinder können sich selbst nicht beruhigen, trösten oder Orientierung geben. Sie sind darauf angewiesen, dass ihre Eltern dies verlässlich und zugewandt tun. Sind Eltern durch die eigene Biographie dazu nicht ausreichend in der Lage, zeitlich verhindert oder selbst Quelle der Bedrohung, bleiben Kinder auf ihrem Stress sitzen, obwohl im Außen alles recht "normal" wirkt.
 
 Über die Jahre können daraus Unruhezustände, Leere, Angst, Wut und Frustration entstehen sowie Melancholie, Resignation und Schwierigkeiten dabei, mit anderen Menschen in einem angenehmen Kontakt zu bleiben, das heißt realistisch, vertrauens- und lustvoll Beziehung zu leben, zu kooperieren und Grenzen zu setzen.
 
