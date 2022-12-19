@@ -29,7 +29,7 @@ Peter Levine - Bücher
 Stephan Porges -  
 <br>
 
-                                                           **Sonne**
+**Sonne/Berge**
 
 Videos und Podcasts
 
