@@ -23,9 +23,7 @@ Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige
 
                            **Sonne**
 
-Ein Ausweg auf Zeit bietet dann manchmal eine erhöhtes Arbeitspensum, sehr viel Sport zu treiben, den Partner zu wechseln, immer unterwegs zu sein, Alkohol oder Drogen zu konsumieren, sozialer Rückzug, sich mit Onlinespielen und exzessivem Serienschauen zu betäuben und die Flucht in Ersatzwelten, die möglichst viel aussparen, von dem was die Realität verlangt.
-
-Diese Überlebensstrategien sind erst mal hilfreich, aus der Not geboren und verschaffen punktuell Erleichterung. Für eine gewisse Phase funktionieren sie gut.
+Ein Ausweg auf Zeit bietet dann manchmal eine erhöhtes Arbeitspensum, sehr viel Sport zu treiben, den Partner zu wechseln, immer unterwegs zu sein, Alkohol oder Drogen zu konsumieren, sozialer Rückzug, sich mit Onlinespielen und exzessivem Serienschauen zu betäuben und die Flucht in Ersatzwelten, die möglichst viel aussparen, von dem was die Realität verlangt. Diese Überlebensstrategien sind erst mal hilfreich, aus der Not geboren und verschaffen punktuell Erleichterung. Für eine gewisse Phase funktionieren sie gut.
 
                            **Sonne**
 
