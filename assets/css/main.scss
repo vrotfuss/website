@@ -5,7 +5,9 @@ search: false
 
 @charset "utf-8";
 
-$background-color: red;
+# Test: Hintergrund eierfarben
+$background-color: #fdfdf3;
+$footer-background-color: #fdfdf3;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
