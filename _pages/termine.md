@@ -15,3 +15,9 @@ Eine Beratungssitzung beinhaltet 60 Minuten in der Praxis und bei Bedarf ein tel
 Das vereinbarte Honorar beträgt 80,00 €.
 
 Terminvereinbarung telefonisch oder per Mail
+
+mail@praxisveronikarotfuss.de
+
+0162 - 30 76 486
+
+**Sonne**
