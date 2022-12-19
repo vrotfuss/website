@@ -9,8 +9,6 @@ Ich bin selbst durch viel Stagnation und Zersplitterung gegangen und musste manc
 
 In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht wieder heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.
 
-Verschiedene Therapeuten und Therapeutinnen und unterschiedliche Methoden haben mir dabei geholfen, meine Einzelteile einzusammeln und neugierig zu werden. Ich bin diesen Menschen sowie den Entwicklern bewährter therapeutischer Konzepte und der neurophysiologischen Forschung sehr dankbar und verbunden.
-
 Seit 2022 arbeite ich in eigener Praxis in München. Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Ich bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
 
 Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite. Bei jedem halbwegs guten Wetter gehe ich mit Freunden in die Berge und kriege davon nicht genug.
