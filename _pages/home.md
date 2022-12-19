@@ -3,7 +3,7 @@ permalink: "/"
 title: Home
 
 ---
-Praxis für Lebensberatung, Systemische Beratung und Körperpsychotherapie
+Praxis für Systemische Beratung und Körperpsychotherapie
 
 Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der Sie sich verändern wollen.  
 <br>
