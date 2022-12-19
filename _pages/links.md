@@ -29,7 +29,7 @@ Peter Levine - Bücher
 Stephan Porges -  
 <br>
 
-**Sonne**
+                                                           **Sonne**
 
 Videos und Podcasts
 
@@ -39,7 +39,4 @@ Videos und Podcasts
 
 [Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
 
-Thomas Harms - Bücher, Vorträge, Videos  
-<br>
-
-**Sonne**
+Thomas Harms - Bücher, Vorträge, Videos
