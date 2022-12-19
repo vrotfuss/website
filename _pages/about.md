@@ -7,7 +7,7 @@ Ich bin Veronika Rotfuß, Jahrgang 1980, verheiratet und lebe und arbeite in Mü
 
 Mein Körper hat früh davon berichtet, dass ein paar grundlegende Dinge nicht stimmen. Aber erst als ich mich mit Anfang Dreißig in einem sicheren Umfeld wiederfand, konnte ich langsam erkennen, wie viel in mir stagniert und zersplittert war. 
 
-Manche Dinge musste ich ganz von vorn lernen, zum Beispiel meine Emotionen zu regulieren, Konflikte aktiv anzugehen, anderen Menschen zu vertrauen, meine Ziele klar zu verfolgen, die Kontrolle aufzugeben, realistische Ansprüche an mich und andere zu haben, gern in meinem Körper zu sein und durchzuschlafen.
+Manche Dinge musste ich ganz von vorn lernen, zum Beispiel meine Emotionen zu regulieren, Konflikte einzugehen, anderen Menschen zu vertrauen, meine Ziele klar zu verfolgen, die Kontrolle aufzugeben, realistische Ansprüche an mich und andere zu haben, gern in meinem Körper zu sein und durchzuschlafen.
 
 Verschiedene Therapeuten und Therapeutinnen und unterschiedliche Methoden haben mir dabei geholfen, meine Einzelteile einzusammeln und neugierig zu werden. Ich bin diesen Menschen sowie den Entwicklern bewährter therapeutischer Konzepte und der neurophysiologischen Forschung sehr dankbar und verbunden.
 
