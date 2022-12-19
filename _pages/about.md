@@ -16,7 +16,7 @@ Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturelle
 <br>
 {% include figure image_path="/assets/images/me.jpg" caption="This is a figure caption." %}
 
-* 2023 – 2024 Bodynamic Foundation Training – Körperpsychotherapie   (Michael Rupp und Ditte Marcher)
+* 2023 – 2024 Bodynamic Foundation Training – Körperpsychotherapie   (Michael Rupp, Ditte Marcher)
 * 2022 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung (Adriane Feldhege)
 * 2020 – 2022 Regelmäßige Intervision und Supervision bei Dagmar Strauß und Kollegen
 * 2020 – 2022 Ich-orientierte Idenditätstherapie (Dagmar Strauß), systemischer traumabasierter Ansatz zum Aufbau gesunden Selbstkontakts und der Integration abgespaltener Anteile
