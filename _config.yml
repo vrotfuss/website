@@ -80,8 +80,9 @@ defaults:
       share: false
       related: false
       header:
-        image: "/assets/images/sonne.jpg"
-        imagehome: true
+        overlay_image: "/assets/images/sonne.jpg"
+        excerpt: "Zeile 1"
+        tagline: "Zeile 2"
 
 category_archive:
   type: liquid
