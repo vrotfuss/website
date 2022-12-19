@@ -36,3 +36,7 @@ Entwicklungstrauma
  Erwachsenen ADHS und gesteigerte Impulsivität  
  Partnerschafts- und Beziehungskonflikten  
  Soziale Isolation und Kontaktschwierigkeiten
+
+ <br>
+
+Zitat
