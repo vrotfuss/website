@@ -32,8 +32,7 @@ Entwicklungstrauma
  Sucht und Abhängigkeit nach Entzug  
  Erwachsenen ADHS und gesteigerte Impulsivität  
  Partnerschafts- und Beziehungskonflikten  
- Soziale Isolation und Kontaktschwierigkeiten
-
+ Soziale Isolation und Kontaktschwierigkeiten  
  <br>
 
 Zitat
