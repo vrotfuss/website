@@ -3,8 +3,7 @@ permalink: "/links/"
 title: Links & Weiterführendes
 
 ---
-Empfehlenswerte Bücher, Podcasts, Videoreihen und Vorträge zu psychischer Gesundheit,  Beziehungen, Entwicklungstrauma, Schocktrauma, Konflikte, Selbstliebe und Sexualität.
-
+Empfehlenswerte Bücher, Podcasts, Videoreihen und Vorträge zu psychischer Gesundheit,  Beziehungen, Entwicklungstrauma, Schocktrauma, Konflikte, Selbstliebe und Sexualität.  
 <br>
 
 Bücher
