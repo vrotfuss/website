@@ -65,7 +65,7 @@ defaults:
       share: false
       related: false
       header:
-        overlay_image: "/assets/images/sonne.jpg"
+        image: "/assets/images/sonne.jpg"
   # _pages
   - scope:
       path: "_pages"
@@ -79,7 +79,7 @@ defaults:
       share: false
       related: false
       header:
-        overlay_image: "/assets/images/sonne.jpg"
+        image: "/assets/images/sonne.jpg"
 
 category_archive:
   type: liquid
