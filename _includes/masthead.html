@@ -1,16 +1,6 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 {% capture overlay_img_path %}{{ page.header.overlay_image | relative_url }}{% endcapture %}
 
-{% if page.header.overlay_filter contains "gradient" %}
-  {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
-{% elsif page.header.overlay_filter contains "rgba" %}
-  {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
-  {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
-{% elsif page.header.overlay_filter %}
-  {% capture overlay_filter %}rgba(0, 0, 0, {{ page.header.overlay_filter }}){% endcapture %}
-  {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
-{% endif %}
-
 {% if page.header.image_description %}
   {% assign image_description = page.header.image_description %}
 {% else %}
@@ -19,17 +9,14 @@
 
 {% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
 
-<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
-  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}"
->
-  {% if page.header.overlay_color or page.header.overlay_image %}
+<div class="page__hero--overlay" style="background-image: url('{{ page.header.image }}');">
     <div class="wrapper">
-      <h2 id="page-title" class="page__title" itemprop="headline">
+      <h1 id="page-title" class="page__title" itemprop="headline">
         {{ site.title | markdownify | remove: "<p>" | remove: "</p>" }}
-      </h2>
-        <h2 class="page__lead">
+      </h1>
+        <p class="page__title">
         {{ site.description | markdownify | remove: "<p>" | remove: "</p>" }}
-      </h2>
+      </p>
       {% include page__meta.html %}
       {% if page.header.cta_url %}
         <p><a href="{{ page.header.cta_url | relative_url }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
@@ -41,9 +28,6 @@
         {% endfor %}
       {% endif %}
     </div>
-  {% else %}
-    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
-  {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
   {% endif %}
