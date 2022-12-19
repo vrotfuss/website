@@ -20,4 +20,4 @@ praxis@veronikarotfuss.de
 
 0162 - 30 76 486
 
-                                                        **Sonne**
+**Sonne/Berge**
