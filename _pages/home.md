@@ -11,7 +11,7 @@ Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat d
 Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie diese als Erwachsene gestillt werden können. Die aktuelle Situation bekommt ihre Einbettung in den biographischen Kontext, blockierte Anteile der Persönlichkeit werden kennengelernt, eingefrorene Gefühle aufgetaut und der Spielraum des Lebens erweitert.  
 <br>
 
-**Sonne**
+                                                               **Sonne**
 
 <br>
 
@@ -35,4 +35,4 @@ Partnerschafts- und Beziehungskonflikten
 Soziale Isolation und Kontaktschwierigkeiten  
 <br>
 
-**Sonne**
+                                                          **Sonne**
