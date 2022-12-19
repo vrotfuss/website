@@ -27,4 +27,4 @@ Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturelle
 * 2005 – 2015 Schauspielengagements an diversen Theatern
 * 2002 – 2005 Theaterausbildung in München
 
-                                                             **Sonne**
+**Sonne/Berge**
