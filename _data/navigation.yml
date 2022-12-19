@@ -1,6 +1,8 @@
 main:
-  - title: "Beratung & Begleitung"
+  - title: "Home"
     url: /
+  - title: "Beratung & Begleitung"
+    url: /beratung/
   - title: "Termine & Honorar"
     url: /termine/
   - title: "Über mich"
