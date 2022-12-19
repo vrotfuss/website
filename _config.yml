@@ -10,6 +10,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Veronika Rotfuß
+subtitle: Beratungspraxis
 description: Beratungspraxis
 #email: no@mail.fornow
 url: https://vrotfuss.github.io
