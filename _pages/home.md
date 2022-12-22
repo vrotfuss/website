@@ -28,7 +28,7 @@ Selbstablehnung und Selbstverletzung
 Gewalterfahrungen  
 Sexuellem Missbrauch  
 Sucht und Abhängigkeit nach Entzug  
-Erwachsenen ADHS und gesteigerte Impulsivität  
+Gesteigerte Impulsivität  
 Partnerschafts- und Beziehungskonflikten  
 Soziale Isolation und Kontaktschwierigkeiten  
 <br>
