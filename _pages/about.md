@@ -3,15 +3,15 @@ permalink: "/about/"
 title: Über mich
 
 ---
-Ich bin Veronika Rotfuß, Jahrgang 1980, verheiratet, seit zwanzig Jahren lebe und arbeite ich in München. Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen, Neues ausprobieren und dem Raum zu geben, was schon lange gehört und gefühlt werden will.
-
-Seit 2022 arbeite ich in einer Gemeinschagzspraxis in München. Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Ich bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
-
-Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite. Bei jedem halbwegs guten Wetter gehe ich mit Freunden in die Berge und kriege davon nicht genug.
+Ich bin Veronika Rotfuß, Jahrgang 1980, ich lebe und arbeite seit zwanzig Jahren in München und bin verheiratet mit einem . Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen, Neues ausprobieren und dem Raum zu geben, was schon lange gehört und gefühlt werden will.
 
 Ich bin selbst durch viel Stagnation und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich daher heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine behutsame Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern.
 
 **Sonne/Berge**
+
+Seit 2022 arbeite ich in einer Gemeinschagspraxis in München. Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Ich bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
+
+Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite. Bei jedem halbwegs guten Wetter gehe ich mit Freunden in die Berge und kriege davon nicht genug.
 
 In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht wieder heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.
 
