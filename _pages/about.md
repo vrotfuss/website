@@ -15,8 +15,9 @@ Seit 2022 arbeite ich in eigener Praxis in München. Ich bin ausgebildete Ich-or
 
 Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite. Bei jedem halbwegs guten Wetter gehe ich mit Freunden in die Berge und kriege davon nicht genug.
 
-<br>
-{% include figure image_path="/assets/images/me.jpg" caption="This is a figure caption." %}
+<br> 
+
+{% include figure image_path="/assets/images/me.jpg" %}
 
 * 2023 – 2024 Bodynamic Foundation Training – Körperpsychotherapie   (Michael Rupp, Ditte Marcher)
 * 2022 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung (Adriane Feldhege)
