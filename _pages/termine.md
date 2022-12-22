@@ -13,15 +13,12 @@ Praxis Vita
 Grillparzerstraße 23  
 81675 München
 
-Eine Beratungssitzung beinhaltet 60 Minuten in der Praxis und bei Bedarf ein telefonisches Nachgespräch von 20 Minuten.
-
+Eine Beratungssitzung beinhaltet 60 Minuten in der Praxis und bei Bedarf ein telefonisches Nachgespräch von 20 Minuten.  
 Das vereinbarte Honorar beträgt 80,00 €.
 
-  
 Terminvereinbarung telefonisch oder per Mail
 
-praxis@veronikarotfuss.de
-
+praxis@veronikarotfuss.de  
 0162 - 30 76 486
 
 **Sonne/Berge**
