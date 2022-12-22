@@ -10,8 +10,7 @@ Grillparzerstraße 23
 
 Terminvereinbarung telefonisch oder per Mail
 
-praxis@veronikarotfuss.de
-
+praxis@veronikarotfuss.de  
 0162 - 30 76 486
 
 **Sonne/Berge**
