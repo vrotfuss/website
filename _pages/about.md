@@ -3,19 +3,17 @@ permalink: "/about/"
 title: Über mich
 
 ---
-Ich bin Veronika Rotfuß, Jahrgang 1980, geboren und aufgewachsen im Süden Deutschlands. Ich lebe und arbeite seit zwanzig Jahren in München, bin verheiratet Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen, Neues ausprobieren und dem Raum geben, was schon lange gehört und gefühlt werden will.
-
-Ich bin selbst durch viel Stagnation und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich daher heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine behutsame Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern. In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht wieder heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.
-
-**Sonne/Berge**
+Ich bin Veronika Rotfuß, Jahrgang 1980, geboren und aufgewachsen im Süden Deutschlands. Seit zwanzig Jahren lebe und arbeite ich in München, bin verheiratet Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen, Neues ausprobieren und dem Raum geben, was schon lange gehört und gefühlt werden will.
 
 Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Seit 2022 arbeite ich in einer Gemeinschagspraxis in München und bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
 
 Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite. Bei jedem halbwegs guten Wetter gehe ich mit Freunden in die Berge und kriege davon nicht genug.
 
-<br>
-
 {% include figure image_path="/assets/images/me.jpg" %}
+
+Ich bin selbst durch viel Stagnation und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine behutsame Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern. In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht wieder heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.
+
+<br>
 
 * 2023 – 2024 Bodynamic Foundation Training – Körperpsychotherapie   (Michael Rupp, Ditte Marcher)
 * 2022 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung (Adriane Feldhege)
