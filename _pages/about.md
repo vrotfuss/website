@@ -16,9 +16,9 @@ Ich bin selbst durch viel Stagnation und Zersplitterung gegangen und musste manc
 
 * 2023 – 2024 Bodynamic Foundation Training – Körperpsychotherapie   (Michael Rupp, Ditte Marcher)
 * 2022 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung (Adriane Feldhege)
-* 2020 – 2022 Regelmäßige Intervision und Supervision bei Dagmar Strauß und Kollegen
+* 2020 – 2022 Regelmäßige Intervision und Supervision bei Helmut Glas und Kollegen
 * 2020 – 2022 Ich-orientierte Idenditätstherapie (Dagmar Strauß), systemischer traumabasierter Ansatz zum Aufbau gesunden Selbstkontakts und der Integration abgespaltener Anteile
-* 2015 – 2022 Regelmäßige Hospitation bei Dagmar Strauß und Helmut Glas
+* 2015 – 2022 Regelmäßige Hospitation bei Dagmar Strauß 
 * 2015 – 2023 Mitarbeiterin einer kulturellen Einrichtung in München
 * 2005 – 2015 Schauspielengagements an diversen Theatern
 * 2002 – 2005 Theaterausbildung in München
