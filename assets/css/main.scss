@@ -5,5 +5,9 @@ search: false
 
 @charset "utf-8";
 
+// Test: Hintergrund weiss, auch im Footer
+$background-color: #fff;
+$footer-background-color: #fff;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
