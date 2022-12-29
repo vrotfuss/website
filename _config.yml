@@ -58,8 +58,6 @@ defaults:
       path: ""
       type: posts
     values:
-      sidebar:
-        nav: "zitate"
       layout: single
       author_profile: false
       read_time: false
@@ -73,8 +71,6 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      sidebar:
-        nav: "zitate"
       layout: single
       classes: wide
       author_profile: false
