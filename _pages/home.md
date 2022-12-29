@@ -15,17 +15,17 @@ Ich arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Ide
 <br>  
 Ich berate und begleite Menschen bei
 
-Entwicklungstrauma  
-Schocktrauma  
-Depressionen  
-Belastungszuständen und Burnout  
-Psychosomatischen Schmerzen und Krankheiten  
-Selbstablehnung und Selbstverletzung  
-Ängsten  
-Gewalterfahrungen  
-Sexuellem Missbrauch  
-Sucht und Abhängigkeit nach Entzug  
-Gesteigerte Impulsivität  
-Partnerschafts- und Beziehungskonflikten  
-Soziale Isolation und Kontaktschwierigkeiten  
-<br>
+* Entwicklungstrauma
+* Schocktrauma
+* Depressionen
+* Belastungszuständen und Burnout
+* Psychosomatischen Schmerzen und Krankheiten
+* Selbstablehnung und Selbstverletzung
+* Ängsten
+* Gewalterfahrungen
+* Sexuellem Missbrauch
+* Sucht und Abhängigkeit nach Entzug
+* Gesteigerte Impulsivität
+* Partnerschafts- und Beziehungskonflikten
+* Soziale Isolation und Kontaktschwierigkeiten  
+  <br>
