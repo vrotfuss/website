@@ -22,5 +22,3 @@ Ich bin selbst durch viel Stagnation, Krankheit und Zersplitterung gegangen und 
 * 2015 – 2023 Mitarbeiterin einer kulturellen Einrichtung in München
 * 2005 – 2015 Schauspielengagements an diversen Theatern
 * 2002 – 2005 Theaterausbildung in München
-
-**Sonne/Berge**
