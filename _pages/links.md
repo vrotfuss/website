@@ -29,8 +29,6 @@ Peter Levine - Bücher
 Stephan Porges -  
 <br>
 
-**Sonne/Berge**
-
 Videos und Podcasts
 
 [Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)
