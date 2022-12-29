@@ -3,13 +3,13 @@ permalink: "/"
 title: Home
 
 ---
-**Veronika Rotfuß - Praxis für Systemische Beratung und Körperpsychotherapie**
+Veronika Rotfuß - Praxis für Systemische Beratung und Körperpsychotherapie
 
 Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der Sie sich verändern wollen.
 
 Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie diese als Erwachsene gestillt werden können. Die aktuelle Situation bekommt ihre Einbettung in den biographischen Kontext, blockierte Anteile der Persönlichkeit werden kennengelernt, eingefrorene Gefühle aufgetaut und der Spielraum des Lebens erweitert.
 
-{% include figure image_path="/assets/images/Bergkette zugeschnitten1.jpg" %}
+{% include figure image_path="/assets/images/Berge zugeschnitten2.jpg" %}
 
 Ich arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Identitätstherapie (Dagmar Strauß), der Elemente beinhaltet aus der Bindungspsychotherapie (Karl-Heinz Brisch), der körperbasierten Psychotraumatherapie Somatic Experiencing (Peter Levine) und NARM (Lawrence Heller). Daneben fließen das Wissen und die Grundlagen der Forschung zur Entspannung und Selbstregulation (Stephen Porges) sowie meiner Erfahrung mit Bodynamic (Somatische Entwicklungspsychologie) ein.  
 <br>  
