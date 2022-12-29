@@ -9,7 +9,7 @@ Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilprak
 
 Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite sowie dem traditionellen ägyptischen Tanz, den ich mit einer kleinen Gruppe Frauen erkunde und erfahre.
 
-{% include figure image_path="/assets/images/veronika.jpg" %}
+![image-center](/assets/images/veronika.jpg){: .align-center}
 
 Ich bin selbst durch viel Stagnation, Krankheit und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern. In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.  
 <br>
