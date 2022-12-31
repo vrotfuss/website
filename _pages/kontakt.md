@@ -3,6 +3,7 @@ permalink: "/kontakt/"
 title: Kontakt
 
 ---
+<br>
 Veronika Rotfuß  
 Praxis Vita  
 Grillparzerstraße 23  
