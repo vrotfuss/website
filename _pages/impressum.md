@@ -36,5 +36,4 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 
 **Quellenangaben für die verwendeten Bilder**
 
-Quelle: ...
-Bearbeitet durch ...
+Quelle: Shutterstock, bearbeitet durch O/M - Graphik
