@@ -12,14 +12,14 @@ main:
   - title: "Kontakt"
     url: /kontakt/
 contact:
-  - title: Kontakt
-    children:
-      - title: "Veronika Rotfuß"
-      - title: "Beratungspraxis"
-      - title: "praxis@veronikarotfuss.de"
-      - title: "0170-1140994"
+  - title: "Veronika Rotfuß"
+  - title: "Beratungspraxis"
+  - title: "praxis@veronikarotfuss.de"
+    url: "mailto:praxis@veronikarotfuss.de"
+  - title: "0170 - 11 40 99 4"
+    url: "tel:+491701140994"
 zitate:
-- title: 
+  - title: 
     children:
       - title: "Heilung verläuft nicht linear. Wir machen Umwege und nähern uns an. Wir umkreisen uns, bis wir bereit sind für die Begegnung."
       - title: "Um mich in dieser Welt sicher zu fühlen, muss ich mich zuerst in meinem eigenen Körper sicher fühlen."
