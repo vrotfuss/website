@@ -26,4 +26,4 @@ Ich berate und begleite Menschen bei
 * Partnerschafts- und Beziehungskonflikten
 * Soziale Isolation und Kontaktschwierigkeiten
 
-"Die Konflikte und Symptome, die wir loswerden wollen, sind der Eingang zu dem Bergwerk, das wir selbst sind. Steigen wir über diese Symptome in unser Bergwerk ein, treffen wir unter Umständen auf Dunkelheit und Unbekanntes. Wir treffen aber auch auf die Person, zu der wir den Kontakt verloren haben: Unser unwiderstehliches Ich."
+<br> "Die Konflikte und Symptome, die wir loswerden wollen, sind der Eingang zu dem Bergwerk, das wir selbst sind. Steigen wir über diese Symptome in unser Bergwerk ein, treffen wir unter Umständen auf Dunkelheit und Unbekanntes. Wir treffen aber auch auf die Person, zu der wir den Kontakt verloren haben: Unser unwiderstehliches Ich."
