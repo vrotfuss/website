@@ -14,6 +14,11 @@ contact:
   - title: "Beratungspraxis"
   - title: ""
     children:
+      - title: "Praxis Vita"
+      - title: "Grillparzerstraße 23"
+      - title: "81675 München"
+  - title: ""
+    children:
       - title: "praxis@veronikarotfuss.de"
         url: "mailto:praxis@veronikarotfuss.de"
   - title: ""
