@@ -11,7 +11,13 @@ main:
     url: /links/
   - title: "Kontakt"
     url: /kontakt/
-    
+contact:
+  - title: Kontakt
+    children:
+      - title: "Veronika Rotfuß"
+      - title: "Beratungspraxis"
+      - title: "praxis@veronikarotfuss.de"
+      - title: "0170-1140994"
 zitate:
 - title: 
     children:
