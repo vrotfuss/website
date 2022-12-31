@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Beratung & Begleitung"
     url: /beratung/
   - title: "Termine & Honorar"
@@ -14,9 +12,11 @@ main:
 contact:
   - title: "Veronika Rotfuß"
   - title: "Beratungspraxis"
-  - title: "praxis@veronikarotfuss.de"
+  - title: ""
+    text: "praxis@veronikarotfuss.de"
     url: "mailto:praxis@veronikarotfuss.de"
-  - title: "0170 - 11 40 99 4"
+  - title: ""
+    text: "0170 - 11 40 99 4"
     url: "tel:+491701140994"
 zitate:
   - title: 
