@@ -5,9 +5,12 @@ search: false
 
 @charset "utf-8";
 
-// Test: Hintergrund weiss, auch im Footer
+// Hintergrund weiss, auch im Footer
 $background-color: #fff;
 $footer-background-color: #fff;
+
+// Schriftgroesse h1 Header
+$h-size-1: 1em;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
