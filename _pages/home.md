@@ -3,8 +3,7 @@ permalink: "/"
 title: Home
 
 ---
-<br>  
-Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der Sie sich verändern wollen.
+<br> Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der Sie sich verändern wollen.
 
 Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie diese als Erwachsene gestillt werden können. Die aktuelle Situation bekommt ihre Einbettung in den biographischen Kontext, blockierte Anteile der Persönlichkeit werden kennengelernt, eingefrorene Gefühle aufgetaut und der Spielraum des Lebens erweitert.
 
@@ -27,5 +26,4 @@ Ich berate und begleite Menschen bei
 * Partnerschafts- und Beziehungskonflikten
 * Soziale Isolation und Kontaktschwierigkeiten
 
-  
 "Die Konflikte und Symptome, die wir loswerden wollen, sind der Eingang zu dem Bergwerk, das wir selbst sind. Steigen wir über diese Symptome in unser Bergwerk ein, treffen wir unter Umständen auf Dunkelheit und Unbekanntes. Wir treffen aber auch auf die Person, zu der wir den Kontakt verloren haben: Unser unwiderstehliches Ich."
