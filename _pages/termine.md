@@ -3,6 +3,7 @@ permalink: "/termine/"
 title: Termine & Honorar
 
 ---
+<br>
 Termine immer:
 
 Dienstag ab 17:00 Uhr  
@@ -19,4 +20,4 @@ Das vereinbarte Honorar beträgt 80,00 €.
 Terminvereinbarung telefonisch oder per Mail
 
 praxis@veronikarotfuss.de  
-0162 - 30 76 486
+0170 - 11 40 99 4
