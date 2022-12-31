@@ -4,7 +4,6 @@ title: Home
 
 ---
 <br>
-Veronika Rotfuß - Praxis für Systemische Beratung und Körperpsychotherapie
 
 Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der Sie sich verändern wollen.
 
@@ -26,4 +25,4 @@ Ich berate und begleite Menschen bei
 * Sucht und Abhängigkeit nach Entzug
 * Gesteigerte Impulsivität
 * Partnerschafts- und Beziehungskonflikten
-* Soziale Isolation und Kontaktschwierigkeiten  
+* Soziale Isolation und Kontaktschwierigkeiten
