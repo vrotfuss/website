@@ -11,4 +11,4 @@ Grillparzerstraße 23
 Terminvereinbarung telefonisch oder per Mail
 
 praxis@veronikarotfuss.de  
-0162 - 30 76 486
+0170 - 11 40 99 4
