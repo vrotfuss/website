@@ -13,11 +13,13 @@ contact:
   - title: "Veronika Rotfuß"
   - title: "Beratungspraxis"
   - title: ""
-    text: "praxis@veronikarotfuss.de"
-    url: "mailto:praxis@veronikarotfuss.de"
+    children:
+      - title: "praxis@veronikarotfuss.de"
+        url: "mailto:praxis@veronikarotfuss.de"
   - title: ""
-    text: "0170 - 11 40 99 4"
-    url: "tel:+491701140994"
+    children:
+      - title: "0170 - 11 40 99 4"
+        url: "tel:+491701140994"
 zitate:
   - title: 
     children:
