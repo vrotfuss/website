@@ -1,15 +1,15 @@
 ---
-permalink: /impressum/
+permalink: "/impressum/"
 title: Impressum
+
 ---
 <br>
 Angaben gemäß § 5 TMG
 
 **Kontakt:**  
-Veronika Rotfuß
-Praxis Vita
-Grillparzerstraße 23
-81675 München
+Veronika Rotfuß Praxis Vita Grillparzerstraße 23,  
+81675 München 
+
 praxis@veronikarotfuss.de
 
 **Haftungsausschluss:**
