@@ -11,7 +11,7 @@ Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie 
 
 Ich arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Identitätstherapie (Dagmar Strauß), der Elemente beinhaltet aus der Bindungspsychotherapie (Karl-Heinz Brisch), der körperbasierten Psychotraumatherapie Somatic Experiencing (Peter Levine) und NARM (Lawrence Heller). Daneben fließen das Wissen und die Grundlagen der Forschung zur Entspannung und Selbstregulation (Stephen Porges) sowie meiner Erfahrung mit Bodynamic (Somatische Entwicklungspsychologie) ein.  
 <br>  
-Ich berate und begleite Menschen bei
+                          Ich berate und begleite Menschen bei
 
 * Entwicklungstrauma
 * Schocktrauma
