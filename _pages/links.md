@@ -35,3 +35,5 @@ Videos und Podcasts
 [Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)
 
 [Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
+
+![Mann](/website/assets/images/Links_Weiterfuehrendes_Mann.jpg){: .align-right style="max-width: 40%;"}
