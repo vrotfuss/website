@@ -3,7 +3,7 @@ permalink: "/links/"
 title: Links & Weiterführendes
 
 ---
-<br> Empfehlenswerte Bücher, Podcasts, Videoreihen zu psychischer Gesundheit,  Beziehungen, Entwicklungstrauma, Schocktrauma, Konflikte und Selbstliebe.  
+<br> Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten und Selbstliebe.  
 <br>
 
 **Bücher**
@@ -24,7 +24,6 @@ title: Links & Weiterführendes
 
 [Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/dp/3466347866)
 
-  
 <br>
 
 **Videos und Podcasts**
