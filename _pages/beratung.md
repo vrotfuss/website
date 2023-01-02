@@ -5,7 +5,7 @@ title: Beratung & Begleitung
 ---
 <br> Die Gründe, warum Menschen sich phasenweise oder chronisch nicht gut fühlen sind vielfältig und beruhen auf einem Zusammenwirken verschiedener Faktoren, wie der genetischen Veranlagung, Erfahrungen der frühen Kindheit, dem späteren Lebensstil sowie aktuellen Belastungen und Erlebnissen. Ich arbeite daher mit einem multimodalen Ansatz aus Gespräch, systemischer Psychotherapie, Körperpsychotherapie und Verfahren zur Entspannung und Zentrierung. In Abspache mit meinen Klient*innen lokalisieren wir die Aspekte des Lebens, die Entwicklung brauchen und solche, die bereits gut ausgeprägt sind und dabei helfen können.
 
-Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen oder die Fähigkeit, Konflikte fair und authentisch einzugehen.  
+Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen, die Fähigkeit, klare Grenzen zu setzen oder Konflikte fair und authentisch einzugehen.  
 {: style="color: #a0522d;"}
 
 Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.
