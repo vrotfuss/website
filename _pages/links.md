@@ -3,10 +3,10 @@ permalink: "/links/"
 title: Links & Weiterführendes
 
 ---
-<br> Empfehlenswerte Bücher, Podcasts, Videoreihen und Vorträge zu psychischer Gesundheit,  Beziehungen, Entwicklungstrauma, Schocktrauma, Konflikte und Selbstliebe.  
+<br> Empfehlenswerte Bücher, Podcasts, Videoreihen zu psychischer Gesundheit,  Beziehungen, Entwicklungstrauma, Schocktrauma, Konflikte und Selbstliebe.  
 <br>
 
-Bücher
+**Bücher**
 
 [Verkörperter Schrecken (Bessel van der Kolk)](https://www.amazon.de/dp/3944476131)
 
@@ -24,17 +24,13 @@ Bücher
 
 [Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/dp/3466347866)
 
-Peter Levine - Bücher
-
-Stephan Porges -  
+  
 <br>
 
-Videos und Podcasts
+**Videos und Podcasts**
 
 [Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)
 
 [Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)
 
 [Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
-
-Thomas Harms - Bücher, Vorträge, Videos
