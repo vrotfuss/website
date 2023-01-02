@@ -6,7 +6,8 @@ title: Links & Weiterführendes
 <br> Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten und Selbstliebe.  
 <br>
 
-**Bücher**
+Bücher
+{: style="color: #a0522d;"}
 
 [Verkörperter Schrecken (Bessel van der Kolk)](https://www.amazon.de/dp/3944476131)
 
@@ -26,7 +27,8 @@ title: Links & Weiterführendes
 
 <br>
 
-**Videos und Podcasts**
+Videos und Podcasts
+{: style="color: #a0522d;"}
 
 [Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)
 
