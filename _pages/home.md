@@ -13,6 +13,7 @@ Ich arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Ide
 Ich berate und begleite Menschen bei
 {: style="color: #a0522d;"}
 
+![Tuer](/website/assets/images/Home_Tuer.jpg){: .align-right}
 * Entwicklungstrauma
 * Schocktrauma
 * Depressionen
