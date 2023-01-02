@@ -12,7 +12,7 @@ Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben
 
 Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die Person, die sie selbst sind, mögen, genießen und wollen. Wenn sie emotional präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt auf ihre Kinder zugehen.
 
-Ist dies nicht der Fall, wachsen Kinder mit dem Eindruck heran, falsch oder haltlos zu sein, sich in Beziehung nicht zeigen und entspannen zu können, durch bestimmte Leistungen Aufmerksamkeit oder eine Entlastung der Eltern erreichen zu müssen. Das verunsichert, macht Stress, erhöht die Cortisolwerte und lässt das Nervensystem auf Hochtouren laufen.
+Ist dies nicht der Fall, wachsen Kinder mit dem Eindruck heran, falsch oder haltlos zu sein, sich in Beziehung nicht zeigen und entspannen zu können, durch bestimmte Leistungen oder Verhalten Aufmerksamkeit oder eine Entlastung der Eltern erreichen zu müssen. Das verunsichert, macht Stress, erhöht die Cortisolwerte und lässt das Nervensystem auf Hochtouren laufen.
 
 Kinder können sich selbst nicht beruhigen, trösten oder Orientierung geben. Sie sind darauf angewiesen, dass ihre Eltern dies verlässlich und zugewandt tun.
 {: style="color: #a0522d;"}
