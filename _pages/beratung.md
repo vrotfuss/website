@@ -5,7 +5,7 @@ title: Beratung & Begleitung
 ---
 <br> Die Gründe warum Menschen sich phasenweise oder chronisch nicht gut fühlen sind vielfältig und beruhren auf einem Zusammenwirken verschiedener Faktoren, wie der genetischen Veranlagung, Erfahrungen der frühen Kindheit, dem späteren Lebensstil sowie aktuellen Belastungen und Erlebnissen.
 
-Ich arbeite daher mit einem multimodalen Ansatz aus Gespräch, systemischer Psychotherapie, Körperpsychotherapie und Verfahren zur Selbstregulation. Mit meinen Klient*innen 
+Ich arbeite daher mit einem multimodalen Ansatz aus Gespräch, systemischer Psychotherapie, Körperpsychotherapie und Verfahren zur Entspannung und Zentrierung. In Abspache mit meinen Klient*innen entwickeln wir die Richtung
 
 Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen oder die Fähigkeit, Konflikte fair und authentisch einzugehen.
 
