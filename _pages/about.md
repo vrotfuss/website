@@ -27,5 +27,6 @@ In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ä
 * 2002 – 2005 Theaterausbildung in München
   {: .notice--custom}
 
+  
 <br> „Heilung verläuft nicht linear. Wir machen Umwege und nähern uns an. Wir umkreisen uns, bis wir bereit sind für die Begegnung.“  
 {: style="color: #a0522d;"}
