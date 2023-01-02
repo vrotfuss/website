@@ -12,7 +12,9 @@ Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturelle
 
 ![Veronika Rotfuß](/website/assets/images/veronika.jpg){: .align-center}
 
-Ich bin selbst durch viel Stagnation, Krankheit und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern. In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.  
+Ich bin selbst durch viel Stagnation, Krankheit und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern. 
+
+In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.  
 <br>
 
 * 2023 – 2024 Bodynamic Foundation Training – Körperpsychotherapie   (Michael Rupp, Ditte Marcher)
