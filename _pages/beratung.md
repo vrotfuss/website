@@ -11,7 +11,9 @@ Ist dies nicht der Fall, wachsen Kinder mit dem Eindruck heran, falsch oder halt
 
 **Kinder können sich selbst nicht beruhigen, trösten oder Orientierung geben. Sie sind darauf angewiesen, dass ihre Eltern dies verlässlich und zugewandt tun.**
 
-Sind Eltern durch die eigene Biographie dazu nicht ausreichend in der Lage, zeitlich verhindert oder selbst Quelle der Bedrohung, bleiben Kinder auf ihrem Stress sitzen, obwohl im Außen alles recht "normal" wirkt. Über die Jahre können daraus Unruhezustände, Leere, Angst, Wut und Frustration entstehen sowie Melancholie, Resignation und Schwierigkeiten dabei, mit anderen Menschen in einem angenehmen Kontakt zu bleiben, das heißt realistisch, vertrauens- und lustvoll Beziehung zu leben, zu kooperieren und Grenzen zu setzen. Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle.
+Sind Eltern durch die eigene Biographie dazu nicht ausreichend in der Lage, zeitlich verhindert oder selbst Quelle der Bedrohung, bleiben Kinder auf ihrem Stress sitzen, obwohl im Außen alles recht normal wirkt. Über die Jahre können daraus Unruhezustände, Leere, Angst, Wut und Frustration entstehen sowie Melancholie, Resignation und Schwierigkeiten dabei, mit anderen Menschen in einem angenehmen Kontakt zu bleiben, das heißt realistisch, vertrauens- und lustvoll Beziehung zu leben, zu kooperieren und Grenzen zu setzen. 
+
+**Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle.**
 
 Ein Ausweg auf Zeit bietet dann manchmal eine erhöhtes Arbeitspensum, sehr viel Sport zu treiben, den Partner zu wechseln, immer unterwegs zu sein, Alkohol oder Drogen zu konsumieren, sozialer Rückzug, sich mit Onlinespielen und exzessivem Serienschauen zu betäuben und die Flucht in Tätigkeiten, die möglichst viel aussparen, von dem was die Realität uns abverlangt.
 
@@ -21,4 +23,4 @@ Treten wir jedoch in einen neuen Lebensabschnitt ein, wenn wir beruflich Verantw
 
 An dieser Stelle haben wir die Möglichkeit und meist auch Bereitschaft, uns zu sortieren. Was über die Jahre verkümmert ist, kann nachreifen. Jeder Bereich unserer Psyche ist in der Lage, sich auszudehnen und neu zu strukturieren.
 
-Unser Gehirn ist darauf ausgelegt, neue Erfahrungen zu verfestigen und alte Informationen zu überschreiben. Sobald wir in einem für uns sicheren emotionalen Umfeld sind, will alles in unserem Körper nachwachsen, sich auseinanderfalten und miteinander in Verbindung treten. Kommen wir in Bewegung, bewegt sich alles mit.
+**Unser Gehirn ist darauf ausgelegt, neue Erfahrungen zu verfestigen und alte Informationen zu überschreiben.** Sobald wir in einem für uns sicheren emotionalen Umfeld sind, will alles in unserem Körper nachwachsen, sich auseinanderfalten und miteinander in Verbindung treten. Kommen wir in Bewegung, bewegt sich alles mit.
