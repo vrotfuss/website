@@ -17,7 +17,6 @@ Ich bin selbst durch viel Stagnation, Krankheit und Zersplitterung gegangen und 
 In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.  
 <br>
 
-{% capture notice-2 %}
 * 2023 – 2024 Bodynamic Foundation Training – Körperpsychotherapie   (Michael Rupp, Ditte Marcher)
 * 2022 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung (Adriane Feldhege)
 * 2020 – 2022 Regelmäßige Intervision und Supervision bei Helmut Glas und Kollegen
@@ -26,4 +25,4 @@ In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ä
 * 2015 – 2023 Mitarbeiterin einer kulturellen Einrichtung in München
 * 2005 – 2015 Schauspielengagements an diversen Theatern
 * 2002 – 2005 Theaterausbildung in München
-{% endcapture %}
+{: .notice--custom}
