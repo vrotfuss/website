@@ -5,9 +5,10 @@ search: false
 
 @charset "utf-8";
 
-// Hintergrund weiss, auch im Footer
+// Farben setzen
 $background-color: #fff;
 $footer-background-color: #fff;
+$custom-color: #a0522d;
 
 // Schriftgroesse h1 Header
 $h-size-1: 1em;
@@ -27,10 +28,10 @@ $h-size-1: 1em;
 
 // Schriftfarbe Title
 .page__title {
-  color: #a0522d;
+  color: $custom-color;
 }
 
 // custom notice box
 .notice--custom {
-  @include notice("#a0522d");
+  @include notice($custom-color);
 }
