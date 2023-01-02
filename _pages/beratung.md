@@ -3,7 +3,9 @@ permalink: "/beratung/"
 title: Beratung & Begleitung
 
 ---
-<br> Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen oder die Fähigkeit, Konflikte fair und authentisch einzugehen.
+<br> Die Gründe warum Menschen sich phasenweise oder chronisch nicht gut fühlen sind vielfältig und beruhren häufig aus einem Zusammenwirken verschiedener Faktoren, wie der genetischen Veranlagung, Erfahrungen der frühen Kindheit und später dem gewählten Lebensstil. 
+
+Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen oder die Fähigkeit, Konflikte fair und authentisch einzugehen.
 
 Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.
 
