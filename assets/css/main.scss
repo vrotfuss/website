@@ -29,3 +29,8 @@ $h-size-1: 1em;
 .page__title {
   color: #a0522d;
 }
+
+// custom notice box
+.notice--custom {
+  @include notice("#a0522d");
+}
