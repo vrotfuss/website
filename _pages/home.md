@@ -16,14 +16,14 @@ Ich arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Ide
 * Schocktrauma
 * Depressionen
 * Belastungszuständen und Burnout
-* Psychosomatischen Schmerzen und Krankheiten
+* Psychosomatischen Krankheiten
 * Selbstablehnung und Selbstverletzung
 * Ängsten
 * Gewalterfahrungen
 * Sexuellem Missbrauch
 * Sucht und Abhängigkeit nach Entzug
 * Gesteigerte Impulsivität
-* Partnerschafts- und Beziehungskonflikten
-* Soziale Isolation und Kontaktschwierigkeiten
+* Beziehungskonflikten
+* Isolation und Kontaktschwierigkeiten
 
 <br> "Die Konflikte und Symptome, die wir loswerden wollen, sind der Eingang zu dem Bergwerk, das wir selbst sind. Steigen wir über diese Symptome in unser Bergwerk ein, treffen wir unter Umständen auf Dunkelheit und Unbekanntes. Wir treffen aber auch auf die Person, zu der wir den Kontakt verloren haben: Unser unwiderstehliches Ich."
