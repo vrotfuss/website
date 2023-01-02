@@ -3,7 +3,7 @@ permalink: "/beratung/"
 title: Beratung & Begleitung
 
 ---
-<br> Die Gründe warum Menschen sich phasenweise oder chronisch nicht gut fühlen sind vielfältig und beruhren auf einem Zusammenwirken verschiedener Faktoren, wie der genetischen Veranlagung, Erfahrungen in früher Kindheit, dem späteren Lebensstil sowie aktuellen Belastungen und Erlebnissen.
+<br> Die Gründe warum Menschen sich phasenweise oder chronisch nicht gut fühlen sind vielfältig und beruhren auf einem Zusammenwirken verschiedener Faktoren, wie der genetischen Veranlagung, Erfahrungen der frühen Kindheit, dem späteren Lebensstil sowie aktuellen Belastungen und Erlebnissen.
 
 Ich arbeite daher mit einem multimodalen Ansatz aus Gespräch, systemischer Psychotherapie, Körperpsychotherapie und Verfahren zur Selbstregulation. Mit meinen Klient*innen 
 
