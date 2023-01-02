@@ -36,4 +36,4 @@ Videos und Podcasts
 
 [Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
 
-![Mann](/website/assets/images/Links_Weiterfuehrendes_Mann.jpg){: .align-right style="max-width: 40%;"}
+![Mann](/website/assets/images/Links_Weiterführendes_Mann.jpg){: .align-right style="max-width: 40%;"}
