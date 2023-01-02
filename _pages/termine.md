@@ -4,6 +4,7 @@ title: Termine & Honorar
 
 ---
 <br>
+![Feuer](/website/assets/images/Termine_Feuer.jpg){: .align-right style="max-width: 40%;"}
 Termine immer:
 
 Dienstag ab 17:00 Uhr  
