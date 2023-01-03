@@ -7,7 +7,6 @@ title: Links & Weiterführendes
 <br>
 
 Bücher
-{: align-right style="color: #a0522d;"}
 
 [Verkörperter Schrecken (Bessel van der Kolk)](https://www.amazon.de/dp/3944476131)
 
