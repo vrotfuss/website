@@ -4,7 +4,7 @@ title: Termine & Honorar
 
 ---
 <br>
-![Feuer](/website/assets/images/Termine_Feuer.jpg){: .align-right style="max-width: 40%;"}
+![Feuer](/website/assets/images/Termine_Feuer.jpg){: .align-right style="max-width: 45%;"}
 Termine immer:
 
 Dienstag ab 17:00 Uhr  
@@ -23,5 +23,6 @@ Terminvereinbarung telefonisch oder per Mail
 praxis@veronikarotfuss.de  
 0170 - 11 40 99 4
 
-<br> "Wir brauchen in unserer Psyche eine klar gefühlte Grenze zwischen uns und der Außenwelt. Eine klare Grenze stabilisiert und verhindert, dass wir geflutet werden von den Zuständen und Ansprüchen anderer Menschen."  
+<br>
+"Wir brauchen in unserer Psyche eine klar gefühlte Grenze zwischen uns und der Außenwelt. Eine klare Grenze stabilisiert und verhindert, dass wir geflutet werden von den Zuständen und Ansprüchen anderer Menschen."  
 {: style="color: #a0522d;"}
