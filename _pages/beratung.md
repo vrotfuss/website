@@ -21,7 +21,7 @@ Kinder können sich selbst nicht beruhigen, trösten oder Orientierung geben. Si
 
 Sind Eltern durch die eigene Biographie dazu nicht ausreichend in der Lage, zeitlich verhindert oder selbst Quelle der Bedrohung, bleiben Kinder auf ihrem Stress sitzen, obwohl im Außen alles recht normal wirkt. Über die Jahre können daraus Unruhezustände, Leere, Angst, Wut und Frustration entstehen sowie Melancholie, Resignation und Schwierigkeiten dabei, mit anderen Menschen in einem angenehmen Kontakt zu bleiben, das heißt realistisch, vertrauens- und lustvoll Beziehung zu leben, zu kooperieren und Grenzen zu setzen.
 
-Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle.
+Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle. (Straub, 2022)  
 {: style="color: #a0522d;"}
 
 Ein Ausweg auf Zeit bietet dann manchmal eine erhöhtes Arbeitspensum, sehr viel Sport zu treiben, den Partner zu wechseln, immer unterwegs zu sein, Alkohol oder Drogen zu konsumieren, sozialer Rückzug, sich mit Onlinespielen und exzessivem Serienschauen zu betäuben und die Flucht in Tätigkeiten, die möglichst viel aussparen, von dem was die Realität uns abverlangt.
