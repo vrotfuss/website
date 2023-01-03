@@ -46,3 +46,10 @@ $h-size-1: 1em;
   margin: 0 0;
   padding: 0 0;
 }
+
+// Schriftfarbe Links
+.page__content {
+  a {
+    color: $custom-color;
+  }
+}
