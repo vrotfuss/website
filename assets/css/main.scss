@@ -53,3 +53,8 @@ $h-size-1: 1em;
     color: $custom-color;
   }
 }
+
+// kein Rand unterhalb der Header Grafik
+.page__hero {
+  margin-bottom: 0;
+}
