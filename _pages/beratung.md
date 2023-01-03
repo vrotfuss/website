@@ -38,6 +38,6 @@ Sobald wir in einem für uns sicheren emotionalen Umfeld sind, will alles in uns
 
 ![Freunde](/website/assets/images/Beratung_Freunde.jpg){: .align-center style="max-width: 40%;"}
 
-<br> (1) Säuglings- und Kleinkindalter: Bindungspsychotherapie - Bindungsbasierte Beratung und Therapie, Karl Heinz Brisch, 2014  
+<br> (1) Säuglings- und Kleinkindalter: Bindungspsychotherapie, Karl Heinz Brisch, 2014  
 (2) Verkörperter Schrecken, Bessel van der Kolk, 2015  
 (3) Frühe Traumata als Ursprung von chronischer Entzündung: Eine psychoneuroimmunologische Perspektive, Rainer H. Straub, 2022
