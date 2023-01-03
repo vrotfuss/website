@@ -27,7 +27,6 @@ Bücher
 <br>
 
 Videos und Podcasts
-{: style="color: #a0522d;"}
 
 [Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)
 
