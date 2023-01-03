@@ -8,10 +8,10 @@ title: Home
 Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie diese als Erwachsene gestillt werden können. Die aktuelle Situation bekommt ihre Einbettung in den biographischen Kontext, blockierte Anteile der Persönlichkeit werden kennengelernt, eingefrorene Gefühle aufgetaut und der Spielraum des Lebens erweitert. So entsteht auf organische Weise neues Handeln und Verhalten, was sich entlastend auf Beruf, Beziehungen und die eigene Gesundheit auswirkt.  
 <br>
 
+![Tuer](/website/assets/images/Home_Tuer.jpg){: .align-right style="max-width: 48%;"}
+
 Ich berate und begleite Menschen bei
 {: style="color: #a0522d;"}
-
-![Tuer](/website/assets/images/Home_Tuer.jpg){: .align-right style="max-width: 40%;"}
 
 * Entwicklungstrauma
 * Schocktrauma
