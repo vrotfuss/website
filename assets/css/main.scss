@@ -54,7 +54,10 @@ $h-size-1: 1em;
   }
 }
 
-// kein Rand unterhalb der Header Grafik
+// kein Rand unterhalb der Header Grafik, dafuer unter der Navigationsleiste
 .page__hero {
   margin-bottom: 0;
+}
+.masthead {
+  margin-bottom: 1em;
 }
