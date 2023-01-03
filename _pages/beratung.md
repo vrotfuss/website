@@ -36,7 +36,7 @@ Was über die Jahre verkümmert ist, kann nachreifen. Jeder Bereich unserer Psyc
 
 Sobald wir in einem für uns sicheren emotionalen Umfeld sind, will alles in unserem Körper nachwachsen, sich auseinanderfalten und miteinander in Verbindung treten. Kommen wir in Bewegung, bewegt sich alles mit.
 
-![Freunde](/website/assets/images/Beratung_Freunde.jpg){: .align-center style="max-width: 40%;"}
+![Freunde](/website/assets/images/Beratung_Freunde.jpg){: .align-center style="max-width: 90%;"}
 
 <br> (1) Säuglings- und Kleinkindalter: Bindungspsychotherapie, Karl Heinz Brisch, 2014  
 (2) Verkörperter Schrecken, Bessel van der Kolk, 2015  
