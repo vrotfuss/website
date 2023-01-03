@@ -10,6 +10,7 @@ Bücher
 {: align-right style="color: #a0522d;"}
 
 [Verkörperter Schrecken (Bessel van der Kolk)](https://www.amazon.de/dp/3944476131)
+{: align-right style="color: #a0522d;"}
 
 [Auch alte Wunden können heilen (Dami Charf)](https://www.amazon.de/dp/B077C3WLBJ)
 
@@ -18,6 +19,7 @@ Bücher
 [Wenn der Körper nein sagt (Gabor Mate)](https://www.amazon.de/dp/3962571744)
 
 [Im Reich der hungrigen Geister (Gabor Mate)](https://www.amazon.de/dp/B095J2NPP8)
+{: align-right style="color: #a0522d;"}
 
 [Gefühle besser verstehen (Cornelia Dehner-Rau)](https://www.amazon.de/dp/3442177820)
 
