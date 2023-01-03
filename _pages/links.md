@@ -12,7 +12,7 @@ Bücher
 
 [Auch alte Wunden können heilen (Dami Charf)](https://www.amazon.de/dp/B077C3WLBJ)
 
-[Bin ich traumatisiert? Wie wir die immer gleichen Problemschleifen verlassen (Verena König)](https://www.amazon.de/-/en/Verena-K%C3%B6nig/dp/3833878355/ref=sr_1_1?crid=2J7D8CV93556Q&keywords=verena+k%C3%B6nig&qid=1672772858&sprefix=verena+k%C3%B6nig%2Caps%2C123&sr=8-1 "Bin ich traumatisiert? Wie wir die immer gleichen Problemschleifen verlassen (Verena König)")
+[Bin ich traumatisiert? Wie wir die immer gleichen Problemschleifen verlassen (Verena König)](https://www.amazon.de/dp/3833878355)
 
 [Zurück in mein Ich (Vivian Broughton)](https://www.amazon.de/dp/3466346339)
 
@@ -24,7 +24,7 @@ Bücher
 
 [Trauma verstehen, bearbeiten, überwinden (Luise Reddemann)](https://www.amazon.de/dp/3432111045)
 
-[Die Polyvagal-Theorie und die Suche nach Sicherheit (Stephen W. Porges)](https://www.amazon.de/-/en/Stephen-W-Porges/dp/3944476190/ref=sr_1_1?crid=2TLLQVCY51EX3&keywords=Stephen+Porges&qid=1672773095&sprefix=stephen+porges%2Caps%2C114&sr=8-1 "Die Polyvagal-Theorie und die Suche nach Sicherheit (Stephen W. Porges)")
+[Die Polyvagal-Theorie und die Suche nach Sicherheit (Stephen W. Porges)](https://www.amazon.de/dp/3944476190)
 
 [Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/dp/3466347866)
 
