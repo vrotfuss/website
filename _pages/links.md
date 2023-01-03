@@ -12,6 +12,8 @@ Bücher
 
 [Auch alte Wunden können heilen (Dami Charf)](https://www.amazon.de/dp/B077C3WLBJ)
 
+[Bin ich traumatisiert? Wie wir die immer gleichen Problemschleifen verlassen (Verena König)](https://www.amazon.de/-/en/Verena-K%C3%B6nig/dp/3833878355/ref=sr_1_1?crid=2J7D8CV93556Q&keywords=verena+k%C3%B6nig&qid=1672772858&sprefix=verena+k%C3%B6nig%2Caps%2C123&sr=8-1 "Bin ich traumatisiert? Wie wir die immer gleichen Problemschleifen verlassen (Verena König)")
+
 [Zurück in mein Ich (Vivian Broughton)](https://www.amazon.de/dp/3466346339)
 
 [Wenn der Körper nein sagt (Gabor Mate)](https://www.amazon.de/dp/3962571744)
