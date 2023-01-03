@@ -10,7 +10,7 @@ Ich arbeite daher mit einem multimodalen Ansatz aus Gespräch, systemischer Psyc
 Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen, die Fähigkeit, Grenzen zu setzen und Konflikte fair und authentisch einzugehen.  
 {: style="color: #a0522d;"}
 
-Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden. 
+Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern feinfühlig und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden. (Brisch, 2014)
 
 Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die Person, die sie selbst sind, mögen, genießen und wollen. Wenn sie emotional präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt auf ihre Kinder zugehen.
 
@@ -38,5 +38,6 @@ Sobald wir in einem für uns sicheren emotionalen Umfeld sind, will alles in uns
 
 ![Freunde](/website/assets/images/Beratung_Freunde.jpg){: .align-center style="max-width: 40%;"}
 
-<br> (2) Verkörperter Schrecken, Bessel van der Kolk, 2015  
+<br> (1) Säuglings- und Kleinkindalter: Bindungspsychotherapie - Bindungsbasierte Beratung und Therapie, Karl Heinz Brisch, 2014  
+(2) Verkörperter Schrecken, Bessel van der Kolk, 2015  
 (3) Frühe Traumata als Ursprung von chronischer Entzündung: Eine psychoneuroimmunologische Perspektive, Rainer H. Straub, 2022
