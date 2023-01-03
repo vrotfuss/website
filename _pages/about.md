@@ -10,7 +10,7 @@ Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilprak
 
 Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite sowie dem traditionellen ägyptischen Tanz, den ich mit einer kleinen Gruppe Frauen erkunde und erfahre.
 
-![Veronika Rotfuß](/website/assets/images/veronika.jpg){: .align-center}
+![Veronika Rotfuß](/website/assets/images/veronika.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
 
 Ich bin selbst durch viel Stagnation, Krankheit und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern.
 
