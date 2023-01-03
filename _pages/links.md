@@ -24,6 +24,8 @@ Bücher
 
 [Trauma verstehen, bearbeiten, überwinden (Luise Reddemann)](https://www.amazon.de/dp/3432111045)
 
+[Die Polyvagal-Theorie und die Suche nach Sicherheit (Stephen W. Porges)](https://www.amazon.de/-/en/Stephen-W-Porges/dp/3944476190/ref=sr_1_1?crid=2TLLQVCY51EX3&keywords=Stephen+Porges&qid=1672773095&sprefix=stephen+porges%2Caps%2C114&sr=8-1 "Die Polyvagal-Theorie und die Suche nach Sicherheit (Stephen W. Porges)")
+
 [Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/dp/3466347866)
 
 <br>
