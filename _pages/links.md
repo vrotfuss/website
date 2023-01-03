@@ -30,6 +30,7 @@ Bücher
 
 <br>
 
+![Mann](/website/assets/images/Links_Weiterführendes_Mann.jpg){: .align-right style="max-width: 60%;"}
 Videos und Podcasts
 
 [Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)
@@ -37,5 +38,3 @@ Videos und Podcasts
 [Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)
 
 [Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
-
-![Mann](/website/assets/images/Links_Weiterführendes_Mann.jpg){: .align-center style="max-width: 40%;"}
