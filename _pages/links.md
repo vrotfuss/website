@@ -1,6 +1,6 @@
 ---
 permalink: "/links/"
-title: Links & Weiterführendes
+title: 
 
 ---
 Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten, Sucht, Gefühlen und Selbstregulation.  
