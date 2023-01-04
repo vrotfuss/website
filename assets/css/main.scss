@@ -61,13 +61,3 @@ $h-size-1: 1em;
 .masthead {
   margin-bottom: 1em;
 }
-
-// Farbe Navigationsleiste
-.greedy-nav {
-  a {
-    color: $custom-color;
-    &:hover {
-      color: $custom-color;
-    }
-  }
-}
