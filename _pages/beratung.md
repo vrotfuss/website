@@ -1,6 +1,5 @@
 ---
 permalink: "/beratung/"
-id: "/beratung/"
 title: 
 
 ---
