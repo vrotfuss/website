@@ -67,9 +67,9 @@
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}
-              {% if link.url == page.url %} this is active! {% endif %}
+              {% if link.url == page.id %} this is active! {% endif %}
               {{ link.url }}
-              {{ page.path }}
+              {{ page.id }}
               </a>
             </li>
           {%- endfor -%}
