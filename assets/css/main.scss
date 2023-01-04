@@ -66,5 +66,8 @@ $h-size-1: 1em;
 .greedy-nav {
   a {
     color: $custom-color;
+    &:hover {
+      color: $custom-color;
+    }
   }
 }
