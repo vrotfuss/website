@@ -1,6 +1,6 @@
 ---
 permalink: "/"
-title: Home
+title: 
 
 ---
 <br> Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der sie sich verändern wollen.
