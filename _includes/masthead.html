@@ -68,8 +68,8 @@
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}
               {% if link.url == page.id %} this is active! {% endif %}
-              {{ link.url }}
-              {{ page.id }}
+              {{ canonical_url }}
+              {{ page.path }}
               </a>
             </li>
           {%- endfor -%}
