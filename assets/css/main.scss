@@ -66,6 +66,8 @@ $h-size-1: 1em;
 // Home in der Navigationsleiste ebenfalls dynamisch unterstreichen
 .greedy-nav{
   .site-title {
+    position: relative;
+    
     &:before {
       content: "";
       position: absolute;
