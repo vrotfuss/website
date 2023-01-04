@@ -3,7 +3,7 @@ permalink: "/termine/"
 title: Termine & Honorar
 
 ---
-<br>
+  
 ![Feuer](/website/assets/images/Termine_Feuer.jpg){: .align-right style="max-width: 45%;"}
 Termine immer:
 
