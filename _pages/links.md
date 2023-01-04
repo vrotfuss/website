@@ -3,7 +3,7 @@ permalink: "/links/"
 title: Links & Weiterführendes
 
 ---
-<br> Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten und Selbstliebe.  
+Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten, Sucht, Gefühlen und Selbstregulation.  
 <br>
 
 Bücher
