@@ -24,7 +24,7 @@ Sind Eltern durch die eigene Biographie oder besondere Umstände dazu nicht ausr
 Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle. (Straub, 2022)  
 {: style="color: #a0522d;"}
 
-Ein Ausweg auf Zeit bietet dann manchmal eine erhöhtes Arbeitspensum, sehr viel Sport zu treiben, den Partner zu wechseln, immer unterwegs zu sein, Alkohol oder Drogen zu konsumieren, sozialer Rückzug, sich mit Onlinespielen und exzessivem Serienschauen zu betäuben und die Flucht in Tätigkeiten, die möglichst viel aussparen, von dem was die Realität uns abverlangt.
+Ein Ausweg auf Zeit bietet dann manchmal eine erhöhtes Arbeitspensum, sehr viel Sport zu treiben, den Partner zu wechseln, immer unterwegs zu sein, Alkohol oder Drogen zu konsumieren, sozialer Rückzug, sich mit Onlinespielen zu betäuben und die Flucht in Tätigkeiten, die möglichst viel aussparen, von dem was die Realität uns abverlangt.
 
 Diese Überlebensstrategien sind erst mal hilfreich, aus der Not geboren und verschaffen punktuell Erleichterung. Für eine gewisse Phase funktionieren sie gut.
 {: style="color: #a0522d;"}
