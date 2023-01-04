@@ -29,7 +29,7 @@ Ein Ausweg auf Zeit bietet dann manchmal eine erhöhtes Arbeitspensum, sehr viel
 Diese Überlebensstrategien sind erst mal hilfreich, aus der Not geboren und verschaffen punktuell Erleichterung. Für eine gewisse Phase funktionieren sie gut.
 {: style="color: #a0522d;"}
 
-Treten wir jedoch in einen neuen Lebensabschnitt ein, wenn wir beruflich Verantwortung übernehmen, eigene Kinder bekommen, krank werden, finanzielle Belastungen oder eine anstrengende Partnerschaft unser Selbstbild und unsere Sexualität beeinträchtigen, tragen die Überlebensstrategien nicht mehr. Uns bricht der Boden unter den Füßen weg. An dieser Stelle haben wir die Möglichkeit und meist auch Bereitschaft, uns zu sortieren.
+Treten wir jedoch in einen neuen Lebensabschnitt ein, wenn wir beruflich mehr Verantwortung übernehmen, eigene Kinder bekommen, krank werden, finanzielle Belastungen oder eine anstrengende Partnerschaft unser Selbstbild und unsere Sexualität beeinträchtigen, tragen die Überlebensstrategien nicht mehr. Uns bricht der Boden unter den Füßen weg. An dieser Stelle haben wir die Möglichkeit und meist auch Bereitschaft, uns zu sortieren.
 
 Was über die Jahre verkümmert ist, kann nachreifen. Jeder Bereich unserer Psyche ist in der Lage, sich auszudehnen und neu zu strukturieren. Unser Gehirn und damit unsere Gefühle und Gedanken sind darauf ausgelegt, neue Erfahrungen zu verfestigen und alte Informationen zu überschreiben.  
 {: style="color: #a0522d;"}
