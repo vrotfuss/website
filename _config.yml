@@ -67,7 +67,7 @@ defaults:
       share: false
       related: false
       header:
-        image: "/assets/images/Sonne_farbiger_Hintergrund.jpg"
+        image: "/assets/images/Sonne_farbiger_Hintergrund_heller.jpg"
   # _pages
   - scope:
       path: "_pages"
@@ -83,7 +83,7 @@ defaults:
       share: false
       related: false
       header:
-        image: "/assets/images/Sonne_farbiger_Hintergrund.jpg"
+        image: "/assets/images/Sonne_farbiger_Hintergrund_heller.jpg"
 
 category_archive:
   type: liquid
