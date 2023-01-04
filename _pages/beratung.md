@@ -34,7 +34,7 @@ Treten wir jedoch in einen neuen Lebensabschnitt ein, wenn wir beruflich mehr Ve
 Was über die Jahre verkümmert ist, kann nachreifen. Jeder Bereich unserer Psyche ist in der Lage, sich auszudehnen und neu zu strukturieren. Unser Gehirn und damit unsere Emotionen sind darauf ausgelegt, neue Erfahrungen zu verfestigen und alte Informationen zu überschreiben.  
 {: style="color: #a0522d;"}
 
-Sobald wir in einem für uns sicheren emotionalen Umfeld sind, will alles in unserem Körper nachwachsen, sich auseinanderfalten und miteinander in Verbindung treten. Kommen wir in Bewegung, bewegt sich alles mit.
+Sobald wir in einem für uns sicheren Umfeld sind, will alles in unserem Körper nachwachsen, sich auseinanderfalten und miteinander in Verbindung treten. Kommen wir in Bewegung, bewegt sich alles mit.
 
 ![Freunde](/website/assets/images/Beratung_Freunde.jpg){: .align-center style="max-width: 90%;"}
 
