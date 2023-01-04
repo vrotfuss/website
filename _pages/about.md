@@ -21,7 +21,7 @@ In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ä
 * 2022 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung (Adriane Feldhege)
 * 2020 – 2022 Regelmäßige Intervision und Supervision mit Kolleg*innen
 * 2020 – 2022 Ich-orientierte Identitätstherapie (Dagmar Strauß), systemischer traumabasierter Ansatz zum Aufbau gesunden Selbstkontakts und der Integration abgespaltener Anteile
-* 2015 – 2022 Regelmäßige Hospitation bei Dagmar Strauß, Praxis für gesunde Ich-Entwicklung
+* 2015 – 2022 Regelmäßige Hospitation bei Dagmar Strauß
 * 2015 – 2023 Mitarbeiterin einer kulturellen Einrichtung in München
 * 2005 – 2015 Schauspielengagements an diversen Theatern
 * 2002 – 2005 Theaterausbildung in München
