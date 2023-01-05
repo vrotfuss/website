@@ -5,7 +5,7 @@ title:
 ---
 Ich bin Veronika Rotfuß, Jahrgang 1980, geboren und aufgewachsen im Süden Deutschlands. Seit zwanzig Jahren lebe und arbeite ich in München, bin verheiratet und gehe bei jedem halbwegs guten Wetter mit Freunden in die Berge. Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen, Neues ausprobieren und dem Raum geben, was schon lange gehört und gefühlt werden will.
 
-![Veronika Rotfuß](https://app.forestry.io/sites/n8xnahhxirkwbw/body-media//website/assets/images/veronika.jpg) {: .align-center style="max-width: 40%; border-radius: 50%;"}
+![Veronika Rotfuß](https://app.forestry.io/sites/n8xnahhxirkwbw/body-media//website/assets/images/veronika.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
 
 Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Seit 2022 arbeite ich in einer Gemeinschaftspraxis in München und bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
 
