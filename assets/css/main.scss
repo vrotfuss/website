@@ -90,9 +90,14 @@ $h-size-1: 1em;
   }
 }
 
-// aktive Seite markieren
-.nav-active {
-  -webkit-transform: scaleX(0) translate3d(0, 0, 0);
-  transform: scaleX(0) translate3d(0, 0, 0);
-  font-weight: bold;
+// aktive Seite markieren und nicht unterstreichen beim hovern
+.greedy-nav{
+  .nav-active {
+    font-weight: bold;
+    
+    &:hover:before {
+      -webkit-transform: scaleX(0) translate3d(0, 0, 0);
+      transform: scaleX(0) translate3d(0, 0, 0);
+    }
+  }
 }
