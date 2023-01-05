@@ -5,7 +5,7 @@ title:
 ---
 Die Gründe, warum Menschen sich phasenweise oder chronisch nicht gut fühlen sind vielfältig und beruhen auf einem Zusammenwirken verschiedener Faktoren, wie der genetischen Veranlagung, Erfahrungen der frühen Kindheit, dem späteren Lebensstil sowie aktuellen Erlebnissen.
 
-Ich arbeite daher mit einem multimodalen Ansatz aus Gespräch, systemischer Psychotherapie, Körperpsychotherapie und Verfahren zur Entspannung und Zentrierung. In Abspache mit meinen Klient*innen lokalisieren wir die Aspekte des Lebens, die Entwicklung brauchen und solche, die bereits gut ausgeprägt sind und dabei helfen, den nächsten Schritt zu gehen.
+Ich arbeite daher mit einem multimodalen Ansatz aus Gespräch, systemischer Psychotherapie, Körperpsychotherapie und Verfahren zur Entspannung und Zentrierung. Im Gespräch mit meinen Klient*innen lokalisieren wir die Aspekte des Lebens, die Entwicklung brauchen und solche, die bereits gut ausgeprägt sind und dabei helfen, den nächsten Schritt zu gehen.
 
 Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen, die Fähigkeit, Grenzen zu setzen und Konflikte fair und authentisch einzugehen.  
 {: style="color: #a0522d;"}
