@@ -3,7 +3,7 @@ permalink: "/links/"
 title: 
 
 ---
-Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten, Sucht, Gefühlen und Selbstregulation.  
+Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten, Sucht und Selbstregulation.  
 <br>
 
 Bücher
@@ -38,3 +38,5 @@ Videos und Podcasts
 [Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)
 
 [Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
+
+[Irene Lyon - Videos](https://www.youtube.com/watch?v=ytNjWmeKty0 "Irene Lyon - Videos")
