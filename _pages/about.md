@@ -5,13 +5,13 @@ title:
 ---
 Ich bin Veronika Rotfuß, Jahrgang 1980, geboren und aufgewachsen im Süden Deutschlands. Seit zwanzig Jahren lebe und arbeite ich in München, bin verheiratet und gehe bei jedem halbwegs guten Wetter mit Freunden in die Berge. Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen, Neues ausprobieren und dem Raum geben, was schon lange gehört und gefühlt werden will.
 
-{: .align-center style="max-width: 40%; border-radius: 50%;"}
-
 Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Seit 2022 arbeite ich in einer Gemeinschaftspraxis in München und bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
 
 Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite sowie dem traditionellen ägyptischen Tanz, den ich mit einer kleinen Gruppe Frauen erkunde und erfahre.
 
-Ich bin selbst durch Stagnation, Krankheit und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern.
+![Veronika Rotfuß](/website/assets/images/veronika.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
+
+Ich bin selbst durch viel Stagnation, Krankheit und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern.
 
 In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.  
 <br>
