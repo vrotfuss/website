@@ -96,8 +96,8 @@ $h-size-1: 1em;
     font-weight: bold;
     
     &:hover:before {
-      -webkit-transform: scaleX(0) translate3d(0, 0, 0);
-      transform: scaleX(0) translate3d(0, 0, 0);
+      -webkit-transform: scaleX(0) translate3d(0, 0, 0) !important;
+      transform: scaleX(0) translate3d(0, 0, 0) !important;
     }
   }
 }
