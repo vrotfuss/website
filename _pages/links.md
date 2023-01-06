@@ -16,7 +16,7 @@ Videos und Podcasts
 
 [Irene Lyon - Videos](https://www.youtube.com/watch?v=ytNjWmeKty0)
 
-![Mann](/website/assets/images/Links_Weiterführendes_Mann.jpg){: .align-center style="max-width: 80%;"}
+![Mann](/website/assets/images/Links_Weiterführendes_Mann.jpg){: .align-center style="max-width: 100%;"}
 
 Bücher
 
