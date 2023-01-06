@@ -60,14 +60,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-      sidebar:
-        nav: "contact"
       read_time: false
       comments: false
       share: false
       related: false
-      header:
-        image: "/assets/images/Sonne_farbiger_Hintergrund_heller.jpg"
   # _pages
   - scope:
       path: "_pages"
@@ -78,7 +74,7 @@ defaults:
       author_profile: false
       sidebar:
         nav: "contact"
-        title: "Test 123"
+        title: "Veronika Rotfuß<br>Beratungspraxis"
       read_time: false
       comments: false
       share: false
