@@ -78,6 +78,7 @@ defaults:
       author_profile: false
       sidebar:
         nav: "contact"
+        title: "Test 123"
       read_time: false
       comments: false
       share: false
