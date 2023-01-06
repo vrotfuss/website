@@ -28,18 +28,13 @@ $h-size-1: 1em;
   text-align: center;
 }
 
-// Schriftfarbe Title
+// Schriftfarbe Titel
 .page__title {
   color: $custom-color;
 }
 
-// custom notice box
-.notice--custom {
-  @include notice($custom-color);
-}
-
 // Fonts in der Sidebar
-.nav__sub-title {
+.nav__title {
   font-size: 1.2em;
   font-weight: normal;
   text-transform: none;
