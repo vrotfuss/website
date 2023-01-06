@@ -31,6 +31,7 @@ Bücher
 <br>
 
 ![Mann](/website/assets/images/Links_Weiterführendes_Mann.jpg){: .align-right style="max-width: 60%;"}
+
 Videos und Podcasts
 
 [Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)
