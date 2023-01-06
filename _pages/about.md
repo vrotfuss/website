@@ -11,7 +11,7 @@ Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilprak
 
 Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite sowie dem traditionellen ägyptischen Tanz, den ich mit einer kleinen Gruppe Frauen erkunde und erfahre.
 
-Ich bin selbst durch viel Stagnation, Krankheit und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern.
+Ich bin selbst durch Stagnation, Krankheit und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch immer anfühlt, meine Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern.
 
 In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.  
 <br>
@@ -19,7 +19,7 @@ In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ä
 * 2023 – 2024 Bodynamic Foundation Training, Körperpsychotherapie - in Ausbildung  bei Michael Rupp und Ditte Marcher
 * 2023 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung bei Adriane Feldhege
 * 2020 – 2023 Regelmäßige Intervision und Supervision mit Kolleg*innen
-* 2020 – 2022 Zweijährige Ausbildung zur Anwendung der   
+* 2020 – 2022 Zweijährige Ausbildung zur Anwendung der  
   Ich-orientierten Identitätstherapie (Dagmar Strauß) - systemischer traumabasierter Ansatz zum Aufbau von Selbstkontakt und der Integration abgespaltener Anteile
 * 2015 – 2023 Regelmäßige Hospitation bei Dagmar Strauß
 * 2015 – 2023 Mitarbeiterin einer kulturellen Einrichtung in München
