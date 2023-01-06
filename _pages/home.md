@@ -3,7 +3,7 @@ permalink: "/"
 title: 
 
 ---
-Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. 
+Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen.
 
 In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der sie sich verändern wollen.
 
@@ -27,12 +27,12 @@ Ich berate und begleite Menschen bei
 * Gewalterfahrungen
 * Sexuellem Missbrauch
 * Sucht und Abhängigkeit nach Entzug
-* Gesteigerte Impulsivität
+* Gesteigerte Impulsivität/ Erwachsenen ADHS
 * Beziehungskonflikten
 * Isolation und Kontaktschwierigkeiten
 
 <br>  
-Ich arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Identitätstherapie (Dagmar Strauß), der Elemente beinhaltet aus der Bindungspsychotherapie (Karl-Heinz Brisch), der körperbasierten Psychotraumatherapie Somatic Experiencing (Peter Levine) und NARM (Lawrence Heller). 
+Ich arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Identitätstherapie (Dagmar Strauß), der Elemente beinhaltet aus der Bindungspsychotherapie (Karl-Heinz Brisch), der körperbasierten Psychotraumatherapie Somatic Experiencing (Peter Levine) und NARM (Lawrence Heller).
 
 Daneben fließen das Wissen und die Grundlagen der Forschung zur Entspannung und Selbstregulation (Stephen Porges) sowie meiner Erfahrung mit Bodynamic (Somatische Entwicklungspsychologie) ein.
 
