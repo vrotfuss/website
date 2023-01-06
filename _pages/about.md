@@ -16,8 +16,8 @@ Ich bin selbst durch viel Stagnation, Krankheit und Zersplitterung gegangen und 
 In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ähnliche Erfahrung: Nichts in uns ist so verwüstet, dass es nicht heil werden kann. Vielleicht nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir uns erhofften. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.  
 <br>
 
-* 2023 – 2024 Bodynamic Foundation – Körperpsychotherapie (Michael Rupp, Ditte Marcher)
-* 2023 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung (Adriane Feldhege)
+* 2023 – 2024 Bodynamic Foundation Training, Körperpsychotherapie - in Ausbildung  bei Michael Rupp, Ditte Marcher)
+* 2023 – 2024 Heilpraktikerin für Psychotherapie – in Ausbildung bei Adriane Feldhege
 * 2020 – 2023 Regelmäßige Intervision und Supervision mit Kolleg*innen
 * 2020 – 2022 Ich-orientierte Identitätstherapie (Dagmar Strauß), systemischer traumabasierter Ansatz zum Aufbau von Selbstkontakt und der Integration abgespaltener Anteile
 * 2015 – 2023 Regelmäßige Hospitation bei Dagmar Strauß
@@ -25,6 +25,6 @@ In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ä
 * 2005 – 2015 Schauspielengagements an diversen Theatern
 * 2002 – 2005 Theaterausbildung in München
 
-<br> 
+<br>
 „Heilung verläuft nicht linear. Wir machen Umwege und nähern uns an. Wir umkreisen uns, bis wir bereit sind für die Begegnung.“  
 {: style="color: #a0522d;"}
