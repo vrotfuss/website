@@ -5,6 +5,7 @@ title:
 ---
   
 ![Feuer](/website/assets/images/Termine_Feuer.jpg){: .align-right style="max-width: 45%;"}
+
 Termine immer:
 
 Dienstag ab 17:00 Uhr  
