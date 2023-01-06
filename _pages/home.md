@@ -32,7 +32,9 @@ Ich berate und begleite Menschen bei
 * Isolation und Kontaktschwierigkeiten
 
 <br>  
-Ich arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Identitätstherapie (Dagmar Strauß), der Elemente beinhaltet aus der Bindungspsychotherapie (Karl-Heinz Brisch), der körperbasierten Psychotraumatherapie Somatic Experiencing (Peter Levine) und NARM (Lawrence Heller). Daneben fließen das Wissen und die Grundlagen der Forschung zur Entspannung und Selbstregulation (Stephen Porges) sowie meiner Erfahrung mit Bodynamic (Somatische Entwicklungspsychologie) ein.
+Ich arbeite ich mit einem systemischen Ansatz auf Basis der Ich-orientierten Identitätstherapie (Dagmar Strauß), der Elemente beinhaltet aus der Bindungspsychotherapie (Karl-Heinz Brisch), der körperbasierten Psychotraumatherapie Somatic Experiencing (Peter Levine) und NARM (Lawrence Heller). 
+
+Daneben fließen das Wissen und die Grundlagen der Forschung zur Entspannung und Selbstregulation (Stephen Porges) sowie meiner Erfahrung mit Bodynamic (Somatische Entwicklungspsychologie) ein.
 
 <br>
 "Die Konflikte und Symptome, die wir loswerden wollen, sind der Eingang zu dem Bergwerk, das wir selbst sind. Steigen wir über diese Symptome in unser Bergwerk ein, treffen wir unter Umständen auf Dunkelheit und Unbekanntes. Wir treffen aber auch auf die Person, zu der wir den Kontakt verloren haben: Unser unwiderstehliches Ich."
