@@ -10,8 +10,6 @@ main:
   - title: "Kontakt"
     url: /kontakt/
 contact:
-  - title: "Veronika Rotfuß"
-  - title: "Beratungspraxis"
   - title: ""
     children:
       - title: "Praxis Vita"
