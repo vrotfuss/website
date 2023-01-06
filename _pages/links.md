@@ -6,6 +6,18 @@ title:
 Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten, Sucht und Selbstregulation.  
 <br>
 
+Videos und Podcasts
+
+[Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)
+
+[Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)
+
+[Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
+
+[Irene Lyon - Videos](https://www.youtube.com/watch?v=ytNjWmeKty0)
+
+![Mann](/website/assets/images/Links_Weiterführendes_Mann.jpg){: .align-center style="max-width: 80%;"}
+
 Bücher
 
 [Verkörperter Schrecken (Bessel van der Kolk)](https://www.amazon.de/dp/3944476131)
@@ -27,17 +39,3 @@ Bücher
 [Die Polyvagal-Theorie und die Suche nach Sicherheit (Stephen W. Porges)](https://www.amazon.de/dp/3944476190)
 
 [Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/dp/3466347866)
-
-<br>
-
-![Mann](/website/assets/images/Links_Weiterführendes_Mann.jpg){: .align-right style="max-width: 60%;"}
-
-Videos und Podcasts
-
-[Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)
-
-[Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)
-
-[Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
-
-[Irene Lyon - Videos](https://www.youtube.com/watch?v=ytNjWmeKty0 "Irene Lyon - Videos")
