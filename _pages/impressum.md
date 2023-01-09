@@ -6,8 +6,8 @@ title:
 Angaben gemäß § 5 TMG
 
 **Kontakt:**  
-Veronika Rotfuß   
-Praxis Vita   
+Veronika Rotfuß  
+Praxis Vita  
 Grillparzerstraße 23  
 81675 München
 
@@ -33,6 +33,10 @@ Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Date
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.  
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
-**Quellenangaben für die verwendeten Bilder**
+**Quellenangabe für die verwendete Graphik**
 
 Quelle: Shutterstock, bearbeitet durch O/M - Graphik
+
+**Quellenangabe für die verwendeteten Bilder**
+
+Foto 1 auf Home von Helena Lopes auf Unsplash
