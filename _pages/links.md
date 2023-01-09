@@ -20,7 +20,7 @@ Entwicklungstrauma und ADHS bei Erwachsenen
 [Irene Lyon - Videos](https://www.youtube.com/watch?v=ytNjWmeKty0)  
 Schrittweise Substanz aufbauen, um Gefühle halten und verarbeiten zu können
 
-![Mann](/assets/images/Links_Weiterführendes_Mann.jpg){: .align-center style="max-width: 100%;"}
+![Mann](/assets/images/Links_Weiterführendes_Mann_klein.jpg){: .align-center style="max-width: 100%;"}
 
 Bücher
 
