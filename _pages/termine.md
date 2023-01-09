@@ -4,7 +4,7 @@ title:
 
 ---
   
-![Feuer](/assets/images/Termine_Feuer_klein.jpg){: .align-right}
+![Feuer](/assets/images/Termine_Feuer_klein.jpg){: .align-right style="max-width: 45%;"}
 
 Termine immer:
 
