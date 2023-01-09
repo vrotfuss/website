@@ -7,7 +7,7 @@ Ich bin Veronika Rotfuß, Jahrgang 1980, geboren und aufgewachsen im Süden Deut
 
 Ich bin ausgebildete Ich-orientierte-Identitätstherapie-Anwenderin und Heilpraktikerin für Psychotherapie in Ausbildung. Seit 2022 arbeite ich in einer Gemeinschaftspraxis in München und bilde mich kontinuierlich weiter im Bereich körperbasierter Psychotherapien, der Psychotraumatologie und Verfahren zur Förderung der Selbstregulation.
 
-![Veronika Rotfuß](/website/assets/images/veronika.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
+![Veronika Rotfuß](/assets/images/veronika.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
 
 Einen Teil meiner Zeit widme ich außerdem seit etlichen Jahren einer kulturellen Einrichtung in München, wo ich mit vielen geschätzten Kolleginnen und Kollegen zusammenarbeite sowie dem traditionellen ägyptischen Tanz, den ich mit einer kleinen Gruppe Frauen erkunde und erfahre.
 
