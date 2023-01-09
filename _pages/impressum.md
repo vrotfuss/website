@@ -50,3 +50,6 @@ von Helena Lopes auf Unsplash
 
 Foto (Lagerfeuer) auf Termine & Honorar   
 von Wren Meinberg auf Unsplash
+
+Foto (Porträt) auf Über mich   
+von Richard Rotfuß
