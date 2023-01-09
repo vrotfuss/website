@@ -39,4 +39,6 @@ Quelle: Shutterstock, bearbeitet durch O/M - Graphik
 
 **Quellenangabe für die verwendeteten Bilder**
 
-Foto 1 auf Home von Helena Lopes auf Unsplash
+Foto 1 auf Home von Joakim Honkasalo auf Unsplash
+
+Foto 1 auf Beratung & Begleitung  von Helena Lopes auf Unsplash
