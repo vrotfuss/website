@@ -13,7 +13,7 @@ title: Veronika Rotfuß
 description: Beratungspraxis
 #email: no@mail.fornow
 url: https://vrotfuss.github.io
-baseurl: /website
+baseurl: /
 repository: vrotfuss/website
 github_username: vrotfuss
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
