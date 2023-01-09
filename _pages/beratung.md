@@ -7,7 +7,7 @@ Die Gründe, warum Menschen sich phasenweise oder chronisch nicht gut fühlen si
 
 Ich arbeite daher mit einem multimodalen Ansatz aus Gespräch, systemischer Psychotherapie, Körperpsychotherapie und Verfahren zur Entspannung und Zentrierung. Gemeinsam mit meinen Klient*innen lokalisieren wir Bereiche des Lebens, die Entwicklung brauchen und solche, die bereits gut ausgeprägt sind und dabei helfen, den nächsten Schritt zu gehen.
 
-![Freunde](/website/assets/images/Beratung_Freunde.jpg){: .align-center style="max-width: 100%;"}
+![Freunde](/assets/images/Beratung_Freunde.jpg){: .align-center style="max-width: 100%;"}
 
 Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen, die Fähigkeit, Grenzen zu setzen und Konflikte fair und authentisch einzugehen.  
 {: style="color: #a0522d;"}
