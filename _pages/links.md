@@ -8,13 +8,17 @@ Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlich
 
 Videos und Podcasts
 
-[Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)
+[Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)   
+Themen zum Aufbau guten Selbstkontakts bei Entwicklungstrauma 
 
-[Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)
+[Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)   
+Themen zu kindlicher Prägung und Anleitungen für den Umgang mit Gefühlen und Situationen im Alltag
 
-[Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)
+[Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)   
+Entwicklungstrauma und ADHS bei Erwachsenen
 
-[Irene Lyon - Videos](https://www.youtube.com/watch?v=ytNjWmeKty0)
+[Irene Lyon - Videos](https://www.youtube.com/watch?v=ytNjWmeKty0)   
+Selbstregulation und Substanz aufbauen, um Gefühle halten und verarbeiten zu können
 
 ![Mann](/website/assets/images/Links_Weiterführendes_Mann.jpg){: .align-center style="max-width: 100%;"}
 
