@@ -20,6 +20,9 @@ Entwicklungstrauma und ADHS bei Erwachsenen
 [Irene Lyon - Videos](https://www.youtube.com/watch?v=ytNjWmeKty0)  
 Schrittweise Substanz aufbauen, um Gefühle halten und verarbeiten zu können
 
+[Bessel van der Kolk - Video](https://www.youtube.com/watch?v=szvCMwl_d-E "Bessel van der Kolk - Video")  
+Symptome von Entwicklungstrauma und Schocktrauma bei Kindern und Erwachsenen
+
 ![Mann](/assets/images/Links_Weiterführendes_Mann_klein.jpg){: .align-center style="max-width: 100%;"}
 
 Bücher
