@@ -9,7 +9,7 @@ Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlich
 Videos und Podcasts
 
 [Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)  
-Themen zum Aufbau guten Selbstkontakts bei Entwicklungstrauma
+Themen zum Aufbau einer Verbindung zu sich selbst
 
 [Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)  
 Themen zu kindlicher Prägung und Anleitungen für den Umgang mit Gefühlen und Situationen im Alltag
