@@ -23,6 +23,9 @@ Schrittweise Substanz aufbauen, um Gefühle halten und verarbeiten zu können
 [Bessel van der Kolk - Video](https://www.youtube.com/watch?v=szvCMwl_d-E "Bessel van der Kolk - Video")  
 Symptome von Entwicklungstrauma und Schocktrauma bei Kindern und Erwachsenen
 
+[Verena König - Podcast](https://www.youtube.com/watch?v=sw5JM58PENk "Verena König - Podcast")  
+Prokrastination
+
 ![Mann](/assets/images/Links_Weiterführendes_Mann_klein.jpg){: .align-center style="max-width: 100%;"}
 
 Bücher
