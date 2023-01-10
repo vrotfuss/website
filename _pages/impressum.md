@@ -24,16 +24,15 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-
 **Quellenangabe für die verwendete Graphik (Berge/Sonne)**
 
-- Net Vector/shutterstock.com bearbeitet durch O/M - Graphik
+* Net Vector/shutterstock.com bearbeitet durch O/M - Graphik
 
 **Quellenangabe für die verwendeteten Bilder**
 
-- Foto (Porträt) auf Home von Richard Rotfuß
-- Foto (Tür) auf Home von Joakim Honkasalo auf Unsplash
-- Foto (Freunde) auf Beratung & Begleitung von Helena Lopes auf Unsplash
-- Foto (Lagerfeuer) auf Termine & Honorar von Wren Meinberg auf Unsplash
-- Foto (Porträt) auf Über mich von Richard Rotfuß
-- Foto (Mann) auf Links & weiteführendes Jeremy Perkins auf Unsplash
+* Foto (Porträt) auf Home von Richard Rotfuß
+* Foto (Tür) auf Home von Joakim Honkasalo auf Unsplash
+* Foto (Freunde) auf Beratung & Begleitung von Helena Lopes auf Unsplash
+* Foto (Lagerfeuer) auf Termine & Honorar von Wren Meinberg auf Unsplash
+* Foto (Porträt) auf Über mich von Richard Rotfuß
+* Foto (Mann) auf Links & Weiterführendes Jeremy Perkins auf Unsplash
