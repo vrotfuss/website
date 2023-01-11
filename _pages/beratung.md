@@ -14,6 +14,8 @@ Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstv
 
 Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern liebevoll und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden. (Brisch, 2014)
 
+<p markdown="1">As trade-off talking rational economic people[^1], we are constantly making choices that have different costs associated with them.</p>
+
 Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die Person, die sie selbst sind, mögen, genießen und wollen. Wenn sie emotional präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt auf ihre Kinder zugehen.
 
 Ist dies nicht der Fall, wachsen Kinder mit dem Eindruck heran, falsch oder haltlos zu sein, sich in Beziehung nicht zeigen und entspannen zu können, durch bestimmte Leistungen oder Verhalten die Aufmerksamkeit oder eine Entlastung der Eltern erreichen zu müssen. Das verunsichert, macht Stress, erhöht die Cortisolwerte und lässt das Nervensystem auf Hochtouren laufen. (van der Kolk, 2015)
@@ -41,9 +43,5 @@ Sobald wir in einem für uns sicheren Umfeld sind, will alles in unserem Körper
 <br> (1) Säuglings- und Kleinkindalter: Bindungspsychotherapie, Karl Heinz Brisch, 2014  
 (2) Verkörperter Schrecken, Bessel van der Kolk, 2015  
 (3) Frühe Traumata als Ursprung von chronischer Entzündung: Eine psychoneuroimmunologische Perspektive, Rainer H. Straub, 2022
-
-<p markdown="1">As trade-off talking rational economic people[^1], we are constantly making choices that have different costs associated with them.</p>
-
-Text dazwischen
 
 [^1]: http://en.wikipedia.org/wiki/Trade-off_talking_rational_economic_person`
