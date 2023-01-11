@@ -26,9 +26,9 @@ Sind Eltern durch die eigene Biographie oder besondere Umstände dazu nicht ausr
 Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle. (Straub, 2022)  
 {: style="color: #a0522d;"}
 
-Ein Ausweg auf Zeit bietet dann manchmal eine erhöhtes Arbeitspensum, sehr viel Sport zu treiben, den Partner zu wechseln, immer unterwegs zu sein, Alkohol oder Drogen zu konsumieren, sozialer Rückzug, sich mit Onlinespielen zu betäuben und die Flucht in Tätigkeiten, die möglichst viel aussparen, von dem was die Realität uns abverlangt.
+Ein Ausweg auf Zeit bietet dann manchmal ein erhöhtes Arbeitspensum, sehr viel Sport zu treiben, den Partner zu wechseln, immer unterwegs zu sein, Alkohol oder Drogen zu konsumieren, sozialer Rückzug, sich mit Onlinespielen zu betäuben oder die Flucht in Tätigkeiten, die möglichst viel aussparen, von dem was die Realität uns abverlangt.
 
-Diese Überlebensstrategien sind erst mal hilfreich, aus der Not geboren und verschaffen punktuell Erleichterung. Für eine gewisse Phase funktionieren sie gut.
+Diese Überlebensstrategien sind erstmal hilfreich, aus der Not geboren und verschaffen punktuell Erleichterung. Für eine gewisse Phase funktionieren sie gut.
 {: style="color: #a0522d;"}
 
 Treten wir jedoch in einen neuen Lebensabschnitt ein, wenn wir beruflich mehr Verantwortung übernehmen, eigene Kinder bekommen, krank werden, finanzielle Belastungen oder eine anstrengende Partnerschaft unser Selbstbild und unsere Sexualität beeinträchtigen, tragen die Überlebensstrategien nicht mehr. Uns bricht der Boden unter den Füßen weg. An dieser Stelle haben wir die Möglichkeit und meist auch Bereitschaft, uns zu sortieren.
