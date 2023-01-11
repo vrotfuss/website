@@ -41,3 +41,6 @@ Sobald wir in einem für uns sicheren Umfeld sind, will alles in unserem Körper
 <br> (1) Säuglings- und Kleinkindalter: Bindungspsychotherapie, Karl Heinz Brisch, 2014  
 (2) Verkörperter Schrecken, Bessel van der Kolk, 2015  
 (3) Frühe Traumata als Ursprung von chronischer Entzündung: Eine psychoneuroimmunologische Perspektive, Rainer H. Straub, 2022
+
+<p markdown="1">As trade-off talking rational economic people [^1], we are constantly making choices that have different costs associated with them.</p>
+[^1]: http://en.wikipedia.org/wiki/Trade-off_talking_rational_economic_person`
