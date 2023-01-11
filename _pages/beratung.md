@@ -26,9 +26,6 @@ Sind Eltern durch die eigene Biographie oder besondere Umstände dazu nicht ausr
 <p markdown="1">Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle.[^3] </p>
 {: style="color: #a0522d;"}
 
-Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle. (Straub, 2022)  
-{: style="color: #a0522d;"}
-
 Ein Ausweg auf Zeit bietet dann manchmal ein erhöhtes Arbeitspensum, sehr viel Sport zu treiben, den Partner zu wechseln, immer unterwegs zu sein, Alkohol oder Drogen zu konsumieren, sozialer Rückzug, sich mit Onlinespielen zu betäuben oder die Flucht in Tätigkeiten, die möglichst viel aussparen, von dem was die Realität uns abverlangt.
 
 Diese Überlebensstrategien sind erstmal hilfreich, aus der Not geboren und verschaffen punktuell Erleichterung. Für eine gewisse Phase funktionieren sie gut.
@@ -40,10 +37,6 @@ Was über die Jahre verkümmert ist, kann nachreifen. Jeder Bereich unserer Psyc
 {: style="color: #a0522d;"}
 
 Sobald wir in einem für uns sicheren Umfeld sind, will alles in unserem Körper nachwachsen, sich auseinanderfalten und miteinander in Verbindung treten. Kommen wir in Bewegung, bewegt sich alles mit.
-
-<br> (1) Säuglings- und Kleinkindalter: Bindungspsychotherapie, Karl Heinz Brisch, 2014  
-(2) Verkörperter Schrecken, Bessel van der Kolk, 2015  
-(3) Frühe Traumata als Ursprung von chronischer Entzündung: Eine psychoneuroimmunologische Perspektive, Rainer H. Straub, 2022
 
 [^1]: Säuglings- und Kleinkindalter: Bindungspsychotherapie, Karl Heinz Brisch, 2014
 [^2]: Verkörperter Schrecken, Bessel van der Kolk, 2015
