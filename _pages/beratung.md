@@ -12,9 +12,7 @@ Ich arbeite daher mit einem multimodalen Ansatz aus Gespräch, systemischer Psyc
 Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen, die Fähigkeit, Grenzen zu setzen und Konflikte fair und authentisch einzugehen.  
 {: style="color: #a0522d;"}
 
-<p markdown="1">
-Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern liebevoll und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.[^1]
-</p>
+<p markdown="1">Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern liebevoll und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden. [^1] </p>
 
 Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die Person, die sie selbst sind, mögen, genießen und wollen. Wenn sie emotional präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt auf ihre Kinder zugehen.
 
