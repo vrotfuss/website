@@ -12,7 +12,7 @@ Ich arbeite daher mit einem multimodalen Ansatz aus Gespräch, systemischer Psyc
 Selbstvertrauen im Beruf, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen, die Fähigkeit, Grenzen zu setzen und Konflikte fair und authentisch einzugehen.  
 {: style="color: #a0522d;"}
 
-Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern liebevoll und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden. (Brisch, 2014)
+<p markdown="1">Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern liebevoll und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.[^1] (Brisch, 2014)</p>
 
 <p markdown="1">As trade-off talking rational economic people[^1], we are constantly making choices that have different costs associated with them.</p>
 
@@ -45,3 +45,5 @@ Sobald wir in einem für uns sicheren Umfeld sind, will alles in unserem Körper
 (3) Frühe Traumata als Ursprung von chronischer Entzündung: Eine psychoneuroimmunologische Perspektive, Rainer H. Straub, 2022
 
 [^1]: Säuglings- und Kleinkindalter: Bindungspsychotherapie, Karl Heinz Brisch, 2014
+[^2]: Verkörperter Schrecken, Bessel van der Kolk, 2015
+[^3]: Frühe Traumata als Ursprung von chronischer Entzündung: Eine psychoneuroimmunologische Perspektive, Rainer H. Straub, 2022
