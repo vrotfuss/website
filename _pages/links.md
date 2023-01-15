@@ -29,7 +29,7 @@ Prokrastination
 [Verena König - Podcast](https://www.youtube.com/watch?v=3knoJSwFfok "Verena König - Podcast")  
 Sucht
 
-[Verena König Podcast](https://www.youtube.com/watch?v=Yd5vWjDldJ0 "Verena König - Podcast")  
+[Verena König - Podcast](https://www.youtube.com/watch?v=Yd5vWjDldJ0 "Verena König - Podcast")  
 Emotionales Essen
 
 ![Mann](/assets/images/Links_Weiterführendes_Mann_klein.jpg){: .align-center style="max-width: 100%;"}
