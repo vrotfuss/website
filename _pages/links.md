@@ -23,14 +23,14 @@ Schrittweise Substanz aufbauen, um Gefühle halten und verarbeiten zu können
 [Bessel van der Kolk - Video](https://www.youtube.com/watch?v=szvCMwl_d-E "Bessel van der Kolk - Video")  
 Entwicklungstrauma und Schocktrauma bei Kindern und Erwachsenen
 
-[Verena König - Podcast](https://www.youtube.com/watch?v=sw5JM58PENk "Verena König - Podcast")  
-Prokrastination
-
 [Verena König - Podcast](https://www.youtube.com/watch?v=3knoJSwFfok "Verena König - Podcast")  
 Sucht
 
 [Verena König - Podcast](https://www.youtube.com/watch?v=Yd5vWjDldJ0 "Verena König - Podcast")  
 Emotionales Essen
+
+[Verena König - Podcast](https://www.youtube.com/watch?v=sw5JM58PENk "Verena König - Podcast")  
+Prokrastination
 
 ![Mann](/assets/images/Links_Weiterführendes_Mann_klein.jpg){: .align-center style="max-width: 100%;"}
 
