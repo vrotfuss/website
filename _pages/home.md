@@ -27,7 +27,6 @@ Ich berate und begleite Menschen bei
 * Gewalterfahrungen
 * Sexuellem Missbrauch
 * Sucht und Abhängigkeit nach Entzug
-* Gesteigerte Impulsivität/ Erwachsenen ADHS
 * Beziehungskonflikten
 * Isolation und Kontaktschwierigkeiten
 
