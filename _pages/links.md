@@ -9,7 +9,7 @@ Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlich
 Videos und Podcasts
 
 [Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)  
-Themen zum Aufbau einer Verbindung zu sich selbst
+Themen zum Aufbau einer stabilen Verbindung zu sich selbst
 
 [Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)  
 Themen zu kindlicher Prägung und Anleitungen für den Umgang mit Gefühlen und Situationen im Alltag
@@ -21,10 +21,16 @@ Entwicklungstrauma und ADHS bei Erwachsenen
 Schrittweise Substanz aufbauen, um Gefühle halten und verarbeiten zu können
 
 [Bessel van der Kolk - Video](https://www.youtube.com/watch?v=szvCMwl_d-E "Bessel van der Kolk - Video")  
-Symptome von Entwicklungstrauma und Schocktrauma bei Kindern und Erwachsenen
+Entwicklungstrauma und Schocktrauma bei Kindern und Erwachsenen
 
 [Verena König - Podcast](https://www.youtube.com/watch?v=sw5JM58PENk "Verena König - Podcast")  
 Prokrastination
+
+[Verena König - Podcast](https://www.youtube.com/watch?v=3knoJSwFfok "Verena König - Podcast")  
+Sucht
+
+[Verena König Podcast](https://www.youtube.com/watch?v=Yd5vWjDldJ0 "Verena König - Podcast")  
+Emotionales essen
 
 ![Mann](/assets/images/Links_Weiterführendes_Mann_klein.jpg){: .align-center style="max-width: 100%;"}
 
