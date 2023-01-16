@@ -9,10 +9,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Veronika Rotfuß
-description: Beratungspraxis
+title: Veronika Rotfuß - Beratungspraxis
+description: Veronika Rotfuß - Beratungspraxis
 #email: no@mail.fornow
-url: https://vrotfuss.github.io
+url: https://veronikarotfuss.de
 baseurl: /
 repository: vrotfuss/website
 github_username: vrotfuss
