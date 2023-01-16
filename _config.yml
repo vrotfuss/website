@@ -81,10 +81,3 @@ defaults:
       related: false
       header:
         image: "/assets/images/Sonne_farbiger_Hintergrund_heller.jpg"
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
