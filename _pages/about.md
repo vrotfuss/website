@@ -1,7 +1,7 @@
 ---
-permalink: "/about/"
-title: 
-
+permalink: /about/
+title: null
+published: true
 ---
 Ich bin Veronika Rotfuß, Jahrgang 1980, geboren und aufgewachsen im Süden Deutschlands. Seit zwanzig Jahren lebe und arbeite ich in München, bin verheiratet und gehe bei jedem halbwegs guten Wetter mit Freunden in die Berge. Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen, Neues ausprobieren und dem Raum geben, was schon lange gehört und gefühlt werden will.
 
@@ -23,7 +23,7 @@ In der Arbeit mit meinen Klientinnen und Klienten mache ich immer wieder eine ä
 * 2020 – 2023  
   Regelmäßige Intervision und Supervision mit Kolleg*innen (3 Stunden/Woche)
 * 2020 – 2022  
-  Zweijährige Ausbildung zur Anwendung der Ich-orientierten Identitätstherapie (Dagmar Strauß) - systemische Traumatherapie zum Aufbau von Selbstkontakt und der Integration abgespaltener Anteile (250 Stunden)
+  Zweijährige Ausbildung zur Anwendung der Ich-orientierten Identitätstherapie (Dagmar Strauß) - systemische Traumatherapie zum Aufbau von Selbstkontakt und der Integration abgespaltener Anteile (328 Stunden)
 * 2015 – 2023  
   Regelmäßige Hospitation bei Dagmar Strauß und Helmut Glas (16-20 Stunden/Monat)
 * 2015 –  2023  
