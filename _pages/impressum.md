@@ -1,6 +1,6 @@
 ---
 permalink: "/impressum/"
-title: 
+title: Impressum
 
 ---
 Angaben gemäß § 5 TMG
