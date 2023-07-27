@@ -1,6 +1,6 @@
 ---
 permalink: "/kontakt/"
-title: 
+title: Kontakt
 
 ---
 Veronika Rotfuß  
