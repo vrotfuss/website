@@ -1,6 +1,6 @@
 ---
 permalink: /links/
-title: Links
+title: .
 ---
 Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten, Sucht und Selbstregulation.\
 <br>
@@ -35,26 +35,54 @@ Prokrastination
 
 Bücher
 
+Selbstberuhigung
+
+[Gefühle besser verstehen (Cornelia Dehner-Rau)](https://www.amazon.de/dp/3442177820)
+
+[Die Polyvagal-Theorie und die Suche nach Sicherheit (Stephen W. Porges)](https://www.amazon.de/dp/3944476190)
+
+
+
+Traumaheilung
+
+[Zurück in mein Ich (Vivian Broughton)](https://www.amazon.de/dp/3466346339)
+
 [Verkörperter Schrecken (Bessel van der Kolk)](https://www.amazon.de/dp/3944476131)
 
 [Auch alte Wunden können heilen (Dami Charf)](https://www.amazon.de/dp/B077C3WLBJ)
 
 [Bin ich traumatisiert? Wie wir die immer gleichen Problemschleifen verlassen (Verena König)](https://www.amazon.de/dp/3833878355)
 
-[Zurück in mein Ich (Vivian Broughton)](https://www.amazon.de/dp/3466346339)
+[Trauma verstehen, bearbeiten, überwinden (Luise Reddemann)](https://www.amazon.de/dp/3432111045)
+
+
+
+ADHS
+
+[Unruhe im Kopf. Über die Entstehung und Heilung der Aufmerksamkeitsdefizitstörung ADHS (Gabor Mat)](https://www.beck-shop.de/mate-unruhe-kopf/product/32893907)
+
+Körper
 
 [Wenn der Körper nein sagt (Gabor Mat)](https://www.amazon.de/dp/3962571744)
 
-[Im Reich der hungrigen Geister (Gabor Mat)](https://www.amazon.de/dp/B095J2NPP8)
-
-[Gefühle besser verstehen (Cornelia Dehner-Rau)](https://www.amazon.de/dp/3442177820)
-
-[Trauma verstehen, bearbeiten, überwinden (Luise Reddemann)](https://www.amazon.de/dp/3432111045)
-
-[Die Polyvagal-Theorie und die Suche nach Sicherheit (Stephen W. Porges)](https://www.amazon.de/dp/3944476190)
+[Zuhause im eigenen Körper (Sabine Ecker)](https://www.beltz.de/fachmedien/psychologie/produkte/details/50814-zuhause-im-eigenen-koerper.html)
 
 [Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/dp/3466347866)
 
-[Zuhause im eigenen Körper (Sabine Ecker)](https://www.beltz.de/fachmedien/psychologie/produkte/details/50814-zuhause-im-eigenen-koerper.html)
 
-[Unruhe im Kopf. Über die Entstehung und Heilung der Aufmerksamkeitsdefizitstörung ADHS (Gabor Mat)](https://www.beck-shop.de/mate-unruhe-kopf/product/32893907)
+
+Sucht
+
+[Im Reich der hungrigen Geister (Gabor Mat)](https://www.amazon.de/dp/B095J2NPP8)
+
+
+
+
+
+
+
+[](https://www.amazon.de/dp/3944476190)
+
+[](https://www.amazon.de/dp/3466347866)
+
+[](https://www.beck-shop.de/mate-unruhe-kopf/product/32893907)
