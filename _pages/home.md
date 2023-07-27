@@ -1,6 +1,6 @@
 ---
 permalink: "/"
-title: 
+title: Home
 
 ---
 Willkommen in meiner Praxis. Ich freue mich, Sie begleiten zu können.
