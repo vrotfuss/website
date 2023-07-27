@@ -63,7 +63,7 @@ ADHS
 
 Körper
 
-[Wenn der Körper nein sagt (Gabor Mat)](https://www.amazon.de/dp/3962571744)
+[](https://www.amazon.de/dp/3962571744)[Wenn der Körper nein sagt (Gabor Mate)](https://www.buecher.de/shop/sprachpsychologie/wenn-der-koerper-nein-sagt/mat-gabor/products_products/detail/prod_id/59394668/)
 
 [Zuhause im eigenen Körper (Sabine Ecker)](https://www.beltz.de/fachmedien/psychologie/produkte/details/50814-zuhause-im-eigenen-koerper.html)
 
@@ -73,9 +73,7 @@ Körper
 
 Sucht
 
-[Im Reich der hungrigen Geister (Gabor Mat)](https://www.amazon.de/dp/B095J2NPP8)
-
-
+[](https://www.amazon.de/dp/B095J2NPP8)[Im Reich der hungrigen Geister (Gabor Mate)](https://www.buecher.de/shop/buecher/im-reich-der-hungrigen-geister/mat-gabor/products_products/detail/prod_id/60426930/)
 
 
 
