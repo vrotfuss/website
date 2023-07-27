@@ -1,6 +1,6 @@
 ---
 permalink: "/termine/"
-title: 
+title: Termine
 
 ---
   
