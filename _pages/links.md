@@ -5,7 +5,7 @@ title: .
 Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten, Sucht und Selbstregulation.\
 <br>
 
-Videos und Podcasts
+**Videos und Podcasts**
 
 [Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)\
 Themen zum Aufbau einer stabilen Verbindung zu sich selbst
@@ -33,7 +33,7 @@ Prokrastination
 
 ![Mann](/assets/images/Links_Weiterführendes_Mann_klein.jpg){: .align-center style="max-width: 100%;"}
 
-Bücher
+**Bücher**
 
 Selbstberuhigung
 
