@@ -1,6 +1,6 @@
 ---
 permalink: "/datenschutz/"
-title: 
+title: Datenschutz
 
 ---
 **Datenschutzerklärung**
