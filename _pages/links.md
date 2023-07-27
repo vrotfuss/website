@@ -1,35 +1,34 @@
 ---
-permalink: "/links/"
-title: 
-
+permalink: /links/
+title: .
 ---
-Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten, Sucht und Selbstregulation.  
+Empfehlenswerte Bücher, Podcasts und Videoreihen zu psychischer und körperlicher Gesundheit, Beziehungen, Konflikten, Sucht und Selbstregulation.\
 <br>
 
 Videos und Podcasts
 
-[Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)  
+[Verena König – Podcast](https://verenakoenig.de/blog-und-podcast)\
 Themen zum Aufbau einer stabilen Verbindung zu sich selbst
 
-[Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)  
+[Dami Charf - Videos](https://www.youtube.com/c/DamiCharf/videos)\
 Themen zu kindlicher Prägung und Anleitungen für den Umgang mit Gefühlen und Situationen im Alltag
 
-[Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)  
+[Gabor Mate - Videos](https://www.youtube.com/watch?v=UI6C3ahHpnc)\
 Entwicklungstrauma und ADHS bei Erwachsenen
 
-[Irene Lyon - Videos](https://www.youtube.com/watch?v=ytNjWmeKty0)  
+[Irene Lyon - Videos](https://www.youtube.com/watch?v=ytNjWmeKty0)\
 Schrittweise Substanz aufbauen, um Gefühle halten und verarbeiten zu können
 
-[Bessel van der Kolk - Video](https://www.youtube.com/watch?v=szvCMwl_d-E "Bessel van der Kolk - Video")  
+[Bessel van der Kolk - Video](https://www.youtube.com/watch?v=szvCMwl_d-E "Bessel van der Kolk - Video")\
 Entwicklungstrauma und Schocktrauma bei Kindern und Erwachsenen
 
-[Verena König - Podcast](https://www.youtube.com/watch?v=3knoJSwFfok "Verena König - Podcast")  
+[Verena König - Podcast](https://www.youtube.com/watch?v=3knoJSwFfok "Verena König - Podcast")\
 Sucht
 
-[Verena König - Podcast](https://www.youtube.com/watch?v=Yd5vWjDldJ0 "Verena König - Podcast")  
+[Verena König - Podcast](https://www.youtube.com/watch?v=Yd5vWjDldJ0 "Verena König - Podcast")\
 Emotionales Essen
 
-[Verena König - Podcast](https://www.youtube.com/watch?v=sw5JM58PENk "Verena König - Podcast")  
+[Verena König - Podcast](https://www.youtube.com/watch?v=sw5JM58PENk "Verena König - Podcast")\
 Prokrastination
 
 ![Mann](/assets/images/Links_Weiterführendes_Mann_klein.jpg){: .align-center style="max-width: 100%;"}
@@ -55,3 +54,5 @@ Bücher
 [Die Polyvagal-Theorie und die Suche nach Sicherheit (Stephen W. Porges)](https://www.amazon.de/dp/3944476190)
 
 [Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/dp/3466347866)
+
+[Zuhause im eigenen Körper (Sabine Ecker)](https://www.beltz.de/fachmedien/psychologie/produkte/details/50814-zuhause-im-eigenen-koerper.html)
