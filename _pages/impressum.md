@@ -32,7 +32,7 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 * Foto (Porträt) auf Home von Richard Rotfuß
 * Foto (Tür) auf Home von Joakim Honkasalo auf Unsplash
-* Foto (Freunde) auf Beratung & Begleitung von Helena Lopes auf Unsplash
+* Foto (Freunde) auf Therapie von Helena Lopes auf Unsplash
 * Foto (Lagerfeuer) auf Termine & Honorar von Wren Meinberg auf Unsplash
 * Foto (Porträt) auf Über mich von Richard Rotfuß
 * Foto (Mann) auf Links & Weiterführendes Jeremy Perkins auf Unsplash
