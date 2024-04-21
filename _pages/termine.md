@@ -5,10 +5,7 @@ title: Termine
 \
 ![Feuer](/assets/images/Termine_Feuer_klein.jpg){: .align-right style="max-width: 45%;"}
 
-Termine immer:
-
-Mittwoch ab 17:00 Uhr\
-und nach Absprache
+Termine nach Absprache
 
 Veronika Rotfuß\
 Grillparzerstraße 23\
