@@ -32,7 +32,7 @@ Diese Überlebensstrategien sind erstmal hilfreich, aus der Not geboren und vers
 
 Treten wir jedoch in einen neuen Lebensabschnitt ein, wenn wir beruflich oder familiär mehr Verantwortung übernehmen, krank werden, finanzielle Belastungen oder eine anstrengende Partnerschaft unser Selbstbild und unsere Sexualität beeinträchtigen, tragen die Überlebensstrategien nicht mehr. An dieser Stelle haben wir die Möglichkeit und meist auch Bereitschaft, uns zu sortieren.
 
-Was über die Jahre verkümmert ist, kann nachreifen. Jeder Bereich unserer Psyche ist in der Lage, sich auszudehnen und neu zu strukturieren. Unser Gehirn und damit unsere Emotionen sind darauf ausgelegt, neue Erfahrungen zu machen und zu verfestigen.\
+Was über die Jahre verkümmert ist, kann nachreifen. Jeder Bereich unserer Psyche ist in der Lage, sich auszudehnen und neu zu strukturieren. Unser Gehirn und damit unsere Emotionen sind darauf ausgelegt, neue Erfahrungen zu machen und zu verfestigen.
 {: style="color: #a0522d;"}
 
 Sobald wir in einem für uns sicheren Umfeld sind, will alles in unserem Körper nachwachsen, sich auseinanderfalten und miteinander in Verbindung treten. Kommen wir in Bewegung, bewegt sich alles mit.
