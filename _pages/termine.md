@@ -11,7 +11,6 @@ Mittwoch ab 17:00 Uhr\
 und nach Absprache
 
 Veronika Rotfuß\
-Praxis Vita\
 Grillparzerstraße 23\
 81675 München
 
