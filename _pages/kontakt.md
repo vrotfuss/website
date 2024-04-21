@@ -4,7 +4,6 @@ title: Kontakt
 
 ---
 Veronika Rotfuß  
-Praxis Vita  
 Grillparzerstraße 23  
 81675 München
 
