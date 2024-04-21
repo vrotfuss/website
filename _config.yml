@@ -9,7 +9,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Veronika Rotfuß - Beratungspraxis
+title: Veronika Rotfuß - therapeutische Praxis
 description: Kompetente und menschliche Beratung und Begleitung bei psychischen Problemen mit Hilfe therapeutischer Verfahren
 #email: no@mail.fornow
 url: https://veronikarotfuss.de
@@ -47,7 +47,7 @@ plugins:
 author:
   name   : "Veronika Rotfuß"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Beratungspraxis"
+  bio    : "Heilpraktikerin für Psychotherapie"
 
 footer:
   links: []
@@ -74,7 +74,7 @@ defaults:
       author_profile: false
       sidebar:
         nav: "contact"
-        title: "Veronika Rotfuß<br>Beratungspraxis"
+        title: "Veronika Rotfuß<br>Heilpraktikerin<br>für Psychotherapie"
       read_time: false
       comments: false
       share: false
