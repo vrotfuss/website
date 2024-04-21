@@ -4,7 +4,7 @@ title: Home
 ---
 Willkommen in meiner Praxis. Ich freue mich, Sie begleiten zu können.
 
-Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der sie sich verändern wollen.
+Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der sie sich verändern wollen.
 
 ![Veronika Rotfuß](/assets/images/Home_Veronika_klein.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
 
