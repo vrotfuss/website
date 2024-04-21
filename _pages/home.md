@@ -28,7 +28,8 @@ Ich biete Psychotherapie und Begleitung bei
 * Gewalterfahrungen
 * Sexuellem Missbrauch
 * Sucht und Abhängigkeit nach Entzug
-* Beziehungskonfliktensolation und Kontaktschwierigkeiten
+* Beziehungskonflikten
+* Isolation und Kontaktschwierigkeiten
 * Lebenskrisen und Umbrüchen
 
 <br>
