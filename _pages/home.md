@@ -2,15 +2,15 @@
 permalink: /
 title: Home
 ---
-Willkommen in meiner therapeutischen Praxis. Ich freue mich, Sie begleiten zu können.
+Willkommen in meiner Praxis. Ich freue mich, Sie begleiten zu können.
 
 Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat dabei seinen eigenen Rhythmus, muss manchmal pausieren und kann dann wieder vorwärts gehen. In meinen Begegnungen und meiner Arbeit orientiere ich mich daher an den Handlungsimpulsen meiner Klient*innen und der Richtung, in der sie sich verändern wollen.
 
 ![Veronika Rotfuß](/assets/images/Home_Veronika_klein.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
 
-Ich arbeite mit systemischer Therapie, Traumatherapie und der körperbasierter Psychotherapie Bodynamic. Daneben fließen das Wissen und die Grundlagen der Forschung zu Selbstregulation sowie meiner Erfahrung mit Entspannungsverfahren ein.
+Ich arbeite mit systemischer Therapie, Traumatherapie und der körperbasierten Psychotherapie Bodynamic. Daneben fließen das Wissen und die Grundlagen der Forschung zu Selbstregulation sowie meiner Erfahrung mit Entspannungsverfahren ein.
 
-Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie diese als Erwachsene gestillt werden können. Die aktuelle Situation bekommt ihre Einbettung in den biographischen Kontext, blockierte Anteile der Persönlichkeit werden kennengelernt, eingefrorene Gefühle aufgetaut und der Spielraum des Lebens erweitert. So entsteht auf organische Weise neues Handeln und Verhalten.\
+Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie diese als Erwachsene gestillt werden können. Die aktuelle Situation bekommt ihre Eherapeutischeninbettung in den biographischen Kontext, blockierte Anteile der Persönlichkeit werden kennengelernt, eingefrorene Gefühle aufgetaut und der Spielraum des Lebens erweitert. So entsteht auf organische Weise neues Handeln und Verhalten.\
 <br>
 
 ![Tuer](/assets/images/Home_Tuer_klein.jpg){: .align-right style="max-width: 40%;"}
