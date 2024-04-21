@@ -59,7 +59,7 @@ Traumaheilung
 
 ADHS
 
-[Unruhe im Kopf. Über die Entstehung und Heilung der Aufmerksamkeitsdefizitstörung ADHS (Gabor Mat](https://www.thalia.de/shop/home/artikeldetails/A1061001875)e
+[Unruhe im Kopf. Über die Entstehung und Heilung der Aufmerksamkeitsdefizitstörung ADHS (Gabor Mate)](https://www.thalia.de/shop/home/artikeldetails/A1061001875)
 
 Körper
 
