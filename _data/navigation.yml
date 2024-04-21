@@ -12,8 +12,6 @@ main:
 contact:
   - title: ""
     children:
-      - title: "Praxis Vita"
-        url: /kontakt/
       - title: "Grillparzerstraße 23"
         url: /kontakt/
       - title: "81675 München"
