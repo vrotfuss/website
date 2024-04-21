@@ -9,8 +9,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Veronika Rotfuß - therapeutische Praxis
-description: Kompetente und menschliche Beratung und Begleitung bei psychischen Problemen mit Hilfe therapeutischer Verfahren
+title: Veronika Rotfuß - Heilpraktikerin für Psychotherpie
+description: systemische Therapie, Traumatherapie, körperorientierte Psychotherapie, Bodynamic
 #email: no@mail.fornow
 url: https://veronikarotfuss.de
 baseurl: /
