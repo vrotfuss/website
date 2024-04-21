@@ -10,7 +10,7 @@ Jeder Mensch hat die Fähigkeit zu wachsen und zu heilen, und jeder Mensch hat d
 
 Ich arbeite mit Systemischer Therapie, Traumatherapie und der körperorientierten Psychotherapie Bodynamic. Daneben fließen das Wissen und die Grundlagen der Forschung zu Selbstregulation sowie meine Erfahrung mit Entspannungsverfahren ein.
 
-Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie diese als Erwachsene gestillt werden können. Die aktuelle Situation bekommt ihre Eherapeutischeninbettung in den biographischen Kontext, blockierte Anteile der Persönlichkeit werden kennengelernt, eingefrorene Gefühle aufgetaut und der Spielraum des Lebens erweitert. So entsteht auf organische Weise neues Handeln und Verhalten.\
+Wir betrachten gegenwärtige Probleme, welche Bedürfnisse darin liegen und wie diese als Erwachsene gestillt werden können. Die aktuelle Situation bekommt ihre Einbettung in den biographischen Kontext, blockierte Anteile der Persönlichkeit werden kennengelernt, eingefrorene Gefühle aufgetaut und der Spielraum des Lebens erweitert. So entsteht auf organische Weise neues Handeln und Verhalten.\
 <br>
 
 ![Tuer](/assets/images/Home_Tuer_klein.jpg){: .align-right style="max-width: 40%;"}
