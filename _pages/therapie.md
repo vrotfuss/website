@@ -1,6 +1,6 @@
 ---
-permalink: "/beratung/"
-title: Beratung
+permalink: "/therapie/"
+title: Therapie
 
 ---
 Die Gründe, warum Menschen sich phasenweise oder chronisch nicht gut fühlen sind vielfältig und beruhen auf einem Zusammenwirken verschiedener Faktoren, wie der genetischen Veranlagung, Erfahrungen der frühen Kindheit, dem späteren Lebensstil sowie aktuellen Erlebnissen.
