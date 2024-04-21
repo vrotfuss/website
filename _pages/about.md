@@ -14,9 +14,9 @@ Ich bin selbst durch Stagnation, Krankheit und Zersplitterung gegangen und musst
 * 2023 - 2024\
   Bodynamic Foundation Training - Körperpsychotherapie, bei Michael Rupp
 * 2020 - 2022\
-  Ich-orientierten Identitätstherapie bei Dagmar Strauß - systemische Therapie, Teilearbeit, Schwerpunkt Trauma 
+  Ich-orientierte Identitätstherapie - Systemische Therapie, Teilearbeit, Schwerpunkt Trauma, bei Dagmar Strauß
 * 2020 - 2024 \
-  Regelmäßige Hospitation bei Helmut Glas 
+  Regelmäßige Hospitation bei Helmut Glas, Traumatherapie
 * 2015 –  2024\
   Regelmäßige therapeutische Arbeit an eigenen Themen und Selbsterfahrung 
 * 2015 – 2024\
