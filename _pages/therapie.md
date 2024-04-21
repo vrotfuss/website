@@ -2,9 +2,7 @@
 permalink: /therapie/
 title: Therapie
 ---
-Ich arbeite mit Systemischer Therapie, Traumatherapie und der körperorientierten Psychotherapie Bodynamic.
-
-Entsprechend Ihren Wünschen und dem Bedarf berate ich sie gern bei der Auswahl einer passenden Mathode.
+Ich arbeite mit Systemischer Therapie, Traumatherapie und der körperorientierten Psychotherapie Bodynamic. Entsprechend Ihren Wünschen und dem Bedarf berate ich sie gern bei der Auswahl einer passenden Methode.
 
 ![Freunde](/assets/images/Beratung_Freunde_klein.jpg){: .align-center style="max-width: 100%;"}
 
