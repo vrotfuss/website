@@ -9,7 +9,8 @@ title: Datenschutz
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 Veronika Rotfuß
-Praxis Vita, Grillparzerstraße 23, 81675 München
+Grillparzerstraße 23
+81675 München
 E-Mail: praxis@veronikarotfuss.de
 
 **Wie erfasse ich Ihre Daten?**
