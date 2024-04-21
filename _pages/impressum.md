@@ -7,7 +7,8 @@ Angaben gemäß § 5 TMG
 
 **Kontakt:**  
 Veronika Rotfuß  
-Praxis Vita, Grillparzerstraße 23, 81675 München
+Grillparzerstraße 23
+81675 München
 E-Mail: praxis@veronikarotfuss.de
 
 **Haftungsausschluss:**
