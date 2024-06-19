@@ -9,7 +9,9 @@ Ich bin Veronika Rotfuß, lebe und arbeite in München und gehe bei jedem halbwe
 Ich bin selbst durch Stagnation, Krankheit und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch anfühlt, meine Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern. Nichts in uns ist so verwüstet, dass es nicht heil werden kann. Sicher nicht in dem Tempo, das wir gern hätten und vielleicht nicht in der Form, die wir erwarteten. Dennoch strebt, solange wir leben, alles in uns nach Gesundheit, Verbindung und Ausdehnung.\
 <br>
 
-* seit 2024\
+* ab 2024 - 2025 \
+  Bodynamic Practicioner Training - Körperpsychotherapie, bei Michael Rupp
+* 2024\
   Heilpraktikerin für Psychotherapie
 * 2023 - 2024\
   Bodynamic Foundation Training - Körperpsychotherapie, bei Michael Rupp
