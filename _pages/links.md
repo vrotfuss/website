@@ -41,8 +41,6 @@ Selbstberuhigung
 
 [Die Polyvagal-Theorie und die Suche nach Sicherheit (Stephen W. Porges)](https://www.amazon.de/dp/3944476190)
 
-
-
 Traumaheilung
 
 [Zurück in mein Ich (Vivian Broughton)](https://www.amazon.de/dp/3466346339)
@@ -55,12 +53,6 @@ Traumaheilung
 
 [Trauma verstehen, bearbeiten, überwinden (Luise Reddemann)](https://www.amazon.de/dp/3432111045)
 
-
-
-ADHS
-
-[Unruhe im Kopf. Über die Entstehung und Heilung der Aufmerksamkeitsdefizitstörung ADHS (Gabor Mate)](https://www.thalia.de/shop/home/artikeldetails/A1061001875)
-
 Körper
 
 [](https://www.amazon.de/dp/3962571744)[Wenn der Körper nein sagt (Gabor Mate)](https://www.buecher.de/shop/sprachpsychologie/wenn-der-koerper-nein-sagt/mat-gabor/products_products/detail/prod_id/59394668/)
@@ -69,15 +61,9 @@ Körper
 
 [Der Vagusnerv als innerer Anker (Deb Dana)](https://www.amazon.de/dp/3466347866)
 
-
-
 Sucht
 
 [](https://www.amazon.de/dp/B095J2NPP8)[Im Reich der hungrigen Geister (Gabor Mate)](https://www.buecher.de/shop/buecher/im-reich-der-hungrigen-geister/mat-gabor/products_products/detail/prod_id/60426930/)
-
-
-
-
 
 [](https://www.amazon.de/dp/3944476190)
 
