@@ -16,15 +16,15 @@ Auch für Betroffene von emotionaler und sexueller Gewalt bietet Bodynamic gut u
 
 Eine Einzelsitzung beginnt mit einem kurzen Gespräch. Im Anschluss wird mit gezielten Übungen, Bewegungen und Atmung an der aktuellen Herausforderung gearbeitet. Dabei werden relevante und direkt einsetzbare Fähigkeiten erprobt. Zum Beispiel:
 
-* Grenzen ziehen: den eigenen Raum einnehmen und halten können, Grenzen klar machen
-* Positionierung: sich orientieren, die eigene Haltung finden, auf eigenen Beinen stehen
+* Grenzen ziehen: Den eigenen Raum einnehmen und halten können, Grenzen klar machen
+* Positionierung: Sich orientieren, die eigene Haltung finden, auf eigenen Beinen stehen
 * Muster im Kontakt: Nähe und Distanz, Kontakt ablehnen, Kontakt annehmen, Autonomie bewahren
-* Zentrierung: in sich selbst Halt finden, authentisch sein in verschiedenen Situationen und Rollen
+* Zentrierung: In sich selbst Halt finden, authentisch sein in verschiedenen Situationen und Rollen
 * Verbundenheit: Bindung eingehen, Rückhalt erfahren, Unterstützung annehmen
-* Soziale Balance: durchhalten und loslassen, Ich und Du, Bedürfnisse abstimmen
+* Soziale Balance: Durchhalten und Loslassen, Ich und Du, Bedürfnisse abstimmen
 * Energiemanagement: Emotionsregulation, Stress prozessieren, die eigene Sinnlichkeit meistern
 * Selbstausdruck und Behauptung: Vorwärtsbewegungen, Richtung wählen, Kraft einsetzen
-* Realität prüfen: eigene Werte vertreten, Gegenwart klar trennen von Vergangenem
+* Realität prüfen: Eigene Werte vertreten, Gegenwart klar trennen von Vergangenem
 
 \
 Die Körperpsychotherapie findet auf Augenhöhe statt und wird von dem/der Klient*in aktiv mitgestaltet. Jede Übung, jeder Schritt und jede Handlung wird gemeinsam vereinbart, kann abgelehnt, modifiziert oder vertagt werden. Die ehrliche und dosierte Annäherung an alles, was in unserem Körper steckt, bewirkt, dass sich Veränderungen einstellen, die erhalten bleiben auch nach Ende der Therapie.
