@@ -23,7 +23,7 @@ Eine Einzelsitzung beginnt mit einem kurzen Gespräch. Im Anschluss wird mit gez
 * Verbundenheit: Bindung eingehen, Rückhalt erfahren, Unterstützung annehmen
 * Soziale Balance: Durchhalten und Loslassen, Ich und Du, Bedürfnisse abstimmen
 * Energiemanagement: Emotionsregulation, Stress prozessieren, die eigene Sinnlichkeit meistern
-* Selbstausdruck und Behauptung: Vorwärtsbewegungen, Richtung wählen, Kraft einsetzen
+* Selbstausdruck und Behauptung: Den Willen nutzen, Richtung wählen, Kraft einsetzen
 * Realität prüfen: Eigene Werte vertreten, Gegenwart klar trennen von Vergangenem
 
 \
