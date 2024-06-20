@@ -32,7 +32,7 @@ Die Körperpsychotherapie findet auf Augenhöhe statt und wird von dem/der Klien
 
 Systemische Therapie
 
-Wir schauen gemeinsam auf Ihre Situation, welche Konflikte darin liegen und wohin Sie sich entwickeln wollen. An persönlichen Umständen sind eine Vielzahl von Faktoren und Menschen beteiligt. Wir suchen aktiv nach Ihrer Rolle in diesem Gefüge/System und welchen Handlungsspielraum Sie darin haben.\
+Wir schauen gemeinsam auf Ihre Situation, welche Konflikte darin liegen und wohin Sie sich entwickeln wollen. An persönlichen Umständen sind eine Vielzahl von Faktoren und Menschen beteiligt. Wir suchen nach Ihrer Rolle in diesem Gefüge/System und welchen Handlungsspielraum Sie darin haben.\
 \
 Auch innere Anteile Ihrer Persönlichkeit, zum Beispiel ein vorsichtiger, misstrauischer Anteil oder ein unbekümmerter, neugieriger Anteil, werden in der Therapie kennengelernt. Manchmal gibt es Anteile, die aus bestimmten Gründen und Erfahrungen heraus bremsen, zu schädlichen Gewohnheiten neigen oder mehr Aufmerksamkeit brauchen. Daneben tragen wir kluge, starke oder gefühlvolle Anteile in uns, deren Weisheit und Mut sehr weit gehen kann. Diese innere Dynamik beeinflusst die äußere Dynamik in unseren Familien, beruflichen Handlungen, unserer Gesundheit und vielem mehr.
 
