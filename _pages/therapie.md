@@ -22,7 +22,7 @@ Eine Einzelsitzung beginnt mit einem kurzen Gespräch. Im Anschluss wird mit gez
 * Zentrierung: In sich selbst Halt finden, authentisch sein in Situationen und Rollen
 * Verbundenheit: Bindung eingehen, Rückhalt erfahren, Unterstützung annehmen
 * Soziale Balance: Durchhalten und Loslassen, Ich und Du, Bedürfnisse abstimmen
-* Energiemanagement: Emotionsregulation, Stress prozessieren, die eigene Sinnlichkeit meistern
+* Energiemanagement: Emotionen und Stress prozessieren, die eigene Sinnlichkeit meistern
 * Selbstausdruck und Behauptung: Den Willen nutzen, Richtung wählen, Kraft einsetzen
 * Realität prüfen: Gegenwart klar trennen von Vergangenem, Rückmeldung holen
 
