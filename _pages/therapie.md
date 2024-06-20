@@ -18,7 +18,7 @@ Eine Einzelsitzung beginnt mit einem kurzen Gespräch. Im Anschluss wird mit gez
 
 * Grenzen ziehen: Den eigenen Raum einnehmen und halten können, Grenzen klar machen
 * Positionierung: Sich orientieren, die eigene Haltung finden, auf eigenen Beinen stehen
-* Muster im Kontakt: Nähe und Distanz, Kontakt ablehnen und annehmen, Autonomie bewahren
+* Muster im Kontakt: Nähe & Distanz, Kontakt ablehnen und annehmen, Autonomie bewahren
 * Zentrierung: In sich selbst Halt finden, authentisch sein in Situationen und Rollen
 * Verbundenheit: Bindung eingehen, Rückhalt erfahren, Unterstützung annehmen
 * Soziale Balance: Durchhalten und Loslassen, Ich und Du, Bedürfnisse abstimmen
