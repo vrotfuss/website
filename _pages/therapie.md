@@ -28,3 +28,21 @@ Eine Einzelsitzung beginnt mit einem kurzen Gespräch. Im Anschluss wird mit gez
 
 \
 Die Körperpsychotherapie findet auf Augenhöhe statt und wird von dem/der Klient*in aktiv mitgestaltet. Jede Übung, jeder Schritt und jede Handlung wird gemeinsam vereinbart, kann abgelehnt, modifiziert oder vertagt werden. Die ehrliche und dosierte Annäherung an alles, was in unserem Körper steckt, bewirkt, dass sich Veränderungen einstellen, die erhalten bleiben auch nach Ende der Therapie.
+
+
+
+
+
+
+
+
+
+Systemische Therapie
+
+Wir schauen gemeinsam auf Ihre Situation, welche Konflikte darin liegen und wohin Sie sich entwickeln wollen. An persönlichen Umständen sind eine Vielzahl von Faktoren und Menschen beteiligt. Wir suchen aktiv nach Ihrer Rolle in diesem Gefüge/System und welchen Handlungsspielraum Sie darin haben.\
+\
+Auch innere Anteile Ihrer Persönlichkeit, zum Beispiel ein vorsichtiger, misstrauischer Anteil oder ein unbekümmerter, neugieriger Anteil, werden in der Therapie kennengelernt. Manchmal gibt es Anteile, die aus bestimmten Gründen und Erfahrungen heraus bremsen, zu schädlichen Gewohnheiten neigen oder mehr Aufmerksamkeit brauchen. Daneben tragen wir kluge, starke oder gefühlvolle Anteile in uns, deren Weisheit und Mut sehr weit gehen kann. Diese innere Dynamik beeinflusst die äußere Dynamik in unseren Familien, beruflichen Handlungen, unserer Gesundheit und vielem mehr.
+
+Entsprechend Ihrer konkreten Zielsetzung erarbeiten wir, wie Sie mit Ihrem äußeren System (Familie, Freunde, Arbeitsumfeld etc.) und dem inneren System (die eigenen Anteile ihrer Persönlichkeit) in gutem Kontakt stehen und sich verändern können.
+
+In der Systemischen Therapie gehen wir visuell und plastisch vor und nutzen Stühle, Kissen und Gegenstände, um zu erkennen, in welcher Beziehung wir zu anderen Menschen, Jobangeboten, Umzügen usw. stehen. Genauso können wir damit sichtbar machen, welche Anteile in uns Aufmerksamkeit wollen, Zuwendung oder einen Neuanfang.
