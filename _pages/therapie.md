@@ -31,7 +31,7 @@ Eine Einzelsitzung beginnt mit einem kurzen Gespräch. Im Anschluss wird mit gez
 Die Körperpsychotherapie findet auf Augenhöhe statt und wird von dem/der Klient*in aktiv mitgestaltet. Jede Übung, jeder Schritt und jede Handlung wird gemeinsam vereinbart, kann abgelehnt, modifiziert oder vertagt werden. Die ehrliche und dosierte Annäherung an alles, was in unserem Körper steckt, bewirkt, dass sich Veränderungen einstellen, die erhalten bleiben auch nach Ende der Therapie.\
 <br>
 
-Systemische Therapie \
+Systemische Therapie 
 {: style="color: #a0522d;"}
 
 Wir schauen gemeinsam auf Ihre Situation, welche Konflikte darin liegen und wohin Sie sich entwickeln wollen. An persönlichen Umständen sind eine Vielzahl von Faktoren und Menschen beteiligt. Wir suchen nach Ihrer Rolle in diesem Gefüge/System und welchen Handlungsspielraum Sie darin haben.\
