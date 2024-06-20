@@ -4,7 +4,7 @@ title: .
 ---
 Die Gründe, warum Menschen sich phasenweise oder chronisch nicht gut fühlen sind vielfältig und beruhen auf einem Zusammenwirken verschiedener Faktoren, wie der genetischen Veranlagung, Erfahrungen der frühen Kindheit, dem späteren Lebensstil sowie aktuellen Erlebnissen.
 
-Selbstvertrauen, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen, die Fähigkeit, Grenzen zu setzen und Konflikte fair und authentisch einzugehen.\
+Selbstvertrauen, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen, die Fähigkeit, Grenzen zu setzen und Konflikte fair und authentisch einzugehen.
 {: style="color: #a0522d;"}
 
 <p markdown="1">Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern liebevoll und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.[^1] </p>
