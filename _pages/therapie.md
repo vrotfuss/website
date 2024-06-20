@@ -6,7 +6,7 @@ Ich arbeite mit Systemischer Therapie, Traumatherapie und der körperorientierte
 
 ![Freunde](/assets/images/Beratung_Freunde_klein.jpg){: .align-center style="max-width: 100%;"}
 
-Körperorientierte Psychotherapie - Bodynamic \
+Körperorientierte Psychotherapie - Bodynamic
 {: style="color: #a0522d;"}
 
 Bodynamic ist eine anerkannte Körperpsychotherapie, die den Körper in die therapeutische Arbeit mit einbezieht. Sie ist hilfreich, wenn Reden allein nichts bringt, wenn Menschen an ihre Gefühle ran kommen möchten oder sich einen besseren Bezug zum eigenen Körper wünschen.
