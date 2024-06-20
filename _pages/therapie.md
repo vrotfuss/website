@@ -6,37 +6,28 @@ Ich arbeite mit Systemischer Therapie, Traumatherapie und der körperorientierte
 
 ![Freunde](/assets/images/Beratung_Freunde_klein.jpg){: .align-center style="max-width: 100%;"}
 
-Die Gründe, warum Menschen sich phasenweise oder chronisch nicht gut fühlen sind vielfältig und beruhen auf einem Zusammenwirken verschiedener Faktoren, wie der genetischen Veranlagung, Erfahrungen der frühen Kindheit, dem späteren Lebensstil sowie aktuellen Erlebnissen.
 
-Selbstvertrauen, Gesundheit und Lust auf Beziehungen sind keine Selbstverständlichkeit. Ebensowenig wie eine stabile Verbindung zu unseren Gefühlen, die Fähigkeit, Grenzen zu setzen und Konflikte fair und authentisch einzugehen.\
-{: style="color: #a0522d;"}
 
-<p markdown="1">Sie basieren auf Reifungsgraden, die wir in unseren ersten Lebensjahren erproben und erlernen, wenn wir von unseren Eltern liebevoll und konstant gespiegelt, das heißt gesehen, gefühlt und in unserer Eigenheit gewollt werden.[^1] </p>
+Körperorientierte Psychotherapie - Bodynamic
 
-Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die Person, die sie selbst sind, mögen, genießen und wollen. Wenn sie emotional präsent und in ihrem eigenen Gefühlshaushalt gut aufgeräumt auf ihre Kinder zugehen.
+Bodynamic ist eine anerkannte Körperpsychotherapie, die den Körper in die therapeutische Arbeit mit einbezieht. Sie ist hilfreich, wenn Reden allein nichts bringt, wenn Menschen an ihre Gefühle ran kommen möchten oder sich einen besseren Bezug zum eigenen Körper wünschen.
 
-<p markdown="1">Ist dies nicht der Fall, wachsen Kinder mit dem Eindruck heran, falsch oder haltlos zu sein, sich in Beziehung nicht zeigen und entspannen zu können, durch bestimmte Leistungen oder Verhalten die Aufmerksamkeit oder eine Entlastung der Eltern erreichen zu müssen. Das verunsichert, macht Stress, erhöht die Cortisolwerte und lässt das Nervensystem auf Hochtouren laufen.[^2] </p>
+In der Einzelsitzung kann die eigene Kraft erprobt werden, Grenzen klar gemacht und authentische, respektvolle Verbindung erlernt werden. Insbesondere in der Auseinandersetzung mit Partnern, Kindern und Freunden oder nach langen Stressphasen ist Bodynamic eine hervorragende Methode, um bei sich anzukommen und relativ schnell greifbare Ergebnisse im Alltag zu erleben.
 
-Kinder können sich selbst nicht beruhigen, trösten oder Orientierung geben. Sie sind darauf angewiesen, dass ihre Eltern dies verlässlich und zugewandt tun.
-{: style="color: #a0522d;"}
+Auch für Betroffene von emotionaler und sexueller Gewalt bietet Bodynamic gut umsetzbare Übungen und Haltungen, um mehr Sicherheit in der eigenen Haut zu spüren, die eigene Würde wahrnehmen zu können und eingerissene Grenzen wieder aufzubauen.
 
-Sind Eltern durch die eigene Biographie oder besondere Umstände dazu nicht ausreichend in der Lage, zeitlich verhindert oder selbst Quelle der Bedrohung, bleiben Kinder auf ihrem Stress sitzen, obwohl im Außen alles recht normal wirken kann. Über die Jahre entstehen daraus Unruhezustände, Leere, Angst und Wut  sowie Resignation und Schwierigkeiten dabei, mit anderen Menschen in einem angenehmen Kontakt zu bleiben, das heißt realistisch, vertrauens- und lustvoll Beziehung zu leben, zu kooperieren und Grenzen zu setzen.
+Eine Einzelsitzung beginnt mit einem kurzen Gespräch. Im Anschluss wird mit gezielten Übungen, Bewegungen und Atmung an der aktuellen Herausforderung gearbeitet. Dabei werden relevante und direkt einsetzbare Fähigkeiten erprobt. Zum Beispiel:
 
-<p markdown="1">Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle.[^3] </p>
-{: style="color: #a0522d;"}
+\
+- Grenzen ziehen: den eigenen Raum einnehmen und halten können, Grenzen im sozialen Kontakt\
+- Positionierung: sich orientieren, die eigene Haltung finden, auf eigenen Beinen stehen\
+- Muster im Kontakt: Nähe und Distanz, Kontakt ablehnen, Kontakt annehmen, Autonomie bewahren\
+- Zentrierung: in sich selbst Halt finden, authentisch sein in verschiedenen Situationen und Rollen\
+- Verbundenheit: Bindung eingehen, Rückhalt erfahren, Unterstützung annehmen\
+- Soziale Balance: durchhalten und loslassen, Ich und Du, Bedürfnisse abstimmen\
+- Energiemanagement: Emotionsregulation, Stress prozessieren, die eigene Sinnlichkeit meistern\
+- Selbstausdruck und Behauptung: Vorwärtsbewegungen, Richtung wählen, Kraft einsetzen\
+- Realität prüfen: eigene Werte vertreten, Gegenwart klar trennen von Vergangenem
 
-Ein Ausweg auf Zeit bietet dann manchmal ein erhöhtes Arbeitspensum, sehr viel Sport zu treiben, immer unterwegs zu sein, Alkohol oder Drogen zu konsumieren, sozialer Rückzug oder die Flucht in Tätigkeiten, die möglichst viel aussparen, von dem was die Realität uns abverlangt.
-
-Diese Überlebensstrategien sind erstmal hilfreich, aus der Not geboren und verschaffen punktuell Erleichterung. Für eine gewisse Phase funktionieren sie gut.
-{: style="color: #a0522d;"}
-
-Treten wir jedoch in einen neuen Lebensabschnitt ein, wenn wir beruflich oder familiär mehr Verantwortung übernehmen, krank werden, finanzielle Belastungen oder eine anstrengende Partnerschaft unser Selbstbild und unsere Sexualität beeinträchtigen, tragen die Überlebensstrategien nicht mehr. An dieser Stelle haben wir die Möglichkeit und meist auch Bereitschaft, uns zu sortieren.
-
-Was über die Jahre verkümmert ist, kann nachreifen. Jeder Bereich unserer Psyche ist in der Lage, sich auszudehnen und neu zu strukturieren. Unser Gehirn und damit unsere Emotionen sind darauf ausgelegt, neue Erfahrungen zu machen und zu verfestigen.
-{: style="color: #a0522d;"}
-
-Sobald wir in einem für uns sicheren Umfeld sind, will alles in unserem Körper nachwachsen, sich auseinanderfalten und miteinander in Verbindung treten. Kommen wir in Bewegung, bewegt sich alles mit.
-
-[^1]: Säuglings- und Kleinkindalter: Bindungspsychotherapie, Karl Heinz Brisch, 2014
-[^2]: Verkörperter Schrecken, Bessel van der Kolk, 2015
-[^3]: Frühe Traumata als Ursprung von chronischer Entzündung: Eine psychoneuroimmunologische Perspektive, Rainer H. Straub, 2022
+\
+Die Körperpsychotherapie findet auf Augenhöhe statt und wird von dem/der Klient*in aktiv mitgestaltet. Jede Übung, jeder Schritt und jede Handlung wird gemeinsam vereinbart, kann abgelehnt, modifiziert oder vertagt werden. Die ehrliche und dosierte Annäherung an alles, was in unserem Körper steckt, bewirkt, dass sich Veränderungen einstellen, die erhalten bleiben auch nach Ende der Therapie.
