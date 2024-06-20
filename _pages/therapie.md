@@ -24,7 +24,7 @@ Eine Einzelsitzung beginnt mit einem kurzen Gespräch. Im Anschluss wird mit gez
 * Soziale Balance: Durchhalten und Loslassen, Ich und Du, Bedürfnisse abstimmen
 * Energiemanagement: Emotionsregulation, Stress prozessieren, die eigene Sinnlichkeit meistern
 * Selbstausdruck und Behauptung: Den Willen nutzen, Richtung wählen, Kraft einsetzen
-* Realität prüfen: Eigene Werte vertreten, Gegenwart klar trennen von Vergangenem
+* Realität prüfen: Gegenwart klar trennen von Vergangenem, Rückmeldung holen
 
 \
 Die Körperpsychotherapie findet auf Augenhöhe statt und wird von dem/der Klient*in aktiv mitgestaltet. Jede Übung, jeder Schritt und jede Handlung wird gemeinsam vereinbart, kann abgelehnt, modifiziert oder vertagt werden. Die ehrliche und dosierte Annäherung an alles, was in unserem Körper steckt, bewirkt, dass sich Veränderungen einstellen, die erhalten bleiben auch nach Ende der Therapie.
