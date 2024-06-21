@@ -13,7 +13,7 @@ Bodynamic ist eine anerkannte Psychotherapiemethode, die den Körper in die ther
 
 In der Auseinandersetzung mit Familie und Beruf oder nach langen Stressphasen ist Bodynamic eine hervorragende Methode, um bei sich anzukommen und greifbare Ergebnisse im Alltag zu erleben.
 
-Auch für Betroffene von emotionaler und körperlicher Gewalt bietet Bodynamic gut umsetzbare Übungen und Haltungen, um mehr Sicherheit in der eigenen Haut zu spüren, die eigene Würde wahzunehmen und eingerissene Grenzen wieder aufzubauen.
+Auch für Betroffene von emotionaler und körperlicher Gewalt bietet Bodynamic gut umsetzbare Übungen und Haltungen, um mehr Sicherheit in der eigenen Haut zu spüren, die eigene Würde wahrzunehmen und eingerissene Grenzen wieder aufzubauen.
 
 Jede Einzelsitzung beginnt mit einem Gespräch. Im Anschluss wird mit gezielten Übungen, Bewegungen und Atmung an der aktuellen Herausforderung gearbeitet. Dabei werden relevante und direkt einsetzbare Fähigkeiten angewendet. Zum Beispiel:
 
