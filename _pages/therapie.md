@@ -9,13 +9,13 @@ Ich arbeite mit Systemischer Therapie, Traumatherapie und der körperorientierte
 Körperorientierte Psychotherapie - Bodynamic
 {: style="color: #a0522d;"}
 
-Bodynamic ist eine anerkannte Körperpsychotherapie, die den Körper in die therapeutische Arbeit mit einbezieht. Sie ist hilfreich, wenn Reden allein nichts bringt, wenn Menschen an ihre Gefühle ran kommen möchten oder sich einen besseren Bezug zum eigenen Körper wünschen.
+Bodynamic ist eine anerkannte Psychotherapiemethode, die den Körper in die therapeutische Arbeit mit einbezieht. Sie ist hilfreich, wenn Reden allein nicht weiter führt und unterstützt darin, eingefahrene Muster aufzulösen. In der Einzelsitzung kann ein guter Bezug zu Körper und Gefühlen aufgebaut werden. Die eigene Kraft wird erprobt, authentischer und respektvoller Kontakt erlernt.
 
-In der Einzelsitzung kann die eigene Kraft erprobt werden, Grenzen klar gemacht und authentische, respektvolle Verbindung erlernt werden. Insbesondere in der Auseinandersetzung mit Partnern, Kindern und Freunden oder nach langen Stressphasen ist Bodynamic eine hervorragende Methode, um bei sich anzukommen und relativ schnell greifbare Ergebnisse im Alltag zu erleben.
+In der Auseinandersetzung mit Familie und Beruf oder nach langen Stressphasen ist Bodynamic eine hervorragende Methode, um bei sich anzukommen und greifbare Ergebnisse im Alltag zu erleben.
 
-Auch für Betroffene von emotionaler und sexueller Gewalt bietet Bodynamic gut umsetzbare Übungen und Haltungen, um mehr Sicherheit in der eigenen Haut zu spüren, die eigene Würde wahrnehmen zu können und eingerissene Grenzen wieder aufzubauen.
+Auch für Betroffene von emotionaler und körperlicher Gewalt bietet Bodynamic gut umsetzbare Übungen und Haltungen, um mehr Sicherheit in der eigenen Haut zu spüren, die eigene Würde wahzunehmen und eingerissene Grenzen wieder aufzubauen.
 
-Eine Einzelsitzung beginnt mit einem kurzen Gespräch. Im Anschluss wird mit gezielten Übungen, Bewegungen und Atmung an der aktuellen Herausforderung gearbeitet. Dabei werden relevante und direkt einsetzbare Fähigkeiten erprobt. Zum Beispiel:
+Jede Einzelsitzung beginnt mit einem Gespräch. Im Anschluss wird mit gezielten Übungen, Bewegungen und Atmung an der aktuellen Herausforderung gearbeitet. Dabei werden relevante und direkt einsetzbare Fähigkeiten angewendet. Zum Beispiel:
 
 * Grenzen ziehen: Den eigenen Raum einnehmen und halten können, Grenzen klar machen
 * Positionierung: Sich orientieren, die eigene Haltung finden, auf eigenen Beinen stehen
@@ -28,7 +28,7 @@ Eine Einzelsitzung beginnt mit einem kurzen Gespräch. Im Anschluss wird mit gez
 * Realität prüfen: Gegenwart klar trennen von Vergangenem, Rückmeldung holen
 
 \
-Die Körperpsychotherapie findet auf Augenhöhe statt und wird von dem/der Klient*in aktiv mitgestaltet. Jede Übung, jeder Schritt und jede Handlung wird gemeinsam vereinbart, kann abgelehnt, modifiziert oder vertagt werden. Die ehrliche und dosierte Annäherung an alles, was in unserem Körper steckt, bewirkt, dass sich Veränderungen einstellen, die erhalten bleiben auch nach Ende der Therapie.\
+Die Körperpsychotherapie Bodynamic findet auf Augenhöhe statt und wird von dem/der Klient*in aktiv mitgestaltet. Jeder Schritt und jede Handlung wird gemeinsam vereinbart, kann abgelehnt, modifiziert oder vertagt werden. Die ehrliche und dosierte Annäherung an den Körper bewirkt Veränderung, die auch nach dem Ende der Therapie erhalten bleibt.\
 <br>
 
 Systemische Therapie 
