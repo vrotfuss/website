@@ -16,7 +16,7 @@ Diese wichtige Elternaufgabe können Mütter und Väter meistern, wenn sie die P
 Kinder können sich selbst nicht beruhigen, trösten oder Orientierung geben. Sie sind darauf angewiesen, dass ihre Eltern dies verlässlich und zugewandt tun.
 {: style="color: #a0522d;"}
 
-Sind Eltern durch die eigene Biographie oder besondere Umstände dazu nicht ausreichend in der Lage, zeitlich verhindert oder selbst Quelle der Bedrohung, bleiben Kinder auf ihrem Stress sitzen, obwohl im Außen alles recht normal wirken kann. Über die Jahre entstehen daraus Unruhezustände, Leere, Angst und Wut  sowie Resignation und Schwierigkeiten dabei, mit anderen Menschen in einem angenehmen Kontakt zu bleiben, das heißt realistisch, vertrauens- und lustvoll Beziehung zu leben, zu kooperieren und Grenzen zu setzen.
+Sind Eltern durch die eigene Biographie oder besondere Umstände dazu nicht ausreichend in der Lage, zeitlich verhindert oder selbst Quelle der Bedrohung, bleiben Kinder auf ihrem Stress sitzen, obwohl im Außen alles recht normal wirken kann. Über die Jahre entstehen daraus Unruhezustände, Leere, Angst und Wut  sowie Resignation und Schwierigkeiten dabei, mit anderen Menschen in einem angenehmen Kontakt zu bleiben, das heißt realistisch, vertrauens- und lustvoll Beziehung zu leben und zu kooperieren.
 
 <p markdown="1">Chronische Krankheiten und verschiedene körperliche Symptome sind eine häufige Folge dieser über Jahre gespeicherten Gefühle.[^3] </p>
 {: style="color: #a0522d;"}
@@ -37,11 +37,7 @@ Sobald wir in einem für uns sicheren Umfeld sind, will alles in unserem Körper
 [^2]: Verkörperter Schrecken, Bessel van der Kolk, 2015
 [^3]: Frühe Traumata als Ursprung von chronischer Entzündung: Eine psychoneuroimmunologische Perspektive, Rainer H. Straub, 2022
 
-
-
 ![Mann](/assets/images/Links_Weiterführendes_Mann_klein.jpg){: .align-center style="max-width: 100%;"}
-
-
 
 [](https://www.amazon.de/dp/3944476190)
 
