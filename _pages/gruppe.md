@@ -2,7 +2,7 @@
 permalink: /gruppe/
 title: Körpertherapeutische Gruppe
 ---
-Körperorientierte Psychotherapie in der Gruppe\
+Körperorientierte Psychotherapie in der Gruppe
 {: style="color: #a0522d;"}
 
 
