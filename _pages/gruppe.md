@@ -2,20 +2,47 @@
 permalink: /gruppe/
 title: Körpertherapeutische Gruppe
 ---
-Ich arbeite mit Systemischer Therapie, Traumatherapie und der körperorientierten Psychotherapie Bodynamic. Entsprechend Ihren Wünschen und dem Bedarf berate ich Sie gern bei der Auswahl einer passenden Methode.
+Körperorientierte Psychotherapie in der Gruppe\
+<br>\
+Sonntag, 06. Oktober    2024, 11-13 Uhr (Einlass 10:55 Uhr)\
+Sonntag, 03. November 2024, 11-13 Uhr (Einlass 10:55 Uhr)\
+Sonntag, 01. Dezember 2024, 11-13 Uhr (Einlass 10:55 Uhr)\
+Sonntag, 05. Januar      2025, 11-13 Uhr (Einlass 10:55 Uhr)\
+{: style="color: #a0522d;"}\
+<br>
 
-![Freunde](/assets/images/Beratung_Freunde_klein.jpg){: .align-center style="max-width: 100%;"}
+Ort: Raumstation 15 – in der Donnersbergerstr. 15, 80634 München (Nähe Rotkreuzplatz)\
+Kosten: 20 Euro pro Termin\
+Mitbringen: Trinkflasche\
+<br>
 
-Körperorientierte Psychotherapie - Bodynamic
+\
+Einmal im Monat treffen wir uns in der Gruppe und probieren uns miteinander aus. In Übungen und Kontakterfahrungen trainieren wir Fähigkeiten, die jeder erwachsene Mensch braucht, um gern im eigenen Körper zu leben:\
+<br>
+
+* Grenzen ziehen: Den eigenen Raum einnehmen und halten können, Grenzen klar machen
+* Kontakt: Nähe und Distanz, Kontakt ablehnen und annehmen, Autonomie bewahren
+* Erdung, Zentrum: In sich selbst Halt finden, authentisch sein in Situationen und Rollen
+* Verbundenheit: Bindung eingehen, Rückhalt erfahren, Unterstützung annehmen
+* Soziale Balance: Ich und Du, Bedürfnisse abstimmen, Durchhalten und Loslassen
+* Gefühle prozessieren: Emotionen und Stress erleben, gesunden Umgang damit praktizieren
+* Selbstausdruck und Stärke: Den Willen nutzen, eine Richtung wählen, Kraft einsetzen
+* Körperbezug: Ankommen im Körper, Wahrnehmung, Atmung, Sicherheit und Lust\
+  {: style="color: #a0522d;"}
+
+\
+Dazu nutzen wir Einzelübungen, Partnerübungen und Gruppenübungen, wir trainieren unsere Fähigkeiten, spielen und nähern uns dem eigenen Körper an. Therapeutische Vorerfahrung oder ein bestimmter Grad an Fitness sind nicht nötig. Jeder Körper ist willkommen. Viele der Übungen können modifiziert und angepasst werden – es geht in erster Linie um die damit verbundenen Gefühle, nicht um ein bestimmtes Ergebnis.\
+<br>
+
+Eine Annäherung an den eigenen Körper, insbesondere im Kontakt mit einem Gegenüber, fördert manchmal Scham, Verlegenheit oder Ängste zu Tage, die aus vergangenen Erlebnissen gespeist sein können. Das ist in Ordnung und gehört zu dem Prozess dazu. Wer sich für das Gruppenangebot interessiert, aber diesbezüglich Befürchtungen hat, kann die körpertherapeutische Arbeit erst einmal im geschützten Rahmen einer Einzelsitzung kennenlernen.\
+<br>
+
+Die Gruppe ist offen, eine Teilnahme an einzelnen Terminen ist möglich. Thematisch bauen die einzelnen Termine aufeinander auf, ein Einstieg ist aber jederzeit willkommen. Wir entwickeln in jeder Stunde das bereits Erlernte weiter, wiederholen Grundsätzliches und probieren Neues.
+
+Um vorherige Anmeldung spätestens 3 Tage vor dem jeweiligen Termin wird gebeten.\
 {: style="color: #a0522d;"}
 
-Bodynamic ist eine anerkannte Psychotherapiemethode, die den Körper in die therapeutische Arbeit mit einbezieht. Sie ist hilfreich, wenn Reden allein nicht weiter führt und unterstützt darin, eingefahrene Muster aufzulösen. In der Einzelsitzung kann ein guter Bezug zu Körper und Gefühlen aufgebaut werden. Die eigene Kraft wird erprobt, authentischer und respektvoller Kontakt erlernt.
 
-In der Auseinandersetzung mit Familie und Beruf oder nach langen Stressphasen ist Bodynamic eine hervorragende Methode, um bei sich anzukommen und greifbare Ergebnisse im Alltag zu erleben.
-
-Auch für Betroffene von emotionaler und körperlicher Gewalt bietet Bodynamic gut umsetzbare Übungen und Haltungen, um mehr Sicherheit in der eigenen Haut zu spüren, die eigene Würde wahrzunehmen und eingerissene Grenzen wieder aufzubauen.
-
-Jede Einzelsitzung beginnt mit einem Gespräch. Im Anschluss wird mit gezielten Übungen, Bewegungen und Atmung an der aktuellen Herausforderung gearbeitet. Dabei werden relevante und direkt einsetzbare Fähigkeiten angewendet. Zum Beispiel:
 
 * Grenzen ziehen: Den eigenen Raum einnehmen und halten können, Grenzen klar machen
 * Positionierung: Sich orientieren, die eigene Haltung finden, auf eigenen Beinen stehen
@@ -26,18 +53,3 @@ Jede Einzelsitzung beginnt mit einem Gespräch. Im Anschluss wird mit gezielten 
 * Energiemanagement: Emotionen und Stress prozessieren, die eigene Sinnlichkeit meistern
 * Selbstausdruck und Behauptung: Den Willen nutzen, Richtung wählen, Kraft einsetzen
 * Realität prüfen: Gegenwart klar trennen von Vergangenem, Rückmeldung holen
-
-\
-Die Körperpsychotherapie Bodynamic findet auf Augenhöhe statt und wird von dem/der Klient*in aktiv mitgestaltet. Jeder Schritt und jede Handlung wird gemeinsam vereinbart, kann abgelehnt, modifiziert oder vertagt werden. Die ehrliche und dosierte Annäherung an den Körper bewirkt Veränderung, die auch nach dem Ende der Therapie erhalten bleibt.\
-<br>
-
-Systemische Therapie 
-{: style="color: #a0522d;"}
-
-Wir schauen gemeinsam auf Ihre Situation, welche Konflikte darin liegen und wohin Sie sich entwickeln wollen. An persönlichen Umständen sind eine Vielzahl von Faktoren und Menschen beteiligt. Wir suchen nach Ihrer Rolle in diesem Gefüge/System und welchen Handlungsspielraum Sie darin haben.\
-\
-Auch innere Anteile Ihrer Persönlichkeit, zum Beispiel ein vorsichtiger, misstrauischer Anteil oder ein unbekümmerter, neugieriger Anteil, werden in der Therapie kennengelernt. Manchmal gibt es Anteile, die aus bestimmten Gründen und Erfahrungen heraus bremsen, zu schädlichen Gewohnheiten neigen oder mehr Aufmerksamkeit brauchen. Daneben tragen wir kluge, starke oder gefühlvolle Anteile in uns, deren Weisheit und Mut sehr weit gehen können. Diese innere Dynamik beeinflusst die äußere Dynamik in unseren Familien, beruflichen Handlungen, der Gesundheit und vielem mehr.
-
-Entsprechend Ihrer konkreten Zielsetzung erarbeiten wir, wie Sie mit Ihrem äußeren System (Familie, Freunde, Arbeitsumfeld etc.) und dem inneren System (die eigenen Anteile ihrer Persönlichkeit) in gutem Kontakt stehen und sich verändern können.
-
-In der Systemischen Therapie gehen wir visuell und plastisch vor und nutzen Stühle, Kissen und Gegenstände, um zu erkennen, wie wir uns anderen Menschen, Jobangeboten, Umzügen usw. gegenüber fühlen. Genauso können wir damit sichtbar machen, welche Anteile in uns Aufmerksamkeit wollen, Zuwendung oder einen Neuanfang.
