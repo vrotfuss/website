@@ -8,8 +8,7 @@ Sonntag, 06. Oktober    2024, 11-13 Uhr (Einlass 10:55 Uhr)\
 Sonntag, 03. November 2024, 11-13 Uhr (Einlass 10:55 Uhr)\
 Sonntag, 01. Dezember 2024, 11-13 Uhr (Einlass 10:55 Uhr)\
 Sonntag, 05. Januar      2025, 11-13 Uhr (Einlass 10:55 Uhr)\
-{: style="color: #a0522d;"}\
-<br>
+{: style="color: #a0522d;"}
 
 Ort: Raumstation 15 – in der Donnersbergerstr. 15, 80634 München (Nähe Rotkreuzplatz)\
 Kosten: 20 Euro pro Termin\
