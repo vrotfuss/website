@@ -4,7 +4,7 @@ title: Körpertherapeutische Gruppe
 ---
 Körperorientierte Psychotherapie in der Gruppe\
 {: style="color: #a0522d;"}
-<br>
+
 
 * Sonntag, 06. Oktober 2024, 11-13 Uhr (Einlass 10:55 Uhr)
 * Sonntag, 03. November 2024, 11-13 Uhr (Einlass 10:55 Uhr)
