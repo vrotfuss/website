@@ -30,6 +30,7 @@ Einmal im Monat treffen wir uns in der Gruppe und probieren uns miteinander aus.
 
 
 Dazu nutzen wir Einzelübungen, Partnerübungen und Gruppenübungen, wir trainieren unsere Fähigkeiten, spielen und nähern uns dem eigenen Körper an. Therapeutische Vorerfahrung oder ein bestimmter Grad an Fitness sind nicht nötig. Jeder Körper ist willkommen. Viele der Übungen können modifiziert und angepasst werden – es geht in erster Linie um die damit verbundenen Gefühle, nicht um ein bestimmtes Ergebnis.
+{: style="color: #a0522d;"}
 <br>
 
 Eine Annäherung an den eigenen Körper, insbesondere im Kontakt mit einem Gegenüber, fördert manchmal Scham, Verlegenheit oder Ängste zu Tage, die aus vergangenen Erlebnissen gespeist sein können. Das ist in Ordnung und gehört zu dem Prozess dazu. Wer sich für das Gruppenangebot interessiert, aber diesbezüglich Befürchtungen hat, kann die körpertherapeutische Arbeit erst einmal im geschützten Rahmen einer Einzelsitzung kennenlernen.
