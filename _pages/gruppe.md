@@ -5,16 +5,14 @@ title: Körpertherapeutische Gruppe
 Körperorientierte Psychotherapie in der Gruppe
 <br>
 
-    • Sonntag, 06. Oktober  2024,  11-13 Uhr (Einlass 10:55 Uhr)
-    • Sonntag, 03. November 2024,  11-13 Uhr (Einlass 10:55 Uhr)
-    • Sonntag, 01. Dezember 2024,  11-13 Uhr (Einlass 10:55 Uhr)
-    • Sonntag, 05. Januar   2025,  11-13 Uhr (Einlass 10:55 Uhr)
-
+* Grenzen ziehen: Den eigenen Raum einnehmen und halten können, Grenzen klar machen
+* Kontakt: Nähe und Distanz, Kontakt ablehnen und annehmen, Autonomie bewahren
+* Erdung, Zentrum: In sich selbst Halt finden, authentisch sein in Situationen und Rollen
+* Verbundenheit: Bindung eingehen, Rückhalt erfahren, Unterstützung annehmen
 
 Ort: Raumstation 15 – in der Donnersbergerstr. 15, 80634 München (Nähe Rotkreuzplatz)
 Kosten: 20 Euro pro Termin
 Mitbringen: Trinkflasche
-
 
 Einmal im Monat treffen wir uns in der Gruppe und probieren uns miteinander aus. In Übungen und Kontakterfahrungen trainieren wir Fähigkeiten, die jeder erwachsene Mensch braucht, um gern im eigenen Körper zu leben:
 
@@ -26,8 +24,7 @@ Einmal im Monat treffen wir uns in der Gruppe und probieren uns miteinander aus.
 * Gefühle prozessieren: Emotionen und Stress erleben, gesunden Umgang damit praktizieren
 * Selbstausdruck und Stärke: Den Willen nutzen, eine Richtung wählen, Kraft einsetzen
 * Körperbezug: Ankommen im Körper, Wahrnehmung, Atmung, Sicherheit und Lust
-{: style="color: #a0522d;"}
-
+  {: style="color: #a0522d;"}
 
 Dazu nutzen wir Einzelübungen, Partnerübungen und Gruppenübungen, wir trainieren unsere Fähigkeiten, spielen und nähern uns dem eigenen Körper an. Therapeutische Vorerfahrung oder ein bestimmter Grad an Fitness sind nicht nötig. Jeder Körper ist willkommen. Viele der Übungen können modifiziert und angepasst werden – es geht in erster Linie um die damit verbundenen Gefühle, nicht um ein bestimmtes Ergebnis.
 {: style="color: #a0522d;"}
