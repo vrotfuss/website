@@ -24,16 +24,17 @@ Einmal im Monat treffen wir uns in der Gruppe und probieren uns miteinander aus.
 * Soziale Balance: Ich und Du, Bedürfnisse abstimmen, Durchhalten und Loslassen
 * Gefühle prozessieren: Emotionen und Stress erleben, gesunden Umgang damit praktizieren
 * Selbstausdruck und Stärke: Den Willen nutzen, eine Richtung wählen, Kraft einsetzen
-* Körperbezug: Ankommen im Körper, Wahrnehmung, Atmung, Sicherheit und Lust {: style="color: #a0522d;"}
+* Körperbezug: Ankommen im Körper, Wahrnehmung, Atmung, Sicherheit und Lust 
 
 
 Dazu nutzen wir Einzelübungen, Partnerübungen und Gruppenübungen, wir trainieren unsere Fähigkeiten, spielen und nähern uns dem eigenen Körper an. Therapeutische Vorerfahrung oder ein bestimmter Grad an Fitness sind nicht nötig. Jeder Körper ist willkommen. Viele der Übungen können modifiziert und angepasst werden – es geht in erster Linie um die damit verbundenen Gefühle, nicht um ein bestimmtes Ergebnis.
+{: style="color: #a0522d;"}
 <br>
 
 Eine Annäherung an den eigenen Körper, insbesondere im Kontakt mit einem Gegenüber, fördert manchmal Scham, Verlegenheit oder Ängste zu Tage, die aus vergangenen Erlebnissen gespeist sein können. Das ist in Ordnung und gehört zu dem Prozess dazu. Wer sich für das Gruppenangebot interessiert, aber diesbezüglich Befürchtungen hat, kann die körpertherapeutische Arbeit erst einmal im geschützten Rahmen einer Einzelsitzung kennenlernen.
 <br>
 
 Die Gruppe ist offen, eine Teilnahme an einzelnen Terminen ist möglich. Thematisch bauen die einzelnen Termine aufeinander auf, ein Einstieg ist aber jederzeit willkommen. Wir entwickeln in jeder Stunde das bereits Erlernte weiter, wiederholen Grundsätzliches und probieren Neues.
+{: style="color: #a0522d;"}
 
 Um vorherige Anmeldung spätestens 3 Tage vor dem jeweiligen Termin wird gebeten.
-{: style="color: #a0522d;"}
