@@ -41,15 +41,3 @@ Die Gruppe ist offen, eine Teilnahme an einzelnen Terminen ist möglich. Themati
 
 Um vorherige Anmeldung spätestens 3 Tage vor dem jeweiligen Termin wird gebeten.\
 {: style="color: #a0522d;"}
-
-
-
-* Grenzen ziehen: Den eigenen Raum einnehmen und halten können, Grenzen klar machen
-* Positionierung: Sich orientieren, die eigene Haltung finden, auf eigenen Beinen stehen
-* Kontaktmuster: Nähe & Distanz, Kontakt ablehnen und annehmen, Autonomie bewahren
-* Zentrierung: In sich selbst Halt finden, authentisch sein in Situationen und Rollen
-* Verbundenheit: Bindung eingehen, Rückhalt erfahren, Unterstützung annehmen
-* Soziale Balance: Durchhalten und Loslassen, Ich und Du, Bedürfnisse abstimmen
-* Energiemanagement: Emotionen und Stress prozessieren, die eigene Sinnlichkeit meistern
-* Selbstausdruck und Behauptung: Den Willen nutzen, Richtung wählen, Kraft einsetzen
-* Realität prüfen: Gegenwart klar trennen von Vergangenem, Rückmeldung holen
