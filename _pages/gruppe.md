@@ -12,12 +12,10 @@ Sonntag, 05. Januar      2025, 11-13 Uhr (Einlass 10:55 Uhr)\
 
 Ort: Raumstation 15 – in der Donnersbergerstr. 15, 80634 München (Nähe Rotkreuzplatz)\
 Kosten: 20 Euro pro Termin\
-Mitbringen: Trinkflasche\
-<br>
+Mitbringen: Trinkflasche
 
 \
-Einmal im Monat treffen wir uns in der Gruppe und probieren uns miteinander aus. In Übungen und Kontakterfahrungen trainieren wir Fähigkeiten, die jeder erwachsene Mensch braucht, um gern im eigenen Körper zu leben:\
-<br>
+Einmal im Monat treffen wir uns in der Gruppe und probieren uns miteinander aus. In Übungen und Kontakterfahrungen trainieren wir Fähigkeiten, die jeder erwachsene Mensch braucht, um gern im eigenen Körper zu leben:
 
 * Grenzen ziehen: Den eigenen Raum einnehmen und halten können, Grenzen klar machen
 * Kontakt: Nähe und Distanz, Kontakt ablehnen und annehmen, Autonomie bewahren
