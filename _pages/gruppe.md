@@ -37,3 +37,4 @@ Die Gruppe ist offen, eine Teilnahme an einzelnen Terminen ist möglich. Themati
 {: style="color: #a0522d;"}
 
 Um vorherige Anmeldung spätestens 3 Tage vor dem jeweiligen Termin wird gebeten.
+Mitbringen: Trinkflasche
