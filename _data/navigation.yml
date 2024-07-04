@@ -1,11 +1,13 @@
 main:
   - title: "Therapie"
     url: /therapie/
+  - title: "Gruppe"
+    url: /gruppe/
   - title: "Termine & Honorar"
     url: /termine/
   - title: "Über mich"
     url: /about/
-  - title: "Links & Weiterführendes"
+  - title: "Weiterführendes"
     url: /links/
   - title: "Kontakt"
     url: /kontakt/
