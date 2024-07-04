@@ -1,6 +1,6 @@
 ---
-permalink: /therapie/
-title: Therapie
+permalink: /gruppe/
+title: Körpertherapeutische Gruppe
 ---
 Ich arbeite mit Systemischer Therapie, Traumatherapie und der körperorientierten Psychotherapie Bodynamic. Entsprechend Ihren Wünschen und dem Bedarf berate ich Sie gern bei der Auswahl einer passenden Methode.
 
