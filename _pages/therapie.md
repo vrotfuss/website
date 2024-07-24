@@ -44,10 +44,9 @@ In der Systemischen Therapie gehen wir visuell und plastisch vor und nutzen Stü
 
 
 
-Traumatherapie\
+Traumatherapie
 {: style="color: #a0522d;"}
 
-\
 Ein Trauma kann durch ein einmaliges Ereignis ausgelöst werden, wie einen Unfall, dem Erleben von Gewalt oder anderen emotional und körperlich überwältigenden Situationen. Hier sprechen wir von einem Schocktrauma.
 
 Daneben gibt es langfristige Umstände, wie Vernachlässigung im Kindesalter oder wiederholt auftretende Übergriffe durch nahestehende Personen, die zu Traumafolgen führen können. In diesen Fällen handelt es sich um ein Entwicklungstrauma oder dem sogenannten komplexen Trauma.
