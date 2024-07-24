@@ -52,7 +52,7 @@ Daneben gibt es langfristige Umstände, wie Vernachlässigung im Kindesalter ode
 
 Da unser Gehirn als natürliche Schutzfunktion traumatische Erinnerung löschen kann, sind Betroffene oft verunsichert darüber, was überhaupt mit ihnen geschehen ist. Erinnerungsfragmente können in der Therapie auftauchen, sind aber nicht zwingend für eine Besserung oder Heilung nötig. Körperlich ist alles, was wir erlebt haben, gespeichert und gibt uns sowohl Auskunft über unsere Beeinträchtigung wie auch den Weg aus ihr heraus.
 
-Bei einem Entwicklungstrauma kann zusätzlich die Tendenz bestehen, Erlebtes zu verharmlosen und zu bagatelliseren. Die Umstände und Beziehungen, in denen wir augewachsen sind, sind erstmal unsere Normalität. Die einzige Realität, die wir für lange Zeit kannten. 
+Bei einem Entwicklungstrauma kann zusätzlich die Tendenz bestehen, Erlebtes zu verharmlosen und zu bagatelliseren. Die Umstände und Beziehungen, in denen wir aufgewachsen sind, sind erstmal unsere Normalität. Die einzige Realität, die wir für lange Zeit kannten. 
 
 In der Traumatherapie erarbeiten wir zunächst einen Zugang zu der eigenen Stabilität und dem Rückhalt, den wir uns selbst geben können. Ist ein gewisses Stabilitätsniveau erreicht, steuern wir in kurzen Intervallen traumatische Inhalte, wie belastende Gefühle oder Erfahrungen, an und gehen dann zurück in einen sicheren Zustand. Mit dieser Art der dosierten Verarbeitung von schmerzlichen Eindrücken, kommen Körper und Psyche in Balance. Das Trauma kann nicht ungeschehen gemacht werden, dessen Folgen allerdings deutlich gemildert werden.
 
