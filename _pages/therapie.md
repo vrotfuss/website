@@ -40,7 +40,7 @@ Auch innere Anteile Ihrer Persönlichkeit, zum Beispiel ein vorsichtiger, misstr
 
 Entsprechend Ihrer konkreten Zielsetzung erarbeiten wir, wie Sie mit Ihrem äußeren System (Familie, Freunde, Arbeitsumfeld etc.) und dem inneren System (die eigenen Anteile ihrer Persönlichkeit) in gutem Kontakt stehen und sich verändern können.
 
-In der Systemischen Therapie gehen wir visuell und plastisch vor und nutzen Stühle, Kissen und Gegenstände, um zu erkennen, wie wir uns anderen Menschen, Jobangeboten, Umzügen usw. gegenüber fühlen. Genauso können wir damit sichtbar machen, welche Anteile in uns Aufmerksamkeit wollen, Zuwendung oder einen Neuanfang.
+In der Systemischen Therapie gehen wir visuell und plastisch vor und nutzen Stühle, Kissen und Gegenstände, um zu erkennen, wie wir uns anderen Menschen, Jobangeboten, Umzügen usw. gegenüber fühlen. Genauso können wir damit sichtbar machen, welche Anteile in uns Aufmerksamkeit wollen, Zuwendung oder einen Neuanfang.\
 <br>
 
 Traumatherapie
