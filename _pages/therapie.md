@@ -2,7 +2,7 @@
 permalink: /therapie/
 title: Therapie
 ---
-Ich arbeite mit Systemischer Therapie, Traumatherapie und der körperorientierten Psychotherapie Bodynamic. Entsprechend Ihren Wünschen und dem Bedarf berate ich Sie gern bei der Auswahl einer passenden Methode.
+Entsprechend Ihren Wünschen und dem Bedarf berate ich Sie gern bei der Auswahl einer passenden therapeutischen Methode.
 
 ![Freunde](/assets/images/Beratung_Freunde_klein.jpg){: .align-center style="max-width: 100%;"}
 
@@ -41,3 +41,21 @@ Auch innere Anteile Ihrer Persönlichkeit, zum Beispiel ein vorsichtiger, misstr
 Entsprechend Ihrer konkreten Zielsetzung erarbeiten wir, wie Sie mit Ihrem äußeren System (Familie, Freunde, Arbeitsumfeld etc.) und dem inneren System (die eigenen Anteile ihrer Persönlichkeit) in gutem Kontakt stehen und sich verändern können.
 
 In der Systemischen Therapie gehen wir visuell und plastisch vor und nutzen Stühle, Kissen und Gegenstände, um zu erkennen, wie wir uns anderen Menschen, Jobangeboten, Umzügen usw. gegenüber fühlen. Genauso können wir damit sichtbar machen, welche Anteile in uns Aufmerksamkeit wollen, Zuwendung oder einen Neuanfang.
+
+
+
+Traumatherapie\
+{: style="color: #a0522d;"}
+
+\
+Ein Trauma kann durch ein einmaliges Ereignis ausgelöst werden, wie einen Unfall, dem Erleben von Gewalt oder anderen emotional und körperlich überwältigenden Situationen. Hier sprechen wir von einem Schocktrauma.
+
+Daneben gibt es langfristige Umstände, wie Vernachlässigung im Kindesalter oder wiederholt auftretende Übergriffe durch nahestehende Personen, die zu Traumafolgen führen können. In diesen Fällen handelt es sich um ein Entwicklungstrauma oder dem sogenannten komplexen Trauma.
+
+Da unser Gehirn als natürliche Schutzfunktion traumatische Erinnerung löschen kann, sind Betroffene oft verunsichert darüber, was überhaupt mit ihnen geschehen ist. Erinnerungsfragmente können in der Therapie auftauchen, sind aber nicht zwingend für eine Besserung oder Heilung nötig. Körperlich ist alles, was wir erlebt haben, gespeichert und gibt uns sowohl Auskunft über unsere Beeinträchtigung wie auch den Weg aus ihr heraus.
+
+Bei einem Entwicklungstrauma kann zusätzlich die Tendenz bestehen, Erlebtes zu verharmlosen und zu bagatelliseren. Die Umstände und Beziehungen, in denen wir augewachsen sind, sind erstmal unsere Normalität. Die einzige Realität, die wir für lange Zeit kannten. 
+
+In der Traumatherapie erarbeiten wir zunächst einen Zugang zu der Fähigkeit, in sich selbst Halt und Stabilität zu finden. Ist ein gewisses Stabilitätsniveau erreicht, steuern wir in kurzen Intervallen traumatische Inhalte, wie belastende Gefühle oder Erfahrungen, an und gehen dann zurück in einen sicheren Zustand. Mit dieser Art der dosierten Verarbeitung von schmerzlichen Eindrücken, kommen Körper und Psyche in Balance. Das Trauma kann nicht ungeschehen gemacht werden, dessen Folgen allerdings deutlich gemildert werden.
+
+Getragen wird die Traumatherapie von Mitgefühl, Aufmerksamkeit und immer wieder der Herstellung von Sicherheit in Körper und Psyche. Wir etablieren damit das Gefühl, zu Hause zu sein in uns selbst und in unserem Tempo Kontakt mit anderen Menschen eingehen zu können.
