@@ -56,4 +56,4 @@ Bei einem Entwicklungstrauma kann zusätzlich die Tendenz bestehen, Erlebtes zu 
 
 In der Traumatherapie erarbeiten wir zunächst einen Zugang zu der eigenen Stabilität und dem Rückhalt, den wir uns selbst geben können. Ist ein gewisses Stabilitätsniveau erreicht, steuern wir in kurzen Intervallen traumatische Inhalte, wie belastende Gefühle oder Erfahrungen, an und gehen dann zurück in einen sicheren Zustand. Mit dieser Art der dosierten Verarbeitung von schmerzlichen Eindrücken, kommen Körper und Psyche in Balance. Das Trauma kann nicht ungeschehen gemacht werden, dessen Folgen allerdings deutlich gemildert werden.
 
-Getragen wird die Traumatherapie von Mitgefühl, Aufmerksamkeit und der wiederholten Herstellung von Sicherheit in Körper und Psyche. Wir etablieren damit das Gefühl, zu Hause zu sein in uns selbst und in unserem Tempo Kontakt mit anderen Menschen eingehen zu können.
+Getragen wird die Traumatherapie von Mitgefühl, Aufmerksamkeit und der wiederholten Herstellung von Sicherheit in Körper und Psyche. Wir etablieren damit das Gefühl, in uns selbst zu Hause zu sein und in unserem Tempo Kontakt mit anderen Menschen eingehen zu können.
