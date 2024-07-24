@@ -43,7 +43,6 @@ Entsprechend Ihrer konkreten Zielsetzung erarbeiten wir, wie Sie mit Ihrem äuß
 In der Systemischen Therapie gehen wir visuell und plastisch vor und nutzen Stühle, Kissen und Gegenstände, um zu erkennen, wie wir uns anderen Menschen, Jobangeboten, Umzügen usw. gegenüber fühlen. Genauso können wir damit sichtbar machen, welche Anteile in uns Aufmerksamkeit wollen, Zuwendung oder einen Neuanfang.
 <br>
 
-
 Traumatherapie
 {: style="color: #a0522d;"}
 
