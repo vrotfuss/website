@@ -28,7 +28,6 @@ Körperorientierte Psychotherapie in der Gruppe
 
 Ort: Raumstation - in der Donnersbergerstr. 15, 80634 München (Nähe Rotkreuzplatz)\
 Kosten: 20 Euro pro Termin
-{: style="color: #a0522d;"}
 
 <br>
 "Wir brauchen in unserer Psyche eine klar gefühlte Grenze zwischen uns und der Außenwelt. Eine klare Grenze stabilisiert und verhindert, dass wir geflutet werden von den Zuständen und Ansprüchen anderer Menschen."  
