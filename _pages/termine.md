@@ -24,6 +24,8 @@ Es gibt keine direkte Parkmöglichkeit vor der Praxis. \
 
 
 
+
+
 Körperorientierte Psychotherapie in der Gruppe
 {: style="color: #a0522d;"}
 
