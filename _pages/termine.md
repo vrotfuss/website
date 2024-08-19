@@ -9,8 +9,6 @@ Termine nach Absprache
 
 Eine Einzelsitzung beinhaltet 60 Minuten in der Praxis und bei Bedarf ein telefonisches Nachgespräch von 20 Minuten. Das vereinbarte Honorar beträgt 80,00 €.
 
-
-
 Terminvereinbarung telefonisch oder per Mail\
 praxis@veronikarotfuss.de\
 0170 - 11 40 99 4
@@ -19,10 +17,8 @@ Ort: Praxis Vita \
 Grillparzerstraße 23\
 81675 München\
 \
-Es gibt keine direkte Parkmöglichkeit vor der Praxis. \
+Es gibt keine Parkplätze vor der Praxis. \
 <br>
-
-
 
 Körperorientierte Psychotherapie in der Gruppe
 {: style="color: #a0522d;"}
@@ -34,7 +30,7 @@ Körperorientierte Psychotherapie in der Gruppe
 
 Ort: Raumstation - in der Donnersbergerstr. 15, 80634 München (Nähe Rotkreuzplatz)\
 Kosten: 20 Euro pro Termin\
-Es gibt keine direkte Parkmöglichkeit vor dem Gruppenraum.
+Es gibt keine Parkplätze vor dem Gruppenraum.
 
 <br>
 "Wir brauchen in unserer Psyche eine klar gefühlte Grenze zwischen uns und der Außenwelt. Eine klare Grenze stabilisiert und verhindert, dass wir geflutet werden von den Zuständen und Ansprüchen anderer Menschen."  
