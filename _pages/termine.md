@@ -7,11 +7,15 @@ title: Termine
 
 Termine nach Absprache
 
+Eine Einzelsitzung beinhaltet 60 Minuten in der Praxis und bei Bedarf ein telefonisches Nachgespräch von 20 Minuten. Das vereinbarte Honorar beträgt 80,00 €.
+
+Terminvereinbarung telefonisch oder per Mail\
+praxis@veronikarotfuss.de\
+0170 - 11 40 99 4
+
 Veronika Rotfuß\
 Grillparzerstraße 23\
-81675 München
-
-Eine Einzelsitzung beinhaltet 60 Minuten in der Praxis und bei Bedarf ein telefonisches Nachgespräch von 20 Minuten. Das vereinbarte Honorar beträgt 80,00 €.\
+81675 München\
 <br>
 
 Körperorientierte Psychotherapie in der Gruppe
@@ -25,12 +29,6 @@ Körperorientierte Psychotherapie in der Gruppe
 Ort: Raumstation - in der Donnersbergerstr. 15, 80634 München (Nähe Rotkreuzplatz)\
 Kosten: 20 Euro pro Termin
 {: style="color: #a0522d;"}
-
-
-
-Terminvereinbarung telefonisch oder per Mail\
-praxis@veronikarotfuss.de\
-0170 - 11 40 99 4
 
 <br>
 "Wir brauchen in unserer Psyche eine klar gefühlte Grenze zwischen uns und der Außenwelt. Eine klare Grenze stabilisiert und verhindert, dass wir geflutet werden von den Zuständen und Ansprüchen anderer Menschen."  
