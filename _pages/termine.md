@@ -20,9 +20,8 @@ Grillparzerstraße 23\
 81675 München\
 \
 Es gibt keine direkte Parkmöglichkeit vor der Praxis. \
+<br>\
 <br>
-
-
 
 
 
