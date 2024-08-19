@@ -28,8 +28,7 @@ Kosten: 20 Euro pro Termin
 
 
 
-Terminvereinbarung telefonisch oder per Mail
-
+Terminvereinbarung telefonisch oder per Mail\
 praxis@veronikarotfuss.de\
 0170 - 11 40 99 4
 
