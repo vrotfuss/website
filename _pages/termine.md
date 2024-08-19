@@ -9,14 +9,18 @@ Termine nach Absprache
 
 Eine Einzelsitzung beinhaltet 60 Minuten in der Praxis und bei Bedarf ein telefonisches Nachgespräch von 20 Minuten. Das vereinbarte Honorar beträgt 80,00 €.
 
+
+
 Terminvereinbarung telefonisch oder per Mail\
 praxis@veronikarotfuss.de\
 0170 - 11 40 99 4
 
-Veronika Rotfuß\
+Ort: Praxis Vita \
 Grillparzerstraße 23\
 81675 München\
 <br>
+
+
 
 Körperorientierte Psychotherapie in der Gruppe
 {: style="color: #a0522d;"}
