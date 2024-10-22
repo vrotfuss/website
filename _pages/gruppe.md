@@ -9,11 +9,11 @@ Körperorientierte Psychotherapie in der Gruppe
 * Sonntag, 03. November 2024, 11-13:30 Uhr
 * Sonntag, 01. Dezember 2024, 11-13:30 Uhr 
 * Sonntag, 05. Januar 2025, 11-13:30 Uhr
-* Sonntag, 09. Februar 2025, 11-13:30 Uhr
-* Sonntag, 09. März 2025, 11-13:30 Uhr
-* Sonntag, 06. April 2025, 11-13:30 Uhr
+* Sonntag, 16. Februar 2025, 11-13:30 Uhr
+* Sonntag, 16. März 2025, 11-13:30 Uhr
+* Sonntag, 13. April 2025, 11-13:30 Uhr
 * Sonntag, 04. Mai 2025, 11-13:30 Uhr
-* Sonntag, 22. Juni 2024, 11-13:30 Uhr
+* Sonntag, 15. Juni 2024, 11-13:30 Uhr
 
 Ort: Raumstation - in der Donnersbergerstr. 15, 80634 München (Nähe Rotkreuzplatz)\
 Kosten: 20 Euro pro Termin\
