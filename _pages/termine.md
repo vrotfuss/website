@@ -20,15 +20,5 @@ Grillparzerstraße 23\
 Es gibt keine Parkplätze vor der Praxis. \
 <br>
 
-Körperorientierte Psychotherapie in der Gruppe
-{: style="color: #a0522d;"}
-
-*
-
-Ort: Raumstation - in der Donnersbergerstr. 15, 80634 München (Nähe Rotkreuzplatz)\
-Kosten: 20 Euro pro Termin\
-Es gibt keine Parkplätze vor dem Gruppenraum.
-
-<br>
 "Wir brauchen in unserer Psyche eine klar gefühlte Grenze zwischen uns und der Außenwelt. Eine klare Grenze stabilisiert und verhindert, dass wir geflutet werden von den Zuständen und Ansprüchen anderer Menschen."  
 {: style="color: #a0522d;"}
