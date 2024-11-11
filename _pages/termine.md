@@ -18,6 +18,8 @@ Grillparzerstraße 23\
 81675 München\
 \
 Es gibt keine Parkplätze vor der Praxis. \
+<br>\
+<br>\
 <br>
 
 "Wir brauchen in unserer Psyche eine klar gefühlte Grenze zwischen uns und der Außenwelt. Eine klare Grenze stabilisiert und verhindert, dass wir geflutet werden von den Zuständen und Ansprüchen anderer Menschen."  
