@@ -7,7 +7,7 @@ title: Termine
 
 Termine nach Absprache
 
-Eine Einzelsitzung beinhaltet 60 Minuten in der Praxis und bei Bedarf ein telefonisches Nachgespräch von 20 Minuten. Das vereinbarte Honorar beträgt 80,00 €.
+Eine Einzelsitzung beinhaltet 60 Minuten in der Praxis und bei Bedarf ein telefonisches Nachgespräch von 20 Minuten. Das vereinbarte Honorar beträgt 90,00 €.
 
 Terminvereinbarung telefonisch oder per Mail\
 praxis@veronikarotfuss.de\
