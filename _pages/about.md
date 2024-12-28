@@ -11,10 +11,10 @@ Ich bin selbst durch Stagnation, Krankheit und Zersplitterung gegangen und musst
 
 * 2024 - 2027 \
   Bodynamic Practicioner Training - Körperpsychotherapie, bei Michael Rupp
-* 2024\
-  Heilpraktikerin für Psychotherapie
 * 2023 - 2024\
   Bodynamic Foundation Training - Körperpsychotherapie, bei Michael Rupp
+* 2024\
+  Heilpraktikerin für Psychotherapie
 * 2020 - 2022\
   Ich-orientierte Identitätstherapie - Systemische Therapie, Teilearbeit, Schwerpunkt Trauma, bei Dagmar Strauß
 * 2020 - 2024 \
