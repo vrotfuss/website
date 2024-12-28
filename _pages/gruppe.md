@@ -5,7 +5,6 @@ title: Körpertherapeutische Gruppe
 Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine
 {: style="color: #a0522d;"}
 
-* Sonntag, 01. Dezember 2024, 11-13:30 Uhr 
 * Sonntag, 05. Januar 2025, 11-13:30 Uhr
 * Sonntag, 16. Februar 2025, 11-13:30 Uhr
 * Sonntag, 16. März 2025, 11-13:30 Uhr
