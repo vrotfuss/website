@@ -17,11 +17,11 @@ Ich bin selbst durch Stagnation, Krankheit und Zersplitterung gegangen und musst
   Heilpraktikerin für Psychotherapie
 * 2020 - 2022\
   Ich-orientierte Identitätstherapie - Systemische Therapie, Teilearbeit, Schwerpunkt Trauma, bei Dagmar Strauß
-* 2020 - 2024 \
+* 2020 - 2025 \
   Regelmäßige Hospitation bei Helmut Glas, Traumatherapie
-* 2015 –  2024\
+* 2015 –  2025\
   Regelmäßige therapeutische Arbeit an eigenen Themen und Selbsterfahrung 
-* 2015 – 2024\
+* 2015 – 2025\
   Mitarbeiterin einer kulturellen Einrichtung in München
 * 2005 – 2015\
   Schauspielengagements an diversen Theatern
