@@ -13,7 +13,6 @@ Terminvereinbarung telefonisch oder per Mail\
 praxis@veronikarotfuss.de\
 0170 - 11 40 99 4
 
-Ort: Praxis Vita \
 Grillparzerstraße 23\
 81675 München\
 \
