@@ -6,9 +6,6 @@ Ich bin Veronika Rotfuß, lebe und arbeite in München und gehe bei jedem halbwe
 
 ![Veronika Rotfuß](/assets/images/About_Veronika_klein.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
 
-Ich bin selbst durch Stagnation, Krankheit und Zersplitterung gegangen und musste manche Dinge ganz von vorne lernen. Phasen von Ohnmacht und Schmerz stehe ich heute mit Offenheit und Geduld gegenüber. Ich weiß, wie hart und verfahren sich eine Situation auch anfühlt, meine Zuwendung und Präsenz wird erst mich und dann meine Umstände verändern. \
-<br>
-
 * 2024 - 2027 \
   Bodynamic Practicioner Training - Körperpsychotherapie, bei Michael Rupp
 * 2023 - 2024\
