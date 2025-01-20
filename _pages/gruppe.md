@@ -33,7 +33,7 @@ Einmal im Monat treffen wir uns in der Gruppe. In Übungen und Kontakterfahrunge
 * Selbstausdruck und Stärke: Den Willen nutzen, eine Richtung wählen, Kraft einsetzen
 * Körperbezug: Ankommen im Körper, Wahrnehmung, Atmung, Sicherheit und Lust 
 
-![](/uploads/körpertherapie2_klein.jpg)
+.![](/uploads/körpertherapie2_klein.jpg) ![](/uploads/körpertherapie3_klein.jpg)
 
 Dazu nutzen wir Einzelübungen, Partner- und Gruppenübungen. Therapeutische Vorerfahrung oder ein bestimmter Grad an Fitness sind nicht nötig. Jeder Körper ist willkommen. Viele der Übungen können modifiziert und angepasst werden – es geht in erster Linie um die damit verbundenen Gefühle, nicht um ein bestimmtes Ergebnis.
 {: style="color: #a0522d;"}
