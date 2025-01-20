@@ -2,6 +2,8 @@
 permalink: /gruppe/
 title: Körpertherapeutische Gruppe
 ---
+![]()
+
 Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine
 {: style="color: #a0522d;"}
 
@@ -30,6 +32,10 @@ Einmal im Monat treffen wir uns in der Gruppe. In Übungen und Kontakterfahrunge
 * Gefühle prozessieren: Emotionen und Stress erleben, gesunden Umgang damit praktizieren
 * Selbstausdruck und Stärke: Den Willen nutzen, eine Richtung wählen, Kraft einsetzen
 * Körperbezug: Ankommen im Körper, Wahrnehmung, Atmung, Sicherheit und Lust 
+
+![](/uploads/körpertherapie2_klein.jpg)
+
+
 
 Dazu nutzen wir Einzelübungen, Partner- und Gruppenübungen. Therapeutische Vorerfahrung oder ein bestimmter Grad an Fitness sind nicht nötig. Jeder Körper ist willkommen. Viele der Übungen können modifiziert und angepasst werden – es geht in erster Linie um die damit verbundenen Gefühle, nicht um ein bestimmtes Ergebnis.
 {: style="color: #a0522d;"}
