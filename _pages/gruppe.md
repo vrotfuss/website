@@ -2,7 +2,7 @@
 permalink: /gruppe/
 title: Körpertherapeutische Gruppe
 ---
-![](/uploads/körpertherapie1_klein.jpg) 
+![](/uploads/körpertherapie1_klein.jpg)
 
 Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine
 {: style="color: #a0522d;"}
@@ -40,7 +40,7 @@ Dazu nutzen wir Einzelübungen, Partner- und Gruppenübungen. Therapeutische Vor
 Eine Annäherung an den eigenen Körper, insbesondere im Kontakt mit einem Gegenüber, fördert manchmal Scham, Verlegenheit oder Ängste zu Tage, die aus vergangenen Erlebnissen gespeist sein können. Das ist in Ordnung und gehört zu dem Prozess dazu. Wer sich für das Gruppenangebot interessiert, aber diesbezüglich Befürchtungen hat, kann die Arbeit erst einmal im geschützten Rahmen einer Einzelsitzung kennenlernen.
 <br>
 
-![](/uploads/körpertherapie3_klein.jpg){: .align-right style="max-width: 45%;"}
+![](/uploads/körpertherapie3_klein.jpg){: .align-left style="max-width: 45%;"}
 Die Gruppe ist offen, eine Teilnahme an einzelnen Terminen ist möglich. Thematisch bauen die Termine aufeinander auf, ein Einstieg ist aber jederzeit willkommen. Wir entwickeln in jeder Stunde das bereits Erlernte weiter, wiederholen Grundsätzliches und probieren Neues.
 {: style="color: #a0522d;"}
 
