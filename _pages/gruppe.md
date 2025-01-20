@@ -34,6 +34,7 @@ Einmal im Monat treffen wir uns in der Gruppe. In Übungen und Kontakterfahrunge
 * Körperbezug: Ankommen im Körper, Wahrnehmung, Atmung, Sicherheit und Lust 
 
 ![](/uploads/körpertherapie2_klein.jpg){: .align-right}
+<br>\
 Dazu nutzen wir Einzelübungen, Partner- und Gruppenübungen. Therapeutische Vorerfahrung oder ein bestimmter Grad an Fitness sind nicht nötig. Jeder Körper ist willkommen. Viele der Übungen können modifiziert und angepasst werden – es geht in erster Linie um die damit verbundenen Gefühle, nicht um ein bestimmtes Ergebnis.
 {: style="color: #a0522d;"}
 
@@ -41,8 +42,10 @@ Eine Annäherung an den eigenen Körper, insbesondere im Kontakt mit einem Gegen
 <br>
 
 ![](/uploads/körpertherapie3_klein.jpg){: .align-left}
+<br>\
 Die Gruppe ist offen, eine Teilnahme an einzelnen Terminen ist möglich. Thematisch bauen die Termine aufeinander auf, ein Einstieg ist aber jederzeit willkommen. Wir entwickeln in jeder Stunde das bereits Erlernte weiter, wiederholen Grundsätzliches und probieren Neues.
 {: style="color: #a0522d;"}
 
-Um vorherige Anmeldung spätestens 3 Tage vor dem jeweiligen Termin wird gebeten.
-Mitbringen: Trinkflasche
+Um vorherige Anmeldung spätestens 3 Tage vor dem jeweiligen Termin wird gebeten. Der Raum ist gut beheizt und das warme Eichenparkett macht ein angenehmes Gefühl beim Bewegen. Es gibt eine kleine Teeküche vor Ort. Der Raum befindet sich im Erdgeschoss und ist barrierefrei erreichbar. Ein barrierefreies WC ist ebenfalls vorhanden.\
+\
+Mitbringen: Bequeme Kleidung und eine Trinkflasche.
