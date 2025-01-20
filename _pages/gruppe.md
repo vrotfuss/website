@@ -2,7 +2,7 @@
 permalink: /gruppe/
 title: Körpertherapeutische Gruppe
 ---
-![](/uploads/körpertherapie1_klein.jpg)
+![](/uploads/körpertherapie1_klein.jpg){: .align-middle style="max-width: 45%;"}
 
 Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine
 {: style="color: #a0522d;"}
