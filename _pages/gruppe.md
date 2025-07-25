@@ -7,10 +7,18 @@ title: Körpertherapeutische Gruppe
 Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine
 {: style="color: #a0522d;"}
 
-* Sonntag, 15. Juni 2025, 11-13:30 Uhr
+
+
 * Sonntag, 05. Oktober 2025, 11-13:30 Uhr
 * Sonntag, 02. November 2025, 11-13:30 Uhr
 * Sonntag, 14. Dezember 2025, 11-13:30 Uhr
+
+
+* Sonntag, 22. März 2026, 11-13:30 Uhr
+* Sonntag, 26. April 2026, 11-13:30 Uhr
+* Sonntag, 17. Mai 2026, 11-13:30 Uhr
+
+
 
 Ort: Raumstation - in der Donnersbergerstr. 15, 80634 München (Nähe Rotkreuzplatz)\
 Kosten: 20 Euro pro Termin\
