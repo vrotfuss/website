@@ -14,7 +14,6 @@ Grillparzerstraße 23
 81675 München
 
 Kosten: 20 Euro pro Termin\
-Es gibt keine Parkplätze vor dem Gruppenraum.
 {: style="color: #a0522d;"}
 
 Einmal im Monat treffen wir uns in der Gruppe. In Übungen und Kontakterfahrungen trainieren wir Fähigkeiten, die jeder erwachsene Mensch braucht, um gern im eigenen Körper zu leben:
