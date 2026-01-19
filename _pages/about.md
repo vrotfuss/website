@@ -1,8 +1,8 @@
 ---
-permalink: /about/
 title: About
+permalink: /about/
 ---
-Ich bin Veronika Rotfuß, lebe und arbeite in München und gehe bei jedem halbwegs guten Wetter mit Freunden in die Berge. Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen und Neues ausprobieren. 
+Ich bin Veronika Rotfuß, lebe und arbeite in München und gehe bei jedem halbwegs guten Wetter mit Freunden in die Berge. Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen und Neues ausprobieren.
 
 ![Veronika Rotfuß](/assets/images/About_Veronika_klein.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
 
@@ -14,11 +14,11 @@ Ich bin Veronika Rotfuß, lebe und arbeite in München und gehe bei jedem halbwe
   Heilpraktikerin für Psychotherapie
 * 2020 - 2022\
   Ich-orientierte Identitätstherapie - Systemische Therapie, Teilearbeit, Schwerpunkt Trauma, bei Dagmar Strauß
-* 2020 - 2025 \
+* 2020 - 2026 \
   Regelmäßige Hospitation bei Helmut Glas, Traumatherapie
-* 2015 –  2025\
-  Regelmäßige therapeutische Arbeit an eigenen Themen und Selbsterfahrung 
-* 2015 – 2025\
+* 2015 –  2026\
+  Regelmäßige therapeutische Arbeit an eigenen Themen und Selbsterfahrung
+* 2015 – 2026\
   Mitarbeiterin einer kulturellen Einrichtung in München
 * 2005 – 2015\
   Schauspielengagements an diversen Theatern
@@ -26,5 +26,5 @@ Ich bin Veronika Rotfuß, lebe und arbeite in München und gehe bei jedem halbwe
   Theaterausbildung in München
 
 <br>
-„Heilung verläuft nicht linear. Wir machen Umwege und nähern uns an. Wir umkreisen uns, bis wir bereit sind für die Begegnung.“  
+„Heilung verläuft nicht linear. Wir machen Umwege und nähern uns an. Wir umkreisen uns, bis wir bereit sind für die Begegnung.“
 {: style="color: #a0522d;"}
