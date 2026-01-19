@@ -7,7 +7,7 @@ permalink: /gruppe/
 Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine
 {: style="color: #a0522d;"}
 
-* Sonntag, der 09.November 2025, von 11-13:00 Uhr
+* Sonntag, der 08. März 2026 von 11-13:00 Uhr
 
 Ort: Praxis Vita (linke Eingangstür)
 Grillparzerstraße 23
