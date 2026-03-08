@@ -12,13 +12,13 @@ Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine
 * Sonntag, der 07. Juni 2026, von 11:00-13:00 Uhr
 
 Ort: Praxis Vita (linke Eingangstür)
-Grillparzerstraße 23, 
+Grillparzerstraße 23,
 81675 München
 
-Kosten: 20 Euro pro Termin\
+Kosten: 20 Euro pro Termin
 {: style="color: #a0522d;"}
 
-Einmal im Monat treffen wir uns in der Gruppe. In Übungen und Kontakterfahrungen trainieren wir Fähigkeiten, die jeder erwachsene Mensch braucht, um gern im eigenen Körper zu leben:
+Wir treffen uns regelmäßig in der Gruppe. In Übungen und Kontakterfahrungen trainieren wir Fähigkeiten, die jeder erwachsene Mensch braucht, um gern im eigenen Körper zu leben:
 
 * Grenzen ziehen: Den eigenen Raum einnehmen und halten können, Grenzen klar machen
 * Kontakt: Nähe und Distanz, Kontakt ablehnen und annehmen, Autonomie bewahren
