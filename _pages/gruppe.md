@@ -2,15 +2,17 @@
 title: Körpertherapeutische Gruppe
 permalink: /gruppe/
 ---
+
 ![](/uploads/körpertherapie1_klein.jpg)
 
 Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine
 {: style="color: #a0522d;"}
 
-* Sonntag, der 08. März 2026 von 11-13:00 Uhr
+* Sonntag, der 03. Mai 2026 von 11:00-13:00 Uhr
+* Sonntag, der 07. Juni 2026, von 11:00-13:00 Uhr
 
 Ort: Praxis Vita (linke Eingangstür)
-Grillparzerstraße 23
+Grillparzerstraße 23, 
 81675 München
 
 Kosten: 20 Euro pro Termin\
@@ -35,7 +37,7 @@ Eine Annäherung an den eigenen Körper, insbesondere im Kontakt mit einem Gegen
 <br>
 
 ![](/uploads/körpertherapie3_klein.jpg){: .align-left}
-<br> Die Gruppe ist offen, eine Teilnahme an einzelnen Terminen ist möglich. Thematisch bauen die Termine aufeinander auf, ein Einstieg ist aber jederzeit willkommen. Wir entwickeln in jeder Stunde das bereits Erlernte weiter, wiederholen Grundsätzliches und probieren Neues.
+<br> Die Gruppe ist offen, eine Teilnahme an einzelnen Terminen ist möglich. Ein Einstieg ist jederzeit willkommen. Wir entwickeln in jeder Stunde das bereits Erlernte weiter, wiederholen Grundsätzliches und probieren Neues.
 {: style="color: #a0522d;"}
 
 Um vorherige Anmeldung wird gebeten.
