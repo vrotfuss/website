@@ -1,16 +1,24 @@
 ---
 permalink: "/kontakt/"
-title: Kontakt
-
+title: Kontakt – Praxis für Traumatherapie in München
+description: "Kontakt zur Praxis von Veronika Rotfuß in München-Bogenhausen. Telefon, E-Mail und Adresse für Terminvereinbarungen."
+excerpt: "Kontakt und Terminvereinbarung für die Praxis in München."
 ---
+# Kontakt – Praxis für Traumatherapie in München
+
+Wenn Sie ein Erstgespräch vereinbaren möchten, erreichen Sie mich telefonisch oder per E-Mail.
+
+## Praxisadresse
+
 Veronika Rotfuß  
 Grillparzerstraße 23  
 81675 München
 
-Terminvereinbarung telefonisch oder per Mail
+## Terminvereinbarung
 
 praxis@veronikarotfuss.de  
 0170 - 11 40 99 4
 
-<br>"Wenn ich mir Ziele vornehme, bei denen mein Körper oder meine Gefühle nicht an Bord sind, werden mich mein Körper und meine Gefühle daran hindern, diese Ziele zu erreichen. Keine Überzeugungsarbeit der Welt wird sie umstimmen. Bin ich jedoch bereit, meinen Gefühlen und meinem Körper zuzuhören, werden sie reden. Und neue Ziele mit mir erarbeiten."  
-{: style="color: #a0522d;"}
+## Hinweise zur Anfahrt
+
+Die Praxis liegt in München-Bogenhausen. Informationen zu Honorar und Sitzungsdauer finden Sie unter [Termine & Honorar](/termine/).
