@@ -6,6 +6,7 @@ permalink: /gruppe/
 ![](/uploads/körpertherapie1_klein.jpg)
 
 Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine werden in Kürze veröffentlicht.
+
 Weiter geht es nach der Sommerpause im September 2026
 {: style="color: #a0522d;"
 
