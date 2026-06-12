@@ -5,11 +5,9 @@ permalink: /gruppe/
 
 ![](/uploads/körpertherapie1_klein.jpg)
 
-Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine
-{: style="color: #a0522d;"}
-
-* Sonntag, der 03. Mai 2026 von 11:00-13:00 Uhr
-* Sonntag, der 07. Juni 2026, von 11:00-13:00 Uhr
+Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine werden in Kürze veröffentlicht.
+Weiter geht es nach der Sommerpause im September 2026
+{: style="color: #a0522d;"
 
 Ort: Praxis Vita (linke Eingangstür)
 Grillparzerstraße 23,
