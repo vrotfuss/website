@@ -1,30 +1,27 @@
 ---
-title: About
-permalink: /about/
+title: Über mich – Veronika Rotfuß
+permalink: /ueber-mich/
+description: "Veronika Rotfuß, Heilpraktikerin für Psychotherapie in München: Qualifikationen, Haltung und therapeutischer Hintergrund."
+excerpt: "Fachlicher Hintergrund und therapeutische Haltung von Veronika Rotfuß in München."
 ---
-Ich bin Veronika Rotfuß, lebe und arbeite in München und gehe bei jedem halbwegs guten Wetter mit Freunden in die Berge. Ich liebe es Menschen zu begleiten, während sie wesentliche Erfahrungen machen und Neues ausprobieren.
+# Über mich – Veronika Rotfuß
 
-![Veronika Rotfuß](/assets/images/About_Veronika_klein.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
+Ich bin Veronika Rotfuß, **Heilpraktikerin für Psychotherapie** in München. In meiner Arbeit verbinde ich traumatherapeutisches Wissen mit körperorientierter und systemischer Praxis.
 
-* 2024 - 2027 \
-  Bodynamic Practicioner Training - Körperpsychotherapie, bei Michael Rupp
-* 2023 - 2024\
-  Bodynamic Foundation Training - Körperpsychotherapie, bei Michael Rupp
-* 2024\
-  Heilpraktikerin für Psychotherapie
-* 2020 - 2022\
-  Ich-orientierte Identitätstherapie - Systemische Therapie, Teilearbeit, Schwerpunkt Trauma, bei Dagmar Strauß
-* 2020 - 2026 \
-  Regelmäßige Hospitation bei Helmut Glas, Traumatherapie
-* 2015 –  2026\
-  Regelmäßige therapeutische Arbeit an eigenen Themen und Selbsterfahrung
-* 2015 – 2026\
-  Mitarbeiterin einer kulturellen Einrichtung in München
-* 2005 – 2015\
-  Schauspielengagements an diversen Theatern
-* 2002 – 2005\
-  Theaterausbildung in München
+![Veronika Rotfuß Portrait](/assets/images/About_Veronika_klein.jpg){: .align-center style="max-width: 40%; border-radius: 50%;"}
 
-<br>
-„Heilung verläuft nicht linear. Wir machen Umwege und nähern uns an. Wir umkreisen uns, bis wir bereit sind für die Begegnung.“
-{: style="color: #a0522d;"}
+## Qualifikationen und Fortbildungen
+
+* 2024 - 2027: Bodynamic Practitioner Training (Körperpsychotherapie), bei Michael Rupp
+* 2023 - 2024: Bodynamic Foundation Training (Körperpsychotherapie), bei Michael Rupp
+* 2024: Heilpraktikerin für Psychotherapie
+* 2020 - 2022: Ich-orientierte Identitätstherapie (IIT), Schwerpunkt Trauma, bei Dagmar Strauß
+* Seit 2020: regelmäßige Hospitation im Bereich Traumatherapie
+
+## Therapeutische Haltung
+
+Ich arbeite transparent, respektvoll und in klarer Abstimmung mit meinen Klientinnen und Klienten. Veränderung entsteht aus Sicherheit, Beziehung und einem gut dosierten Vorgehen.
+
+## Persönlicher Bezug
+
+Ich lebe und arbeite in München. Der Bezug zur Natur und regelmäßige Bewegung sind für mich wichtige Ressourcen und fließen als Haltung in meine therapeutische Arbeit ein.

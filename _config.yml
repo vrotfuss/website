@@ -9,8 +9,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Veronika Rotfuß - Heilpraktikerin für Psychotherpie
-description: systemische Therapie, Traumatherapie, körperorientierte Psychotherapie, Bodynamic
+title: Veronika Rotfuß – Traumatherapie in München
+description: Heilpraktikerin für Psychotherapie in München: Traumatherapie, Gesprächstherapie und körperorientierte Psychotherapie.
 #email: no@mail.fornow
 url: https://veronikarotfuss.de
 baseurl: /
@@ -18,6 +18,7 @@ repository: vrotfuss/website
 github_username: vrotfuss
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
