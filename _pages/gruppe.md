@@ -7,7 +7,15 @@ permalink: /gruppe/
 
 Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine werden in Kürze veröffentlicht.
 
-Weiter geht es nach der Sommerpause im September 2026
+Weiter geht es nach der Sommerpause
+
+Sonntag, den 27. September 2026, von 11-13 Uhr
+
+Sonntag, den 25. Oktober 2026, von 11-13 Uhr
+
+Sonntag, den 29. November 2026, von 11-13 Uhr
+
+Sonntag, den 17. Januar 2027, von 11-13 Uhr 
 {: style="color: #a0522d;"
 
 Ort: Praxis Vita (linke Eingangstür)
