@@ -22,9 +22,7 @@ Sonntag, den 17. Januar 2027, von 11-13 Uhr
 Ort: Praxis Vita (linke Eingangstür)
 Grillparzerstraße 23,
 81675 München
-
 Kosten: 20 Euro pro Termin
-
 
 Wir treffen uns regelmäßig in der Gruppe. In Übungen und Kontakterfahrungen trainieren wir Fähigkeiten, die jeder erwachsene Mensch braucht, um gern im eigenen Körper zu leben:
 
