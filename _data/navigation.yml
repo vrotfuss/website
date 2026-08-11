@@ -1,14 +1,16 @@
 main:
-  - title: "Therapie"
-    url: /therapie/
+  - title: "Traumatherapie"
+    url: /traumatherapie-muenchen/
   - title: "Gruppe"
     url: /gruppe/
   - title: "Termine & Honorar"
     url: /termine/
   - title: "Über mich"
-    url: /about/
+    url: /ueber-mich/
   - title: "Weiterführendes"
     url: /links/
+  - title: "FAQ"
+    url: /faq-traumatherapie-muenchen/
   - title: "Kontakt"
     url: /kontakt/
 contact:

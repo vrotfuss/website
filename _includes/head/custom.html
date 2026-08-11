@@ -2,7 +2,6 @@
 
 <!-- define Content Security Policy and Referrer Policy -->
 <META HTTP-EQUIV='Content-Security-Policy' CONTENT="default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self'; media-src 'self'; frame-src 'self'; font-src 'self'; base-uri 'self'; form-action 'none';">
-
 <META HTTP-EQUIV='Referrer-Policy' CONTENT="no-referrer">
 
 <!-- define favicons -->
@@ -15,5 +14,87 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
-  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ site.title | escape }}",
+  "url": "{{ site.url }}",
+  "inLanguage": "de-DE"
+}
+</script>
+
+{% if page.url == "/" or page.url == "/kontakt/" or page.url == "/traumatherapie-muenchen/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Veronika Rotfuß",
+  "jobTitle": "Heilpraktikerin für Psychotherapie",
+  "url": "{{ site.url }}",
+  "image": "{{ site.url }}/assets/images/bio-photo.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Grillparzerstraße 23",
+    "postalCode": "81675",
+    "addressLocality": "München",
+    "addressCountry": "DE"
+  },
+  "email": "praxis@veronikarotfuss.de",
+  "telephone": "+49-170-1140994",
+  "areaServed": "München"
+}
+</script>
+{% endif %}
+
+{% if page.url != "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Startseite",
+      "item": "{{ site.url }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.title | escape }}",
+      "item": "{{ site.url }}{{ page.url }}"
+    }
+  ]
+}
+</script>
+{% endif %}
+
+{% if page.layout == "post" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title | escape }}",
+  "image": ["{{ site.url }}{{ page.image | default: '/assets/images/Sonne_farbiger_Hintergrund_heller.jpg' }}"],
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "Veronika Rotfuß"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Veronika Rotfuß"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  },
+  "description": "{{ page.excerpt | default: site.description | strip_html | strip_newlines | escape }}"
+}
+</script>
+{% endif %}
+
 <!-- end custom head snippets -->
