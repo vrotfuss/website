@@ -10,9 +10,6 @@ Körperorientierte Psychotherapie in der Gruppe - aktuelle Termine
 Sonntag, den 27. September 2026, von 11-13 Uhr
 {: style="color: #a0522d;"}
 
-Sonntag, den 25. Oktober 2026, von 11-13 Uhr
-{: style="color: #a0522d;"}
-
 Sonntag, den 29. November 2026, von 11-13 Uhr
 {: style="color: #a0522d;"}
 
